@@ -1,0 +1,5 @@
+• Prespecified paired meta-analysis finds 446 recurrent HCC expression changes
+• Locked robustness checks retain 173 discovery genes
+• Identifier harmonization separates missingness from failed replication
+• Two paired RNA-seq cohorts support 161 of 167 jointly testable genes
+• Transcriptome-wide FDR retains 159 of 167 genes

@@ -1,0 +1,96 @@
+{
+  "pdf": "results/manuscript_computational_biology_chemistry/figures/Fig1_discovery_robustness_CBC.pdf",
+  "auditable": true,
+  "verdict": "REVIEW REQUIRED",
+  "page_count": 1,
+  "visible_text_box_count": 81,
+  "text_trace_count": 103,
+  "stroke_path_count": 70,
+  "filled_region_count": 71,
+  "image_region_count": 3,
+  "summary": {
+    "fail": 0,
+    "warn": 3,
+    "contained_fill_overlays": 19,
+    "contained_image_overlays": 2
+  },
+  "thresholds": {
+    "text_inset_pt": 0.6,
+    "min_overlap_ratio": 0.05,
+    "clipping_tolerance_pt": 0.5
+  },
+  "findings": [
+    {
+      "severity": "WARN",
+      "kind": "text-image-edge",
+      "page": 1,
+      "message": "Text partially overlaps the edge of 1 raster image(s)",
+      "text": "exploratory",
+      "text_bbox": [
+        212.45086669921875,
+        232.9113006591797,
+        241.12582397460938,
+        238.7113037109375
+      ],
+      "other_text": null,
+      "other_bbox": [
+        44.63999938964844,
+        234.00001525878906,
+        252.0,
+        383.760009765625
+      ],
+      "object_count": 1,
+      "object_indexes": [
+        1
+      ]
+    },
+    {
+      "severity": "WARN",
+      "kind": "text-image-edge",
+      "page": 1,
+      "message": "Text partially overlaps the edge of 1 raster image(s)",
+      "text": "discovery robust",
+      "text_bbox": [
+        212.45086669921875,
+        249.59762573242188,
+        254.68809509277344,
+        255.3976287841797
+      ],
+      "other_text": null,
+      "other_bbox": [
+        44.63999938964844,
+        234.00001525878906,
+        252.0,
+        383.760009765625
+      ],
+      "object_count": 1,
+      "object_indexes": [
+        1
+      ]
+    },
+    {
+      "severity": "WARN",
+      "kind": "text-image-edge",
+      "page": 1,
+      "message": "Text partially overlaps the edge of 1 raster image(s)",
+      "text": "Primary up",
+      "text_bbox": [
+        317.7640686035156,
+        169.38548278808594,
+        345.798095703125,
+        175.18548583984375
+      ],
+      "other_text": null,
+      "other_bbox": [
+        305.2799987792969,
+        24.479995727539062,
+        511.20001220703125,
+        174.239990234375
+      ],
+      "object_count": 1,
+      "object_indexes": [
+        0
+      ]
+    }
+  ]
+}

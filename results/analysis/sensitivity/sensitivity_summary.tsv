@@ -1,0 +1,15 @@
+metric	value
+locked_candidates	446
+leave_one_out_models	107400
+leave_one_out_failures	0
+candidates_same_direction_all_leave_one_out	446
+candidates_pass_rule_all_leave_one_out	0
+fixed_effect_genes	17900
+fixed_effect_rule_hits	979
+candidates_same_direction_fixed_effect	446
+candidates_pass_rule_fixed_effect	424
+all_samples_retained	438
+all_samples_meta_genes	17899
+all_samples_meta_failures	1
+candidates_same_direction_all_samples	446
+candidates_pass_rule_all_samples	426

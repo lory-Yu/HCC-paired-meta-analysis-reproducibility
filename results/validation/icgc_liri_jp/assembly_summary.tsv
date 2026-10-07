@@ -1,0 +1,10 @@
+metric	value
+project	LIRI-JP
+release	ICGC Data Portal Release 28 (open bucket icgc25k-open)
+exp_files	236
+exp_lines_scanned	8342114
+donors_with_expression	232
+paired_donors	199
+candidate_symbols	292
+expression_unit	raw_read_count
+gene_model	RefSeq gene_id as symbol

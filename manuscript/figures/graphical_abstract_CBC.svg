@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="956.16pt" height="382.32pt" viewBox="0 0 956.16 382.32" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-07T17:16:29.252745</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 382.32 
+L 956.16 382.32 
+L 956.16 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 139.05 248.7888 
+L 264.6 248.7888 
+L 264.6 137.9088 
+L 139.05 137.9088 
+z
+" clip-path="url(#pcf30c6aa57)" style="fill: #315a7d; opacity: 0.95"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 286.92 248.7888 
+L 412.47 248.7888 
+L 412.47 137.9088 
+L 286.92 137.9088 
+z
+" clip-path="url(#pcf30c6aa57)" style="fill: #3c9d9b; opacity: 0.95"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 434.79 248.7888 
+L 560.34 248.7888 
+L 560.34 137.9088 
+L 434.79 137.9088 
+z
+" clip-path="url(#pcf30c6aa57)" style="fill: #e58b4a; opacity: 0.95"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 582.66 248.7888 
+L 708.21 248.7888 
+L 708.21 137.9088 
+L 582.66 137.9088 
+z
+" clip-path="url(#pcf30c6aa57)" style="fill: #7a6ba8; opacity: 0.95"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 730.53 248.7888 
+L 842.13 248.7888 
+L 842.13 137.9088 
+L 730.53 137.9088 
+z
+" clip-path="url(#pcf30c6aa57)" style="fill: #5a9a68; opacity: 0.95"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #ffffff" transform="translate(162.095312 185.192062)">Six GEO cohorts</text>
+    <text style="font-weight: 700; font-size: 10px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #ffffff" transform="translate(152.09375 195.934738)">439 intent-to-analyse</text>
+    <text style="font-weight: 700; font-size: 10px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #ffffff" transform="translate(156.80625 207.665695)">167 complete pairs</text>
+   </g>
+   <g id="text_2">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #ffffff" transform="translate(316.904375 185.192062)">Paired effects</text>
+    <text style="font-weight: 700; font-size: 10px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #ffffff" transform="translate(318.565313 195.780831)">17,900 genes</text>
+    <text style="font-weight: 700; font-size: 10px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #ffffff" transform="translate(301.160625 207.665695)">REML meta-analysis</text>
+   </g>
+   <g id="text_3">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #ffffff" transform="translate(468.951719 185.192062)">Robustness</text>
+    <text style="font-weight: 700; font-size: 10px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #ffffff" transform="translate(451.029844 196.923019)">LOCO + fixed effect</text>
+    <text style="font-weight: 700; font-size: 10px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #ffffff" transform="translate(433.934531 207.665695)">438-sample blocked model</text>
+   </g>
+   <g id="text_4">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #ffffff" transform="translate(603.202969 184.20378)">External RNA-seq</text>
+    <text style="font-weight: 700; font-size: 10px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #ffffff" transform="translate(611.16625 195.934738)">TCGA 50 pairs</text>
+    <text style="font-weight: 700; font-size: 10px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #ffffff" transform="translate(609.865469 207.665695)">ICGC 199 pairs</text>
+   </g>
+   <g id="text_5">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #ffffff" transform="translate(752.419844 184.181905)">159/167 genes</text>
+    <text style="font-weight: 700; font-size: 10px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #ffffff" transform="translate(763.268281 195.934738)">pass dual</text>
+    <text style="font-weight: 700; font-size: 10px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #ffffff" transform="translate(743.825312 207.64382)">genome-wide rule</text>
+   </g>
+   <g id="patch_7">
+    <path d="M 271.061684 193.3488 
+Q 275.758779 193.3488 278.219807 193.3488 
+" style="fill: none; stroke: #3f4650; stroke-width: 2; stroke-linecap: round"/>
+    <path d="M 275.619807 192.0488 
+L 278.219807 193.3488 
+L 275.619807 194.6488 
+" style="fill: none; stroke: #3f4650; stroke-width: 2; stroke-linecap: round"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 418.931684 193.3488 
+Q 423.628779 193.3488 426.089807 193.3488 
+" style="fill: none; stroke: #3f4650; stroke-width: 2; stroke-linecap: round"/>
+    <path d="M 423.489807 192.0488 
+L 426.089807 193.3488 
+L 423.489807 194.6488 
+" style="fill: none; stroke: #3f4650; stroke-width: 2; stroke-linecap: round"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 566.801684 193.3488 
+Q 571.498779 193.3488 573.959807 193.3488 
+" style="fill: none; stroke: #3f4650; stroke-width: 2; stroke-linecap: round"/>
+    <path d="M 571.359807 192.0488 
+L 573.959807 193.3488 
+L 571.359807 194.6488 
+" style="fill: none; stroke: #3f4650; stroke-width: 2; stroke-linecap: round"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 714.671684 193.3488 
+Q 719.368779 193.3488 721.829807 193.3488 
+" style="fill: none; stroke: #3f4650; stroke-width: 2; stroke-linecap: round"/>
+    <path d="M 719.229807 192.0488 
+L 721.829807 193.3488 
+L 719.229807 194.6488 
+" style="fill: none; stroke: #3f4650; stroke-width: 2; stroke-linecap: round"/>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 12px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #3f4650" x="490.032" y="312.878269" transform="rotate(-0 490.032 312.878269)">A recurrent tumour-versus-non-tumour expression core, with multiplicity and missingness reported explicitly</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pcf30c6aa57">
+   <rect x="119.52" y="45.8784" width="741.024" height="294.3864"/>
+  </clipPath>
+ </defs>
+</svg>

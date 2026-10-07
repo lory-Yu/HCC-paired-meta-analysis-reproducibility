@@ -1,0 +1,10 @@
+metric	value
+n_raw_cells	115732
+n_qc_cells	97255
+n_tumor_samples	7
+n_adjacent_samples	4
+n_cell_types	10
+n_candidates	292
+n_candidates_detected	291
+independent_unit	tissue_sample_GSM_not_cell
+min_units_rule	3_samples_per_tissue_class_within_cell_type

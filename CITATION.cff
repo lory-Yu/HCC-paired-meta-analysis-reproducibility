@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this research compendium, please cite the archived release and the associated article."
+title: "Paired-cohort meta-analysis with dual RNA-seq replication of recurrent transcriptional alterations in hepatocellular carcinoma: reproducibility core"
+type: dataset
+version: "0.1.0-submission"
+date-released: "2026-10-07"
+authors:
+  - family-names: "Yu"
+    given-names: "Simiao"
+    affiliation: "School of Food Science and Technology, Jiangnan University"
+  - family-names: "Wang"
+    given-names: "Zhouping"
+    affiliation: "School of Food Science and Technology, Jiangnan University"
+    email: "wangzp@jiangnan.edu.cn"
+keywords:
+  - hepatocellular carcinoma
+  - transcriptomics
+  - paired analysis
+  - meta-analysis
+  - RNA sequencing
+  - reproducibility
+  - bioinformatics
+repository-code: "https://github.com/lory-Yu/HCC-paired-meta-analysis-reproducibility"
+url: "https://github.com/lory-Yu/HCC-paired-meta-analysis-reproducibility"
+abstract: >-
+  Public reproducibility-core release containing the HCC analysis specification,
+  derived discovery and validation tables, source data, executable workflows,
+  environment specifications and integrity checks. Third-party raw data are not redistributed.

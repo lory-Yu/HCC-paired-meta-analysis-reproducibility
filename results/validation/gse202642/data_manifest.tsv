@@ -1,0 +1,10 @@
+dataset	file	url	access_date	notes
+GSE202642	GSE202642_barcodes.tsv.gz	https://ftp.ncbi.nlm.nih.gov/geo/series/GSE202nnn/GSE202642/suppl/GSE202642_barcodes.tsv.gz	2026-09-16	10x barcodes; suffix -1..-11 maps to GSM order
+GSE202642	GSE202642_features.tsv.gz	https://ftp.ncbi.nlm.nih.gov/geo/series/GSE202nnn/GSE202642/suppl/GSE202642_features.tsv.gz	2026-09-16	Ensembl + symbol
+GSE202642	GSE202642_matrix.mtx.gz	https://ftp.ncbi.nlm.nih.gov/geo/series/GSE202nnn/GSE202642/suppl/GSE202642_matrix.mtx.gz	2026-09-16	combined MTX; download without local proxy; sha256 after gzip -t
+GSE202642	GEO_series_record	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE202642	2026-09-16	7 tumor + 4 adjacent HBV-related HCC tissues; PMID 36878933
+HPA	proteinatlas.tsv.zip	https://www.proteinatlas.org/download/proteinatlas.tsv.zip	2026-09-16	IHC ordinal levels not quantitative T/N differential
+ChEMBL	API_status	https://www.ebi.ac.uk/chembl/api/data/status	2026-09-16	ChEMBL_37 at query time
+DepMap_24Q4	CRISPRGeneEffect.csv	https://depmap.org/portal/	2026-09-16	blocked_by_cloudflare_turnstile; figshare API 403 from this host
+CPTAC	pending	NA	2026-09-16	secondary_not_run
+LINCS_CMap	pending	NA	2026-09-16	not_started_awaiting_scRNA_batch_completion_policy

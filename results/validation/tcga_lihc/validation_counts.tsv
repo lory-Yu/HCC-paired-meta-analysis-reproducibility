@@ -1,0 +1,13 @@
+metric	value
+n_expression_samples	424
+n_primary_tumor_in_matrix	371
+n_solid_tissue_normal_in_matrix	50
+n_paired_patients	50
+high_confidence_n	173
+high_same_direction	170
+high_FDR_lt_0_05	159
+high_validated_primary	158
+intermediate_n	119
+intermediate_same_direction	115
+intermediate_FDR_lt_0_05	108
+missing_genes_in_tcga	2

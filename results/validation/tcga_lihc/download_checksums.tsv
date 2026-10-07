@@ -1,0 +1,5 @@
+path	sha256	bytes
+data/external/tcga_lihc/TCGA-LIHC.star_counts.tsv.gz	3e00701195013feeed7addd6c837f08f1188a5f00ba348c3b9190c7110e49a28	40827323
+data/external/tcga_lihc/TCGA-LIHC.clinical.tsv.gz	6b229e56d5d2c9ea447c23e39e8d857014628615d5593c23caa3ac430d6cf457	94749
+data/external/tcga_lihc/gdc_api_status.json	a8b1c69f9cfc678486e1c897aee6d878f47fab9cb4c60eb6818598bbe30a7139	221
+data/external/tcga_lihc/gdc_api_lihc_star_counts_pagination.json	6298120e7bd6cad024c9b184e3f7e321c48d1b240b16c81dee96cb1124f02e9e	139

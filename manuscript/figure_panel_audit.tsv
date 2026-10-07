@@ -1,0 +1,12 @@
+figure	panel	claim	source
+Fig1	a	Six cohorts contributed 167 matched pairs	cohort_differential_summary.tsv
+Fig1	b	446 genes met the frozen discovery rule	meta_all_genes.tsv.gz
+Fig1	c	The 446 hits were stratified by heterogeneity and stability	candidate_downgrade_audit.tsv
+Fig1	d	Sensitivity estimates retained direction	candidate_downgrade_audit.tsv
+Fig2	a	TCGA effects were concordant with discovery effects among 167 jointly estimable genes	tcga_icgc_identifier_harmonized_sensitivity.tsv
+Fig2	b	Identifier-harmonized ICGC effects were concordant with discovery effects among the same 167 genes	tcga_icgc_identifier_harmonized_sensitivity.tsv
+Fig2	c	Candidate-family and genome-wide FDR counts were similar after identifier harmonization	tcga_icgc_identifier_harmonized_sensitivity.tsv
+Fig2	d	159/167 jointly estimable discovery-robust genes passed the dual genome-wide sensitivity rule	tcga_icgc_identifier_harmonized_sensitivity.tsv
+FigS1	a	Broad cell classes in 97,255 QC cells	gse202642/cell_metadata.tsv.gz
+FigS1	b	Discovery robust genes localize across broad classes	candidate_dominant_celltype.tsv
+FigS1	c	Localization patterns are descriptive	candidate_celltype_localization.tsv

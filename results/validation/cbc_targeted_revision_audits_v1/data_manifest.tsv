@@ -1,0 +1,2 @@
+resource	source_url	dataset_doi	local_path	sha256	official_md5
+Allain et al. Supplementary Table 2	https://ndownloader.figshare.com/files/39858996	10.1158/0008-5472.22412988.v1	data/external/allain2016/allain2016_supplementary_table_2.xlsx	eb2c4cefaa4fdb4ec09e0983f49c1dff33e2f24ecc6ec6c8bfc21a5461328e1a	d6591136186c7a4fb075b0f1c19c6ffc

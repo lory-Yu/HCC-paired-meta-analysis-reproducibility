@@ -1,0 +1,6 @@
+endpoint	status	main_manuscript_use	interpretation_boundary	source_or_audit
+six_cohort_paired_meta	complete	primary discovery	Recurrent tumour-non-tumour association; not causal	results/analysis/meta/meta_all_genes.tsv.gz
+tcga_lihc_paired_rnaseq	complete	primary external validation	161/168 genome-wide sensitivity support among estimable discovery robust genes	results/validation/cbc_external_validation_v1/tcga_locked_candidate_multiplicity.tsv
+icgc_liri_jp_paired_rnaseq	complete_identifier_harmonized	primary external validation	170/171 genome-wide sensitivity support; mapping disclosed as post hoc	results/validation/cbc_external_validation_v1/icgc_locked_candidate_identifier_harmonized_sensitivity.tsv
+dual_external_validation	complete_identifier_harmonized	primary external validation	161/167 candidate-family replication; 159/167 genome-wide sensitivity support	results/validation/cbc_external_validation_v1/tcga_icgc_identifier_harmonized_sensitivity.tsv
+gse202642_single_cell	complete_descriptive	supplementary_only	Localization only; seven tumour and four adjacent tissue samples are insufficient for differential replication	results/validation/gse202642/candidate_celltype_localization.tsv

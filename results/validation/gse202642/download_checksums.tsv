@@ -1,0 +1,4 @@
+path	sha256	bytes
+data/external/gse202642/GSE202642_barcodes.tsv.gz	f07062435edf0b634291a5eea40e5e02bdd696b68a2116329d407add7ce468a3	583228
+data/external/gse202642/GSE202642_features.tsv.gz	b2d2499bc5f3f4a8aea2babb1aeb8726bfc6feafba8b27ad5904b3dd39cc28fa	333437
+data/external/gse202642/GSE202642_matrix.mtx.gz	855789bdd50f129a4131d84e285d0b52a1b481644accc747acc6f99dcc28e2e4	698853827

@@ -1,0 +1,25 @@
+{
+  "title": "Paired-cohort meta-analysis with dual RNA-seq replication of recurrent transcriptional alterations in hepatocellular carcinoma: reproducibility core",
+  "description": "Public reproducibility-core release containing HCC analysis protocols, derived discovery and validation tables, figure source data, executable workflows, environment specifications and integrity checks. Third-party raw data are not redistributed or relicensed. Original code is licensed under MIT; original derived data and documentation are licensed under CC BY 4.0.",
+  "creators": [
+    {
+      "name": "Yu, Simiao",
+      "affiliation": "School of Food Science and Technology, Jiangnan University, Wuxi, China"
+    },
+    {
+      "name": "Wang, Zhouping",
+      "affiliation": "School of Food Science and Technology, Jiangnan University, Wuxi, China"
+    }
+  ],
+  "keywords": [
+    "hepatocellular carcinoma",
+    "transcriptomics",
+    "paired analysis",
+    "meta-analysis",
+    "RNA sequencing",
+    "reproducibility",
+    "bioinformatics"
+  ],
+  "upload_type": "software",
+  "access_right": "open"
+}

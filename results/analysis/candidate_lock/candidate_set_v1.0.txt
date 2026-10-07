@@ -1,0 +1,6 @@
+candidate_lock_version=v1.0
+source=results/analysis/meta/meta_primary_hits.tsv
+selection_basis=frozen discovery meta-analysis rule only
+candidate_count=446
+sha256=67c37d32b4764b5a5e5201711909fa173c13075929326c9f57b362e9860eac8e
+external_validation_must_not_modify_discovery_set=true

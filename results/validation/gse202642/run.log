@@ -1,0 +1,28 @@
+Reading GSE202642 matrix (genes x cells)
+as(<dgTMatrix>, "dgCMatrix")不再有用。
+请用'as(., "CsparseMatrix")'。
+见help("Deprecated")和help("Matrix-deprecated")。
+QC retain 97255 / 115732 cells
+PCA on 2000 HVG x 97255 cells
+警告信息:
+In asMethod(object) :
+  sparse->dense coercion: allocating vector of size 1.4 GiB
+            used   (Mb) gc trigger    (Mb)   max used   (Mb)
+Ncells   5177010  276.5    9391742   501.6    7126861  380.7
+Vcells 672176963 5128.4 1380240231 10530.4 1271200054 9698.5
+Building kNN / Louvain clusters
+UMAP
+Cluster markers
+'select()' returned 1:many mapping between keys and columns
+Done GSE202642 localisation
+                  metric                                       value
+                  <char>                                      <char>
+1:           n_raw_cells                                      115732
+2:            n_qc_cells                                       97255
+3:       n_tumor_samples                                           7
+4:    n_adjacent_samples                                           4
+5:          n_cell_types                                          10
+6:          n_candidates                                         292
+7: n_candidates_detected                                         291
+8:      independent_unit                  tissue_sample_GSM_not_cell
+9:        min_units_rule 3_samples_per_tissue_class_within_cell_type

@@ -1,0 +1,18 @@
+CBC/HCC public reproducibility-core verification
+Date: 2026-10-07
+Release: 0.1.0-submission
+
+[PASS] Differential/meta-analysis verification
+[PASS] Sensitivity analysis verification
+[PASS] CBC external validation: full-universe and candidate-family BH recalculation
+[PASS] ICGC identifier-harmonization sensitivity
+[PASS] Targeted revision audit inputs present (Allain comparison and sample-overlap audit)
+[PASS] Public figure builder executed from the standalone release
+
+Pre-manifest content audit:
+- third-party raw data file candidates: 0
+- author-machine absolute-path hits: 0
+- out-of-scope project-term hits: 0
+- credential-pattern hits: 0
+
+The root SHA256SUMS.sha256 file is the final package-integrity check and is generated after the release manifest is finalized.

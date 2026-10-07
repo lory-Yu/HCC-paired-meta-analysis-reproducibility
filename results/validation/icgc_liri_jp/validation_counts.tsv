@@ -1,0 +1,13 @@
+metric	value
+project_confirmed_LIRI_JP	TRUE
+paired	TRUE
+fallback_unpaired	FALSE
+paired_donors	199
+high_confidence_n	173
+high_same_direction	118
+high_FDR_lt_0_05	114
+high_validated_primary	113
+intermediate_n	119
+intermediate_same_direction	94
+intermediate_FDR_lt_0_05	91
+missing_genes	0

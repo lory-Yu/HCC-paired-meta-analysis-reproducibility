@@ -1,0 +1,13 @@
+package_section	include	public_release_action	rationale
+protocol	YES	Publish locked HCC/CBC protocols and change-control records	Documents prespecification and post hoc audits
+workflow	YES	Publish HCC/CBC scripts and environment files	Enables computational reproduction
+manuscript_source_data	YES	Publish all figure source-data tables and their manifest	Supports figure-level verification
+derived_expression_matrices	YES	Publish non-identifiable derived GEO matrices if repository terms permit	Avoids redistributing raw public data
+meta_and_sensitivity_results	YES	Publish complete result tables, including negative and non-estimable outputs	Preserves analysis denominators
+tcga_icgc_results	YES	Publish derived effect tables and manifests only	Primary files remain at source repositories
+single_cell_results	YES	Publish localization tables and cell metadata derived from public data	Supports descriptive localization
+raw_geo_tcga_icgc_files	NO	Provide accession and download manifests only	Third-party public files should not be redundantly redistributed
+author_credentials_or_tokens	NO	Never include	Security and privacy
+temporary_word_lock_files	NO	Exclude files beginning with .~	Not part of the scientific record
+out_of_scope_projects	NO	Keep outside the CBC paper compendium	Not part of the submitted HCC article
+unperformed_experimental_templates	NO	Keep outside the CBC paper compendium	No real experimental data were generated

@@ -1,0 +1,13 @@
+metric	value
+discovery_candidates	446
+loco_same_direction_all_six	446
+fixed_effect_same_direction	446
+all_438_samples_same_direction	446
+prediction_interval_excludes_zero	322
+I2_lt_50	174
+I2_ge_75	152
+unresolved_boundary_warning	1
+used_alternative_optimizer	1
+high_confidence	173
+intermediate_confidence	119
+exploratory_only	154

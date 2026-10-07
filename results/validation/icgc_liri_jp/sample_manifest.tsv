@@ -1,0 +1,446 @@
+icgc_sample_id	icgc_specimen_id	icgc_donor_id	submitted_sample_id	analysis_id	specimen_type	group	project_code	used_in_paired_primary	used_in_unpaired_secondary
+SA594460	SP192261	DO227643	RK039_Liver	RK039_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA594458	SP191990	DO227643	RK039_Cancer	RK039_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA595556	SP192708	DO227801	RK255_Liver	RK255_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA595555	SP192707	DO227801	RK255_Cancer	RK255_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA594394	SP191914	DO23508	RK028_Liver	RK028_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA594388	SP50097	DO23508	RK028_Cancer	RK028_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA594406	SP191925	DO23509	RK030_Liver	RK030_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA594402	SP50099	DO23509	RK030_Cancer	RK030_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA594452	SP191982	DO23510	RK038_Liver	RK038_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA594445	SP50101	DO23510	RK038_Cancer	RK038_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA594473	SP192263	DO23511	RK040_Liver	RK040_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA594463	SP50103	DO23511	RK040_Cancer	RK040_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA594491	SP192390	DO23512	RK043_Liver	RK043_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA594486	SP50105	DO23512	RK043_Cancer	RK043_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA594553	SP192405	DO23513	RK053_Liver	RK053_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA594546	SP50107	DO23513	RK053_Cancer	RK053_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA594561	SP192411	DO23514	RK057_Liver	RK057_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA594558	SP50109	DO23514	RK057_Cancer	RK057_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA594581	SP192417	DO23515	RK060_Liver	RK060_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA594576	SP50111	DO23515	RK060_Cancer	RK060_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA594732	SP192442	DO23516	RK074_Liver	RK074_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA594724	SP50113	DO23516	RK074_Cancer	RK074_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA560643	SP135272	DO23517	RK075_Liver	RK075_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA560644	SP50115	DO23517	RK075_Cancer	RK075_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA594744	SP192445	DO23518	RK076_Liver	RK076_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA594739	SP50117	DO23518	RK076_Cancer	RK076_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA594813	SP192464	DO23519	RK085_Liver	RK085_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA594801	SP50119	DO23519	RK085_Cancer	RK085_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA595191	SP50123	DO23521	RK088_Cancer	RK088_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	False	True
+SA595215	SP192477	DO23523	RK093_Liver	RK093_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA595212	SP50127	DO23523	RK093_Cancer	RK093_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA595221	SP192480	DO23524	RK095_Liver	RK095_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA595217	SP50129	DO23524	RK095_Cancer	RK095_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA595240	SP192495	DO23525	RK101_Liver	RK101_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA595236	SP50131	DO23525	RK101_Cancer	RK101_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA595245	SP192498	DO23526	RK102_Liver	RK102_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA595242	SP50133	DO23526	RK102_Cancer	RK102_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA595254	SP192507	DO23527	RK104_Liver	RK104_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA595251	SP50135	DO23527	RK104_Cancer	RK104_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA595259	SP192511	DO23528	RK105_Liver	RK105_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA595257	SP50137	DO23528	RK105_Cancer	RK105_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA595265	SP192523	DO23529	RK110_Liver	RK110_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA595264	SP50139	DO23529	RK110_Cancer	RK110_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA595279	SP50140	DO23530	RK113_Liver	RK113_Liver-rnaseq	Normal - tissue adjacent to primary	normal	LIRI-JP	True	True
+SA595276	SP50141	DO23530	RK113_Cancer	RK113_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA595291	SP192537	DO23531	RK116_Liver	RK116_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA595288	SP50143	DO23531	RK116_Cancer	RK116_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA595296	SP192541	DO23532	RK117_Liver	RK117_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA595294	SP50145	DO23532	RK117_Cancer	RK117_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA595305	SP192543	DO23533	RK118_Liver	RK118_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA595301	SP50147	DO23533	RK118_Cancer	RK118_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA595318	SP192548	DO23534	RK120_Liver	RK120_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA595315	SP50149	DO23534	RK120_Cancer	RK120_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA595327	SP192555	DO23535	RK124_Liver	RK124_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA595326	SP50151	DO23535	RK124_Cancer	RK124_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA595332	SP192556	DO23536	RK125_Liver	RK125_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA595329	SP50153	DO23536	RK125_Cancer	RK125_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA595341	SP192562	DO23537	RK128_Liver	RK128_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA595338	SP50155	DO23537	RK128_Cancer	RK128_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA595350	SP192577	DO23538	RK131_Liver	RK131_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA595345	SP50157	DO23538	RK131_Cancer	RK131_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA595355	SP50159	DO23539	RK134_Cancer	RK134_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	False	True
+SA595357	SP50161	DO23540	RK135_Cancer	RK135_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	False	True
+SA595368	SP192593	DO23541	RK140_Liver	RK140_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA595366	SP50163	DO23541	RK140_Cancer	RK140_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA595374	SP192603	DO23542	RK143_Liver	RK143_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA595371	SP50165	DO23542	RK143_Cancer	RK143_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA595380	SP192605	DO23543	RK145_Liver	RK145_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA595378	SP50167	DO23543	RK145_Cancer	RK145_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA595386	SP50169	DO23544	RK150_Cancer	RK150_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	False	True
+SA595390	SP192619	DO23545	RK151_Liver	RK151_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA595388	SP50171	DO23545	RK151_Cancer	RK151_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA595392	SP50173	DO23546	RK152_Cancer	RK152_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	False	True
+SA595394	SP50175	DO23547	RK153_Cancer	RK153_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	False	True
+SA595399	SP192627	DO23548	RK155_Liver	RK155_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA595398	SP50177	DO23548	RK155_Cancer	RK155_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA595402	SP50179	DO23549	RK156_Cancer	RK156_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	False	True
+SA595423	SP192644	DO23550	RK164_Liver	RK164_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA595421	SP50181	DO23550	RK164_Cancer	RK164_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA595435	SP192652	DO23551	RK169_Liver	RK169_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA595432	SP50183	DO23551	RK169_Cancer	RK169_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA595448	SP192657	DO23552	RK172_Liver	RK172_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA595446	SP50185	DO23552	RK172_Cancer	RK172_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA560641	SP135203	DO45091	RK001_Liver	RK001_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA560642	SP98896	DO45091	RK001_Cancer	RK001_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA560672	SP135206	DO45092	RK002_Liver	RK002_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA560673	SP98898	DO45092	RK002_Cancer	RK002_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA560694	SP135208	DO45093	RK003_Liver	RK003_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA560695	SP98900	DO45093	RK003_Cancer	RK003_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA560742	SP135210	DO45094	RK004_Liver	RK004_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA560702	SP98902	DO45094	RK004_Cancer	RK004_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA594209	SP191761	DO45095	RK005_Liver	RK005_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA594207	SP98904	DO45095	RK005_Cancer	RK005_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA594235	SP191784	DO45096	RK006_Liver	RK006_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA594223	SP98909	DO45096	RK006_Cancer	RK006_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA594231	SP98907	DO45096	RK006_Cancer2	RK006_Cancer2-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	False	False
+SA560658	SP135212	DO45097	RK007_Liver	RK007_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA560659	SP98913	DO45097	RK007_Cancer	RK007_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA560692	SP135214	DO45099	RK010_Liver	RK010_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA560984	SP98915	DO45099	RK010_Cancer	RK010_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA560734	SP135216	DO45101	RK012_Liver	RK012_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA560735	SP98921	DO45101	RK012_Cancer	RK012_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA560676	SP135218	DO45103	RK014_Liver	RK014_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA560677	SP98925	DO45103	RK014_Cancer	RK014_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA594269	SP98927	DO45105	RK015_Cancer	RK015_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	False	True
+SA594305	SP191843	DO45107	RK016_Liver	RK016_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA594297	SP98933	DO45107	RK016_Cancer	RK016_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA594317	SP191850	DO45109	RK018_Liver	RK018_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA594313	SP98937	DO45109	RK018_Cancer	RK018_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA560674	SP135219	DO45111	RK019_Liver	RK019_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA560675	SP98941	DO45111	RK019_Cancer	RK019_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA560637	SP135221	DO45113	RK020_Liver	RK020_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA560638	SP98945	DO45113	RK020_Cancer	RK020_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA594347	SP191868	DO45115	RK021_Liver	RK021_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA594340	SP98949	DO45115	RK021_Cancer	RK021_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA594361	SP191879	DO45117	RK022_Liver	RK022_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA594358	SP98953	DO45117	RK022_Cancer	RK022_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA560712	SP135223	DO45119	RK023_Liver	RK023_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA560713	SP98955	DO45119	RK023_Cancer	RK023_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA594375	SP191892	DO45121	RK024_Liver	RK024_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA594368	SP98959	DO45121	RK024_Cancer	RK024_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA560635	SP135225	DO45123	RK025_Liver	RK025_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA560636	SP98965	DO45123	RK025_Cancer	RK025_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA560652	SP135227	DO45125	RK026_Liver	RK026_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA560653	SP98967	DO45125	RK026_Cancer	RK026_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA594386	SP191903	DO45127	RK027_Liver	RK027_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA594383	SP98973	DO45127	RK027_Cancer	RK027_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA594398	SP191920	DO45129	RK029_Liver	RK029_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA594397	SP98975	DO45129	RK029_Cancer	RK029_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA560738	SP135229	DO45131	RK031_Liver	RK031_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA560739	SP98981	DO45131	RK031_Cancer	RK031_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA560645	SP135231	DO45133	RK032_Liver	RK032_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA561027	SP98985	DO45133	RK032_Cancer	RK032_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA594418	SP191939	DO45135	RK033_Liver	RK033_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA594414	SP98989	DO45135	RK033_Cancer	RK033_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA560696	SP135233	DO45137	RK034_Liver	RK034_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA560697	SP98991	DO45137	RK034_Cancer	RK034_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA594436	SP191956	DO45139	RK035_Liver	RK035_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA595461	SP191958	DO45139	RK179_Liver	RK179_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	False	False
+SA595544	SP191959	DO45139	RK240_Liver	RK240_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	False	False
+SA594432	SP98997	DO45139	RK035_Cancer	RK035_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA595460	SP99265	DO45139	RK179_Cancer	RK179_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	False	False
+SA595543	SP112184	DO45139	RK240_Cancer	RK240_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	False	False
+SA560740	SP135235	DO45141	RK036_Liver	RK036_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA560741	SP99001	DO45141	RK036_Cancer	RK036_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA595474	SP99003	DO45141	RK189_Cancer	RK189_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	False	False
+SA560646	SP135237	DO45143	RK037_Liver	RK037_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA560647	SP99007	DO45143	RK037_Cancer	RK037_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA560684	SP135241	DO45145	RK041_Liver	RK041_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA560685	SP99011	DO45145	RK041_Cancer	RK041_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA595480	SP192387	DO45147	RK192_Cancer	RK192_Cancer-rnaseq	Metastatic tumour - additional metastatic	other	LIRI-JP	False	False
+SA594502	SP192393	DO45149	RK044_Liver	RK044_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA594500	SP99019	DO45149	RK044_Cancer	RK044_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA594512	SP192395	DO45153	RK047_Liver	RK047_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA594507	SP99029	DO45153	RK047_Cancer	RK047_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA594524	SP192397	DO45155	RK048_Liver	RK048_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA594514	SP99033	DO45155	RK048_Cancer	RK048_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA594531	SP99037	DO45157	RK049_Cancer	RK049_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	False	True
+SA560731	SP135243	DO45159	RK050_Liver	RK050_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA561015	SP99041	DO45159	RK050_Cancer	RK050_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA560629	SP135245	DO45161	RK051_Liver	RK051_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA560630	SP99045	DO45161	RK051_Cancer	RK051_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA560666	SP135247	DO45163	RK052_Liver	RK052_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA560667	SP99049	DO45163	RK052_Cancer	RK052_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA560703	SP135249	DO45165	RK054_Liver	RK054_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA560704	SP99053	DO45165	RK054_Cancer	RK054_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA560729	SP135251	DO45167	RK055_Liver	RK055_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA560730	SP99057	DO45167	RK055_Cancer	RK055_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA560627	SP135253	DO45169	RK056_Liver	RK056_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA560628	SP99061	DO45169	RK056_Cancer	RK056_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA560688	SP135256	DO45171	RK058_Liver	RK058_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA560689	SP99065	DO45171	RK058_Cancer	RK058_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA560705	SP135259	DO45173	RK061_Liver	RK061_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA595596	SP192419	DO45173	RK295_Liver	RK295_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	False	False
+SA595595	SP192418	DO45173	RK295_Cancer	RK295_Cancer-rnaseq	Metastatic tumour - additional metastatic	other	LIRI-JP	False	False
+SA560706	SP99069	DO45173	RK061_Cancer	RK061_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA594593	SP192420	DO45175	RK062_Liver	RK062_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA594586	SP99073	DO45175	RK062_Cancer	RK062_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA560633	SP135261	DO45177	RK063_Liver	RK063_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA560634	SP99077	DO45177	RK063_Cancer	RK063_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA594604	SP192422	DO45179	RK064_Liver	RK064_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA594599	SP99081	DO45179	RK064_Cancer	RK064_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA594612	SP192425	DO45181	RK065_Liver	RK065_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA594611	SP99085	DO45181	RK065_Cancer	RK065_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA594631	SP192427	DO45183	RK066_Liver	RK066_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA594627	SP99089	DO45183	RK066_Cancer	RK066_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA560728	SP99093	DO45185	RK067_Cancer	RK067_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	False	True
+SA594649	SP192434	DO45187	RK068_Liver	RK068_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA594647	SP99097	DO45187	RK068_Cancer	RK068_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA560664	SP135263	DO45189	RK069_Liver	RK069_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA560665	SP99101	DO45189	RK069_Cancer	RK069_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA594686	SP192438	DO45191	RK071_Liver	RK071_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA594677	SP99105	DO45191	RK071_Cancer	RK071_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA594705	SP192439	DO45193	RK072_Liver	RK072_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA594692	SP99109	DO45193	RK072_Cancer	RK072_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA560710	SP135269	DO45195	RK073_Liver	RK073_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA560711	SP99113	DO45195	RK073_Cancer	RK073_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA560736	SP135279	DO45197	RK079_Liver	RK079_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA560737	SP99117	DO45197	RK079_Cancer	RK079_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA594782	SP192454	DO45199	RK080_Liver	RK080_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA594777	SP99121	DO45199	RK080_Cancer	RK080_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA594792	SP99125	DO45201	RK082_Cancer	RK082_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	False	True
+SA560960	SP135283	DO45203	RK083_Liver	RK083_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA560671	SP99129	DO45203	RK083_Cancer	RK083_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA560693	SP99133	DO45205	RK084_Cancer	RK084_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	False	True
+SA594821	SP99137	DO45207	RK086_Cancer	RK086_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	False	True
+SA595199	SP192469	DO45209	RK089_Liver	RK089_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA595195	SP99141	DO45209	RK089_Cancer	RK089_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA595207	SP192471	DO45211	RK091_Liver	RK091_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA595204	SP99145	DO45211	RK091_Cancer	RK091_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA560698	SP135289	DO45213	RK092_Liver	RK092_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA560699	SP99149	DO45213	RK092_Cancer	RK092_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA595226	SP192485	DO45215	RK096_Liver	RK096_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA595224	SP99153	DO45215	RK096_Cancer	RK096_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA560718	SP135295	DO45217	RK098_Liver	RK098_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA560719	SP99157	DO45217	RK098_Cancer	RK098_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA560621	SP135300	DO45219	RK099_Liver	RK099_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA560622	SP99161	DO45219	RK099_Cancer	RK099_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA560708	SP135306	DO45221	RK100_Liver	RK100_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA560709	SP99165	DO45221	RK100_Cancer	RK100_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA560669	SP135309	DO45223	RK103_Liver	RK103_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA560670	SP99169	DO45223	RK103_Cancer	RK103_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA560732	SP135314	DO45225	RK106_Liver	RK106_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA560733	SP99173	DO45225	RK106_Cancer	RK106_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA560639	SP135318	DO45227	RK107_Liver	RK107_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA560640	SP99177	DO45227	RK107_Cancer	RK107_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA560668	SP99181	DO45229	RK108_Cancer	RK108_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	False	True
+SA560690	SP135322	DO45231	RK109_Liver	RK109_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA560691	SP99185	DO45231	RK109_Cancer	RK109_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA560707	SP99189	DO45233	RK112_Cancer	RK112_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	False	True
+SA595284	SP192532	DO45235	RK115_Liver	RK115_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA595282	SP99193	DO45235	RK115_Cancer	RK115_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA560625	SP135329	DO45237	RK126_Liver	RK126_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA560626	SP99197	DO45237	RK126_Cancer	RK126_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA560686	SP135333	DO45239	RK130_Liver	RK130_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA560687	SP99201	DO45239	RK130_Cancer	RK130_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA595353	SP99205	DO45241	RK133_Cancer	RK133_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	False	True
+SA560726	SP135338	DO45243	RK137_Liver	RK137_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA560727	SP99209	DO45243	RK137_Cancer	RK137_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA560623	SP135341	DO45245	RK138_Liver	RK138_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA560624	SP99213	DO45245	RK138_Cancer	RK138_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA560662	SP135344	DO45247	RK141_Liver	RK141_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA560663	SP99217	DO45247	RK141_Cancer	RK141_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA560682	SP135350	DO45249	RK142_Liver	RK142_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA560683	SP99221	DO45249	RK142_Cancer	RK142_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA560660	SP135353	DO45251	RK146_Liver	RK146_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA560661	SP99225	DO45251	RK146_Cancer	RK146_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA561028	SP135358	DO45253	RK147_Liver	RK147_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA560972	SP99229	DO45253	RK147_Cancer	RK147_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA595384	SP99233	DO45255	RK148_Cancer	RK148_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	False	True
+SA595408	SP192631	DO45257	RK157_Liver	RK157_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA595405	SP99237	DO45257	RK157_Cancer	RK157_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA560680	SP135361	DO45259	RK159_Liver	RK159_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA560681	SP99241	DO45259	RK159_Cancer	RK159_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA595426	SP192649	DO45261	RK165_Liver	RK165_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA595425	SP99245	DO45261	RK165_Cancer	RK165_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA560678	SP135365	DO45263	RK166_Liver	RK166_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA560679	SP99249	DO45263	RK166_Cancer	RK166_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA595430	SP192651	DO45265	RK167_Liver	RK167_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA595428	SP99253	DO45265	RK167_Cancer	RK167_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA595439	SP192654	DO45267	RK170_Liver	RK170_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA595437	SP99257	DO45267	RK170_Cancer	RK170_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA595456	SP192661	DO45269	RK177_Liver	RK177_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA595454	SP99261	DO45269	RK177_Cancer	RK177_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA595462	SP99269	DO45273	RK180_Cancer	RK180_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	False	True
+SA595463	SP99271	DO45273	RK180_Cancer2	RK180_Cancer2-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	False	False
+SA570929	SP99273	DO45275	RK182_Liver	RK182_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA570928	SP99275	DO45275	RK182_Cancer	RK182_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA560650	SP135368	DO45277	RK184_Liver	RK184_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA560651	SP99279	DO45277	RK184_Cancer	RK184_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA560714	SP135370	DO45279	RK194_Liver	RK194_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA560715	SP99283	DO45279	RK194_Cancer	RK194_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA560656	SP135377	DO45281	RK204_Liver	RK204_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA560657	SP99287	DO45281	RK204_Cancer	RK204_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA570931	SP99289	DO45281	RK209_Cancer	RK209_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	False	False
+SA560619	SP135384	DO45283	RK208_Liver	RK208_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA560620	SP99293	DO45283	RK208_Cancer	RK208_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA560720	SP135385	DO45285	RK226_Liver	RK226_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA560721	SP99297	DO45285	RK226_Cancer	RK226_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA560724	SP135392	DO45287	RK269_Liver	RK269_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA560725	SP99301	DO45287	RK269_Cancer	RK269_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA560631	SP135394	DO45289	RK272_Liver	RK272_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA560632	SP99305	DO45289	RK272_Cancer	RK272_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA560700	SP99319	DO45297	RK307_Liver	RK307_Liver-rnaseq	Normal - tissue adjacent to primary	normal	LIRI-JP	True	True
+SA560701	SP99321	DO45297	RK307_Cancer	RK307_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA560722	SP99323	DO45299	RK308_Liver	RK308_Liver-rnaseq	Normal - tissue adjacent to primary	normal	LIRI-JP	True	True
+SA560723	SP99325	DO45299	RK308_Cancer	RK308_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA561024	SP99329	DO45301	RK309_Cancer	RK309_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	False	True
+SA560716	SP99331	DO45303	RK310_Liver	RK310_Liver-rnaseq	Normal - tissue adjacent to primary	normal	LIRI-JP	True	True
+SA560717	SP99333	DO45303	RK310_Cancer	RK310_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA560654	SP135396	DO45305	RK312_Liver	RK312_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA560655	SP99337	DO45305	RK312_Cancer	RK312_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA560648	SP135401	DO45307	RK316_Liver	RK316_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA560649	SP99341	DO45307	RK316_Cancer	RK316_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA594568	SP192415	DO48672	RK059_Liver	RK059_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA594564	SP106993	DO48672	RK059_Cancer	RK059_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA594667	SP192437	DO48674	RK070_Liver	RK070_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA594656	SP106998	DO48674	RK070_Cancer	RK070_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA594756	SP192448	DO48677	RK077_Liver	RK077_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA594753	SP107004	DO48677	RK077_Cancer	RK077_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA594789	SP192457	DO48679	RK081_Liver	RK081_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA594785	SP107007	DO48679	RK081_Cancer	RK081_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA595273	SP107009	DO48681	RK111_Liver	RK111_Liver-rnaseq	Normal - tissue adjacent to primary	normal	LIRI-JP	True	True
+SA595269	SP107010	DO48681	RK111_Cancer	RK111_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA595310	SP192545	DO48682	RK119_Liver	RK119_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA595308	SP107012	DO48682	RK119_Cancer	RK119_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA595385	SP107032	DO48693	RK149_Cancer	RK149_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	False	True
+SA595415	SP192636	DO48695	RK162_Liver	RK162_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA595413	SP107037	DO48695	RK162_Cancer	RK162_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA595419	SP192640	DO48697	RK163_Liver	RK163_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA595417	SP107041	DO48697	RK163_Cancer	RK163_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA595444	SP192655	DO48700	RK171_Liver	RK171_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA595441	SP107044	DO48700	RK171_Cancer	RK171_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA595451	SP192659	DO48701	RK175_Liver	RK175_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA595450	SP107047	DO48701	RK175_Cancer	RK175_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA595459	SP192662	DO48704	RK178_Liver	RK178_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA595458	SP107052	DO48704	RK178_Cancer	RK178_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA595465	SP192663	DO48706	RK181_Liver	RK181_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA595464	SP107056	DO48706	RK181_Cancer	RK181_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA595467	SP192664	DO48712	RK185_Liver	RK185_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA595466	SP107063	DO48712	RK185_Cancer	RK185_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA595469	SP192665	DO48715	RK186_Liver	RK186_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA595468	SP107068	DO48715	RK186_Cancer	RK186_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA595471	SP192666	DO48716	RK187_Liver	RK187_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA595470	SP107071	DO48716	RK187_Cancer	RK187_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA595473	SP192668	DO48717	RK188_Liver	RK188_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA595472	SP107073	DO48717	RK188_Cancer	RK188_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA595476	SP192669	DO48719	RK190_Liver	RK190_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA595475	SP107076	DO48719	RK190_Cancer	RK190_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA595478	SP192670	DO48720	RK191_Liver	RK191_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA595477	SP107078	DO48720	RK191_Cancer	RK191_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA595482	SP192671	DO48721	RK193_Liver	RK193_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA595481	SP107080	DO48721	RK193_Cancer	RK193_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA595484	SP192672	DO48723	RK195_Liver	RK195_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA595483	SP107084	DO48723	RK195_Cancer	RK195_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA595486	SP192673	DO48725	RK196_Liver	RK196_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA595485	SP107088	DO48725	RK196_Cancer	RK196_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA595488	SP192674	DO48727	RK197_Liver	RK197_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA595487	SP107091	DO48727	RK197_Cancer	RK197_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA595490	SP192675	DO48728	RK198_Liver	RK198_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA595489	SP107094	DO48728	RK198_Cancer	RK198_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA595492	SP192676	DO48730	RK199_Liver	RK199_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA595491	SP107097	DO48730	RK199_Cancer	RK199_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA595494	SP192678	DO48732	RK200_Liver	RK200_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA595493	SP107101	DO48732	RK200_Cancer	RK200_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA595496	SP192679	DO48733	RK201_Liver	RK201_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA595495	SP107104	DO48733	RK201_Cancer	RK201_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA595498	SP192680	DO48736	RK202_Liver	RK202_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA595497	SP107109	DO48736	RK202_Cancer	RK202_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA595500	SP192681	DO48737	RK205_Liver	RK205_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA595499	SP107111	DO48737	RK205_Cancer	RK205_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA595502	SP192682	DO48741	RK207_Liver	RK207_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA595501	SP107119	DO48741	RK207_Cancer	RK207_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA595503	SP107121	DO48742	RK210_Cancer	RK210_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	False	True
+SA595505	SP192683	DO48743	RK211_Liver	RK211_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA595504	SP107123	DO48743	RK211_Cancer	RK211_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA595507	SP192685	DO48746	RK212_Liver	RK212_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA595506	SP107129	DO48746	RK212_Cancer	RK212_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA595509	SP192686	DO48747	RK213_Liver	RK213_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA595508	SP107132	DO48747	RK213_Cancer	RK213_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA595511	SP192687	DO48751	RK214_Liver	RK214_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA595510	SP107136	DO48751	RK214_Cancer	RK214_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA595513	SP192688	DO48757	RK216_Liver	RK216_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA595512	SP107146	DO48757	RK216_Cancer	RK216_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA595515	SP192689	DO48759	RK217_Liver	RK217_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA595514	SP107150	DO48759	RK217_Cancer	RK217_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA595516	SP107152	DO48760	RK219_Cancer	RK219_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	False	True
+SA595518	SP192690	DO48761	RK220_Liver	RK220_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA595517	SP107155	DO48761	RK220_Cancer	RK220_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA595520	SP192691	DO50774	RK222_Liver	RK222_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA595519	SP112130	DO50774	RK222_Cancer	RK222_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA595521	SP112133	DO50776	RK223_Cancer	RK223_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	False	True
+SA595523	SP192692	DO50778	RK224_Liver	RK224_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA595522	SP112138	DO50778	RK224_Cancer	RK224_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA595525	SP192693	DO50783	RK227_Liver	RK227_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA595524	SP112147	DO50783	RK227_Cancer	RK227_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA595527	SP192694	DO50785	RK228_Liver	RK228_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA595526	SP112152	DO50785	RK228_Cancer	RK228_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA595529	SP192695	DO50787	RK229_Liver	RK229_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA595528	SP112156	DO50787	RK229_Cancer	RK229_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA595531	SP192696	DO50789	RK230_Liver	RK230_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA595530	SP112160	DO50789	RK230_Cancer	RK230_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA595533	SP192697	DO50791	RK232_Liver	RK232_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA595532	SP112165	DO50791	RK232_Cancer	RK232_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA595536	SP192698	DO50793	RK233_Liver	RK233_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA595534	SP112168	DO50793	RK233_Cancer	RK233_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA595535	SP112170	DO50793	RK233_Cancer2	RK233_Cancer2-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	False	False
+SA595538	SP192699	DO50798	RK235_Liver	RK235_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA595537	SP112178	DO50798	RK235_Cancer	RK235_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA595540	SP192700	DO50799	RK236_Liver	RK236_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA595539	SP112180	DO50799	RK236_Cancer	RK236_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA595542	SP192701	DO50800	RK237_Liver	RK237_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA595541	SP112182	DO50800	RK237_Cancer	RK237_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA595546	SP192702	DO50802	RK241_Liver	RK241_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA595545	SP112186	DO50802	RK241_Cancer	RK241_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA595548	SP192703	DO50803	RK243_Liver	RK243_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA595547	SP112188	DO50803	RK243_Cancer	RK243_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA595550	SP192704	DO50804	RK244_Liver	RK244_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA595549	SP112190	DO50804	RK244_Cancer	RK244_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA595552	SP192705	DO50805	RK245_Liver	RK245_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA595551	SP112192	DO50805	RK245_Cancer	RK245_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA595554	SP192706	DO50806	RK254_Liver	RK254_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA595553	SP112194	DO50806	RK254_Cancer	RK254_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA595558	SP192709	DO50807	RK256_Liver	RK256_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA595557	SP112196	DO50807	RK256_Cancer	RK256_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA595560	SP192711	DO50808	RK257_Liver	RK257_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA595559	SP112198	DO50808	RK257_Cancer	RK257_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA595562	SP192712	DO50809	RK258_Liver	RK258_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA595561	SP112201	DO50809	RK258_Cancer	RK258_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA595563	SP112205	DO50811	RK259_Cancer	RK259_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	False	True
+SA595565	SP192713	DO50813	RK260_Liver	RK260_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA595564	SP112208	DO50813	RK260_Cancer	RK260_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA595569	SP192714	DO50814	RK261_Cancer3	RK261_Cancer3-rnaseq	Metastatic tumour - additional metastatic	other	LIRI-JP	False	False
+SA595566	SP112210	DO50814	RK261_Cancer	RK261_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	False	True
+SA595567	SP112211	DO50814	RK261_Cancer2	RK261_Cancer2-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	False	False
+SA595570	SP112213	DO50815	RK262_Cancer	RK262_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	False	True
+SA595572	SP192715	DO50816	RK263_Liver	RK263_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA595571	SP112215	DO50816	RK263_Cancer	RK263_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA595573	SP112217	DO50817	RK264_Cancer	RK264_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	False	True
+SA595575	SP192716	DO50818	RK265_Liver	RK265_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA595574	SP112219	DO50818	RK265_Cancer	RK265_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA595576	SP112221	DO50819	RK266_Cancer	RK266_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	False	True
+SA595578	SP192717	DO50820	RK267_Liver	RK267_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA595577	SP112224	DO50820	RK267_Cancer	RK267_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA595580	SP192718	DO50822	RK268_Liver	RK268_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA595579	SP112228	DO50822	RK268_Cancer	RK268_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA595582	SP192719	DO50825	RK270_Liver	RK270_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA595581	SP112234	DO50825	RK270_Cancer	RK270_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA595584	SP112241	DO50829	RK277_Cancer	RK277_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	False	True
+SA595586	SP192720	DO50832	RK280_Liver	RK280_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA595585	SP112248	DO50832	RK280_Cancer	RK280_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA595587	SP112261	DO50839	RK284_Cancer	RK284_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	False	True
+SA595589	SP192721	DO50840	RK285_Liver	RK285_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA595588	SP112265	DO50840	RK285_Cancer	RK285_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA595590	SP112273	DO50844	RK289_Cancer	RK289_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	False	True
+SA595598	SP112276	DO50845	RK297_Cancer	RK297_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	False	True
+SA595601	SP192723	DO50850	RK305_Liver	RK305_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA595600	SP112288	DO50850	RK305_Cancer	RK305_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA595603	SP192724	DO50855	RK326_Liver	RK326_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA595602	SP112300	DO50855	RK326_Cancer	RK326_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA595607	SP192725	DO50857	RK337_Liver	RK337_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA595606	SP112304	DO50857	RK337_Cancer	RK337_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA595611	SP192727	DO50859	RK338_Liver	RK338_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	True	True
+SA595608	SP112310	DO50859	RK338_Cancer	RK338_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	True	True
+SA595610	SP192726	DO50859	RK338_Cancer2	RK338_Cancer2-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	False	False

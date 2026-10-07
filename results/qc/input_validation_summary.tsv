@@ -1,0 +1,7 @@
+cohort	expected_eligible_gsm	observed_eligible_gsm	missing_gsm	unexpected_gsm	duplicate_gsm	identity_gate
+GSE121248	107	107	0	0	0	pass
+GSE45114	49	49	0	0	0	pass
+GSE57555	10	10	0	0	0	pass
+GSE57957	78	78	0	0	0	pass
+GSE76427	167	167	0	0	0	pass
+GSE84402	28	28	0	0	0	pass

@@ -1,0 +1,13 @@
+evidence_tier	metric	numerator	denominator	proportion
+"discovery_robust"	"locked_total"	173	173	1
+"discovery_robust"	"icgc_estimable"	171	173	0.988439306358381
+"discovery_robust"	"jointly_estimable"	167	173	0.965317919075144
+"discovery_robust"	"dual_same_direction"	166	167	0.994011976047904
+"discovery_robust"	"dual_candidate_family_directional"	161	167	0.964071856287425
+"discovery_robust"	"dual_genomewide_directional"	159	167	0.952095808383234
+"intermediate"	"locked_total"	119	119	1
+"intermediate"	"icgc_estimable"	104	119	0.873949579831933
+"intermediate"	"jointly_estimable"	98	119	0.823529411764706
+"intermediate"	"dual_same_direction"	98	98	1
+"intermediate"	"dual_candidate_family_directional"	97	98	0.989795918367347
+"intermediate"	"dual_genomewide_directional"	97	98	0.989795918367347

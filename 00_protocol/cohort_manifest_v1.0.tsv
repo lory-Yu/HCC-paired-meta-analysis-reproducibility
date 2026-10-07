@@ -1,0 +1,8 @@
+cohort	platform	assay	control_definition	included_tumor	included_control	complete_pairs	primary_samples	secondary_samples	primary_input	preprocessing_policy	status
+GSE121248	GPL570	Affymetrix expression array	adjacent normal liver	70	37	37	74	107	raw CEL	RMA within cohort; paired samples primary	frozen
+GSE45114	GPL5918	CapitalBio two-colour expression array	pericancer liver	24	25	23	46	49	raw GPR	background correction and within-array LOWESS; analyse M-values; paired samples primary	frozen
+GSE57555	GPL16699	Agilent one-colour mRNA array	matched non-tumour liver	5	5	5	10	10	raw feature-extraction TXT	log2 and quantile normalization within cohort; submitted z-scores prohibited for log2FC meta-analysis	frozen
+GSE57957	GPL10558	Illumina HumanHT-12 v4	adjacent non-tumour liver	39	39	37	74	78	series non-normalized file or sample-level values	within-cohort background/log2/quantile processing where supported; paired samples primary	frozen
+GSE76427	GPL10558	Illumina HumanHT-12 v4	adjacent non-tumour liver	115	52	52	104	167	series non-normalized file or sample-level values	within-cohort background/log2/RSN-compatible processing; paired samples primary	frozen
+GSE84402	GPL570	Affymetrix expression array	corresponding non-cancerous liver	14	14	14	28	28	raw CEL	RMA within cohort; paired samples primary	frozen
+TOTAL	NA	NA	NA	267	172	168	336	439	NA	168 independent patients in primary paired analysis	frozen

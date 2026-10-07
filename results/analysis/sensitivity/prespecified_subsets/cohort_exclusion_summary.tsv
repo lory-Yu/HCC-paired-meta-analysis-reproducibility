@@ -1,0 +1,3 @@
+scenario	omitted_cohort	candidates_estimable	candidates_same_direction	same_direction_fraction	effect_pearson_r	candidates_meeting_original_effect_direction_fdr_rule
+"exclude_two_colour_GSE45114"	"GSE45114"	446	446	1	0.997456245956552	445
+"exclude_small_GSE57555"	"GSE57555"	446	446	1	0.999314517627253	63

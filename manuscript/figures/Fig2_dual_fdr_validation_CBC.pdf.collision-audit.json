@@ -1,0 +1,96 @@
+{
+  "pdf": "results/manuscript_computational_biology_chemistry/figures/Fig2_dual_fdr_validation_CBC.pdf",
+  "auditable": true,
+  "verdict": "REVIEW REQUIRED",
+  "page_count": 1,
+  "visible_text_box_count": 91,
+  "text_trace_count": 119,
+  "stroke_path_count": 108,
+  "filled_region_count": 117,
+  "image_region_count": 2,
+  "summary": {
+    "fail": 0,
+    "warn": 3,
+    "contained_fill_overlays": 16,
+    "contained_image_overlays": 0
+  },
+  "thresholds": {
+    "text_inset_pt": 0.6,
+    "min_overlap_ratio": 0.05,
+    "clipping_tolerance_pt": 0.5
+  },
+  "findings": [
+    {
+      "severity": "WARN",
+      "kind": "text-fill-edge",
+      "page": 1,
+      "message": "Text partially overlaps the edge of 1 filled region(s)",
+      "text": "163/168",
+      "text_bbox": [
+        49.708499908447266,
+        219.33712768554688,
+        68.8968505859375,
+        224.63711547851562
+      ],
+      "other_text": null,
+      "other_bbox": [
+        46.483009338378906,
+        222.02932739257812,
+        72.12149810791016,
+        364.7159423828125
+      ],
+      "object_count": 1,
+      "object_indexes": [
+        46000
+      ]
+    },
+    {
+      "severity": "WARN",
+      "kind": "text-fill-edge",
+      "page": 1,
+      "message": "Text partially overlaps the edge of 1 filled region(s)",
+      "text": "161/168",
+      "text_bbox": [
+        85.31751251220703,
+        221.03578186035156,
+        104.50586700439453,
+        226.3357696533203
+      ],
+      "other_text": null,
+      "other_bbox": [
+        82.0920181274414,
+        222.02932739257812,
+        107.73050689697266,
+        364.7159423828125
+      ],
+      "object_count": 1,
+      "object_indexes": [
+        47000
+      ]
+    },
+    {
+      "severity": "WARN",
+      "kind": "text-fill-edge",
+      "page": 1,
+      "message": "Text partially overlaps the edge of 1 filled region(s)",
+      "text": "127/133",
+      "text_bbox": [
+        192.14453125,
+        249.91282653808594,
+        211.33287048339844,
+        255.2128143310547
+      ],
+      "other_text": null,
+      "other_bbox": [
+        188.91903686523438,
+        251.75570678710938,
+        214.55752563476562,
+        364.7159423828125
+      ],
+      "object_count": 1,
+      "object_indexes": [
+        50000
+      ]
+    }
+  ]
+}

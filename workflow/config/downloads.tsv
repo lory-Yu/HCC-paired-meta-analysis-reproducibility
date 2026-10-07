@@ -1,0 +1,13 @@
+cohort	role	url	local_name	required
+GSE121248	raw_archive	https://ftp.ncbi.nlm.nih.gov/geo/series/GSE121nnn/GSE121248/suppl/GSE121248_RAW.tar	GSE121248_RAW.tar	yes
+GSE45114	raw_archive	https://ftp.ncbi.nlm.nih.gov/geo/series/GSE45nnn/GSE45114/suppl/GSE45114_RAW.tar	GSE45114_RAW.tar	yes
+GSE57555	raw_archive	https://ftp.ncbi.nlm.nih.gov/geo/series/GSE57nnn/GSE57555/suppl/GSE57555_RAW.tar	GSE57555_RAW.tar	yes
+GSE57957	raw_archive	https://ftp.ncbi.nlm.nih.gov/geo/series/GSE57nnn/GSE57957/suppl/GSE57957_RAW.tar	GSE57957_RAW.tar	yes
+GSE57957	non_normalized	https://ftp.ncbi.nlm.nih.gov/geo/series/GSE57nnn/GSE57957/suppl/GSE57957_non-normalized.txt.gz	GSE57957_non-normalized.txt.gz	yes
+GSE76427	raw_archive	https://ftp.ncbi.nlm.nih.gov/geo/series/GSE76nnn/GSE76427/suppl/GSE76427_RAW.tar	GSE76427_RAW.tar	yes
+GSE76427	non_normalized	https://ftp.ncbi.nlm.nih.gov/geo/series/GSE76nnn/GSE76427/suppl/GSE76427_non-normalized.txt.gz	GSE76427_non-normalized.txt.gz	yes
+GSE84402	raw_archive	https://ftp.ncbi.nlm.nih.gov/geo/series/GSE84nnn/GSE84402/suppl/GSE84402_RAW.tar	GSE84402_RAW.tar	yes
+GPL570	platform_annotation	https://ftp.ncbi.nlm.nih.gov/geo/platforms/GPLnnn/GPL570/annot/GPL570.annot.gz	GPL570.annot.gz	yes
+GPL5918	platform_annotation	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GPL5918&targ=self&form=text&view=full	GPL5918.txt	yes
+GPL10558	platform_annotation	https://ftp.ncbi.nlm.nih.gov/geo/platforms/GPL10nnn/GPL10558/annot/GPL10558.annot.gz	GPL10558.annot.gz	yes
+GPL16699	platform_annotation	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GPL16699&targ=self&form=text&view=full	GPL16699.txt	yes

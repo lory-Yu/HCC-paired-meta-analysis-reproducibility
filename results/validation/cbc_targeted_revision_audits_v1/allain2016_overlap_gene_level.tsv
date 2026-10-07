@@ -1,0 +1,78 @@
+analysis_set	analysis_denominator	gene_symbol	discovery_effect	allain_direction	current_direction	direction_agreement
+Discovery robust	173	RND3	-1.84002679379805	Down in HCC	Down in HCC	True
+Discovery robust	173	IGF2BP3	1.21678999697816	Up in HCC	Up in HCC	True
+Discovery robust	173	HSP90AB1	1.02034167355242	Up in HCC	Up in HCC	True
+Discovery robust	173	ACSL1	-1.26682780646855	Down in HCC	Down in HCC	True
+Discovery robust	173	HLF	-0.751313094535617	Down in HCC	Down in HCC	True
+Discovery robust	173	GOLT1B	0.736618286908892	Up in HCC	Up in HCC	True
+Discovery robust	173	CDC123	0.721285736831537	Up in HCC	Up in HCC	True
+Discovery robust	173	CKAP5	0.708877065008255	Up in HCC	Up in HCC	True
+Discovery robust	173	NAAA	-0.707102022513009	Down in HCC	Down in HCC	True
+Discovery robust	173	PTH1R	-1.25856254756091	Down in HCC	Down in HCC	True
+Discovery robust	173	NEU1	0.978595181235468	Up in HCC	Up in HCC	True
+Discovery robust	173	DARS2	0.689609587872744	Up in HCC	Up in HCC	True
+Discovery robust	173	ANXA2	0.936268755396114	Up in HCC	Up in HCC	True
+Discovery robust	173	STT3A	0.710896517115349	Up in HCC	Up in HCC	True
+Discovery robust	173	RDH16	-2.07466162682918	Down in HCC	Down in HCC	True
+Discovery robust	173	AXL	-0.663996336227251	Down in HCC	Down in HCC	True
+Discovery robust	173	SAT1	-0.589452475647762	Down in HCC	Down in HCC	True
+Discovery robust	173	CFI	-1.08237328846576	Down in HCC	Down in HCC	True
+Discovery robust	173	HADH	-0.688243040524525	Down in HCC	Down in HCC	True
+Discovery robust	173	ERLIN1	-0.63997475519628	Down in HCC	Down in HCC	True
+Discovery robust	173	SERPINF2	-1.10609646378763	Down in HCC	Down in HCC	True
+Discovery robust	173	SKAP1	-0.950647591317242	Down in HCC	Down in HCC	True
+Discovery robust	173	CYP2C9	-1.7035066795717	Down in HCC	Down in HCC	True
+Discovery robust	173	SAC3D1	0.654563768463305	Up in HCC	Up in HCC	True
+Discovery robust	173	FAH	-0.662421061517516	Down in HCC	Down in HCC	True
+Discovery robust	173	ADAMTS1	-0.64355756699782	Down in HCC	Down in HCC	True
+Discovery robust	173	ASGR1	-0.622313697795153	Down in HCC	Down in HCC	True
+Discovery robust	173	ADH6	-1.18143324900199	Down in HCC	Down in HCC	True
+Discovery robust	173	CTSA	0.70055492538819	Up in HCC	Up in HCC	True
+Discovery robust	173	F2	-0.723000723313057	Down in HCC	Down in HCC	True
+Discovery robust	173	FGG	-0.609406612738417	Down in HCC	Down in HCC	True
+Discovery robust	173	F11	-0.809096291542939	Down in HCC	Down in HCC	True
+Discovery robust	173	EIF3H	0.656294807835636	Up in HCC	Up in HCC	True
+Discovery robust	173	PCK1	-1.80518776938388	Down in HCC	Down in HCC	True
+Discovery robust	173	NFIL3	-0.610172365931913	Down in HCC	Down in HCC	True
+Discovery robust	173	CPN1	-0.642231123835482	Down in HCC	Down in HCC	True
+Discovery robust	173	DHODH	-0.623022601426404	Down in HCC	Down in HCC	True
+Discovery robust	173	FETUB	-0.882625793854712	Down in HCC	Down in HCC	True
+Discovery robust	173	CPS1	-1.07617466464764	Down in HCC	Down in HCC	True
+Jointly estimable in TCGA and ICGC	167	RND3	-1.84002679379805	Down in HCC	Down in HCC	True
+Jointly estimable in TCGA and ICGC	167	HSP90AB1	1.02034167355242	Up in HCC	Up in HCC	True
+Jointly estimable in TCGA and ICGC	167	ACSL1	-1.26682780646855	Down in HCC	Down in HCC	True
+Jointly estimable in TCGA and ICGC	167	HLF	-0.751313094535617	Down in HCC	Down in HCC	True
+Jointly estimable in TCGA and ICGC	167	GOLT1B	0.736618286908892	Up in HCC	Up in HCC	True
+Jointly estimable in TCGA and ICGC	167	CDC123	0.721285736831537	Up in HCC	Up in HCC	True
+Jointly estimable in TCGA and ICGC	167	CKAP5	0.708877065008255	Up in HCC	Up in HCC	True
+Jointly estimable in TCGA and ICGC	167	NAAA	-0.707102022513009	Down in HCC	Down in HCC	True
+Jointly estimable in TCGA and ICGC	167	PTH1R	-1.25856254756091	Down in HCC	Down in HCC	True
+Jointly estimable in TCGA and ICGC	167	NEU1	0.978595181235468	Up in HCC	Up in HCC	True
+Jointly estimable in TCGA and ICGC	167	DARS2	0.689609587872744	Up in HCC	Up in HCC	True
+Jointly estimable in TCGA and ICGC	167	ANXA2	0.936268755396114	Up in HCC	Up in HCC	True
+Jointly estimable in TCGA and ICGC	167	STT3A	0.710896517115349	Up in HCC	Up in HCC	True
+Jointly estimable in TCGA and ICGC	167	RDH16	-2.07466162682918	Down in HCC	Down in HCC	True
+Jointly estimable in TCGA and ICGC	167	AXL	-0.663996336227251	Down in HCC	Down in HCC	True
+Jointly estimable in TCGA and ICGC	167	SAT1	-0.589452475647762	Down in HCC	Down in HCC	True
+Jointly estimable in TCGA and ICGC	167	CFI	-1.08237328846576	Down in HCC	Down in HCC	True
+Jointly estimable in TCGA and ICGC	167	HADH	-0.688243040524525	Down in HCC	Down in HCC	True
+Jointly estimable in TCGA and ICGC	167	ERLIN1	-0.63997475519628	Down in HCC	Down in HCC	True
+Jointly estimable in TCGA and ICGC	167	SERPINF2	-1.10609646378763	Down in HCC	Down in HCC	True
+Jointly estimable in TCGA and ICGC	167	SKAP1	-0.950647591317242	Down in HCC	Down in HCC	True
+Jointly estimable in TCGA and ICGC	167	CYP2C9	-1.7035066795717	Down in HCC	Down in HCC	True
+Jointly estimable in TCGA and ICGC	167	SAC3D1	0.654563768463305	Up in HCC	Up in HCC	True
+Jointly estimable in TCGA and ICGC	167	FAH	-0.662421061517516	Down in HCC	Down in HCC	True
+Jointly estimable in TCGA and ICGC	167	ADAMTS1	-0.64355756699782	Down in HCC	Down in HCC	True
+Jointly estimable in TCGA and ICGC	167	ASGR1	-0.622313697795153	Down in HCC	Down in HCC	True
+Jointly estimable in TCGA and ICGC	167	ADH6	-1.18143324900199	Down in HCC	Down in HCC	True
+Jointly estimable in TCGA and ICGC	167	CTSA	0.70055492538819	Up in HCC	Up in HCC	True
+Jointly estimable in TCGA and ICGC	167	F2	-0.723000723313057	Down in HCC	Down in HCC	True
+Jointly estimable in TCGA and ICGC	167	FGG	-0.609406612738417	Down in HCC	Down in HCC	True
+Jointly estimable in TCGA and ICGC	167	F11	-0.809096291542939	Down in HCC	Down in HCC	True
+Jointly estimable in TCGA and ICGC	167	EIF3H	0.656294807835636	Up in HCC	Up in HCC	True
+Jointly estimable in TCGA and ICGC	167	PCK1	-1.80518776938388	Down in HCC	Down in HCC	True
+Jointly estimable in TCGA and ICGC	167	NFIL3	-0.610172365931913	Down in HCC	Down in HCC	True
+Jointly estimable in TCGA and ICGC	167	CPN1	-0.642231123835482	Down in HCC	Down in HCC	True
+Jointly estimable in TCGA and ICGC	167	DHODH	-0.623022601426404	Down in HCC	Down in HCC	True
+Jointly estimable in TCGA and ICGC	167	FETUB	-0.882625793854712	Down in HCC	Down in HCC	True
+Jointly estimable in TCGA and ICGC	167	CPS1	-1.07617466464764	Down in HCC	Down in HCC	True

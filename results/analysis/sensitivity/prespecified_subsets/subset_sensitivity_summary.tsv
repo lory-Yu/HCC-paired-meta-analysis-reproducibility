@@ -1,0 +1,4 @@
+scenario	included_cohorts	n_cohorts	all_genes_estimable	candidates_estimable	candidates_same_direction	same_direction_fraction	effect_pearson_r	formal_primary_rule_evaluable	interpretation
+"affymetrix_only"	"GSE121248;GSE84402"	2	20848	446	446	1	0.984963048644855	FALSE	"direction-and-effect sensitivity only; not a new discovery screen"
+"illumina_only"	"GSE57957;GSE76427"	2	20750	446	446	1	0.986509946736969	FALSE	"direction-and-effect sensitivity only; not a new discovery screen"
+"adjacent_non_tumour_only"	"GSE121248;GSE57957;GSE76427"	3	17513	446	446	1	0.994403824109955	FALSE	"direction-and-effect sensitivity only; not a new discovery screen"

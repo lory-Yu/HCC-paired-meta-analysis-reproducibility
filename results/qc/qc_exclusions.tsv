@@ -1,0 +1,2 @@
+cohort	gsm	decision	rule	evidence_1	evidence_2	decision_time	notes
+"GSE57957"	"GSM1398656"	"exclude_by_prespecified_rule"	"at least two independent QC flags"	"flag_count=2"	"median_z=0;iqr_z=0;corr_z=-4.223;detection_z=-6.66;missing=0"	"2026-09-16 05:04:47 UTC"	"QC decision uses only pre-specified technical metrics; PCA position is not an exclusion rule"

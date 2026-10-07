@@ -1,0 +1,30 @@
+name: hcc-geo-qc
+channels:
+  - conda-forge
+  - bioconda
+  - nodefaults
+dependencies:
+  - r-base=4.4
+  - bioconductor-affy
+  - bioconductor-affyplm
+  - bioconductor-arrayqualitymetrics
+  - bioconductor-biobase
+  - bioconductor-geoquery
+  - bioconductor-hgu133plus2cdf
+  - bioconductor-hgu133plus2.db
+  - bioconductor-limma
+  - bioconductor-lumi
+  - r-metafor
+  - r-data.table
+  - r-ggplot2
+  - r-jsonlite
+  - r-optparse
+  - r-pheatmap
+  - r-rmarkdown
+  - r-yaml
+  - pandoc
+  - python=3.12
+  - curl
+  - wget
+  - pigz
+  - make

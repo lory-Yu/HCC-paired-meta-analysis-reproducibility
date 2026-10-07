@@ -1,0 +1,6 @@
+gene_id	gene_symbol	discovery_log2FC	tcga_filterByExpr_retained	normal_nonzero_n	tumour_nonzero_n	normal_count_median	tumour_count_median	normal_cpm_median	tumour_cpm_median	samples_cpm_ge_1	samples_total	audit_interpretation
+10643	IGF2BP3	1.21678999697816	FALSE	44	46	3	21.5	0.0703946072921502	0.420777319837922	17	100	present in the released matrix but removed by the unchanged cohort-wide filterByExpr rule
+140809	SRXN1	1.1520181734584	FALSE	19	37	0	2	0	0.0412425317277928	0	100	present in the released matrix but removed by the unchanged cohort-wide filterByExpr rule
+170712	COX7B2	1.28182303563469	FALSE	7	25	0	0.5	0	0.0132578449320032	19	100	present in the released matrix but removed by the unchanged cohort-wide filterByExpr rule
+286499	FAM133A	0.658836124287996	FALSE	42	36	2	4	0.0375164400000083	0.0705638760744639	16	100	present in the released matrix but removed by the unchanged cohort-wide filterByExpr rule
+9506	PAGE4	1.067609529849	FALSE	22	32	0	3.5	0	0.0808670704507929	16	100	present in the released matrix but removed by the unchanged cohort-wide filterByExpr rule

@@ -1,0 +1,15 @@
+Reading Xena GDC TCGA-LIHC STAR counts matrix
+'select()' returned 1:many mapping between keys and columns
+'select()' returned 1:many mapping between keys and columns
+TCGA-LIHC complete tumor-normal pairs: 50
+Running paired limma jointly on locked candidates
+警告信息:
+Zero sample variances detected, have been offset away from zero 
+警告信息:
+Zero sample variances detected, have been offset away from zero 
+`height` was translated to `width`.
+警告信息:
+`geom_errorbarh()` was deprecated in ggplot2 4.0.0.
+ℹ Please use the `orientation` argument of `geom_errorbar()` instead. 
+[1] TRUE
+TCGA-LIHC validation complete: pairs=50 high_validated_primary=158

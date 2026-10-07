@@ -1,0 +1,425 @@
+sample_barcode	patient_id	sample_type	sample_type_id	barcode_type_code	group	in_expression_matrix	used_in_paired_primary	used_in_unpaired_secondary
+"TCGA-2V-A95S-01A"	"TCGA-2V-A95S"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-2Y-A9GS-01A"	"TCGA-2Y-A9GS"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-2Y-A9GT-01A"	"TCGA-2Y-A9GT"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-2Y-A9GU-01A"	"TCGA-2Y-A9GU"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-2Y-A9GV-01A"	"TCGA-2Y-A9GV"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-2Y-A9GW-01A"	"TCGA-2Y-A9GW"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-2Y-A9GX-01A"	"TCGA-2Y-A9GX"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-2Y-A9GY-01A"	"TCGA-2Y-A9GY"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-2Y-A9GZ-01A"	"TCGA-2Y-A9GZ"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-2Y-A9H0-01A"	"TCGA-2Y-A9H0"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-2Y-A9H1-01A"	"TCGA-2Y-A9H1"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-2Y-A9H2-01A"	"TCGA-2Y-A9H2"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-2Y-A9H3-01A"	"TCGA-2Y-A9H3"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-2Y-A9H4-01A"	"TCGA-2Y-A9H4"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-2Y-A9H5-01A"	"TCGA-2Y-A9H5"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-2Y-A9H6-01A"	"TCGA-2Y-A9H6"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-2Y-A9H7-01A"	"TCGA-2Y-A9H7"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-2Y-A9H8-01A"	"TCGA-2Y-A9H8"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-2Y-A9H9-01A"	"TCGA-2Y-A9H9"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-2Y-A9HA-01A"	"TCGA-2Y-A9HA"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-2Y-A9HB-01A"	"TCGA-2Y-A9HB"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-3K-AAZ8-01A"	"TCGA-3K-AAZ8"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-4R-AA8I-01A"	"TCGA-4R-AA8I"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-5C-A9VG-01A"	"TCGA-5C-A9VG"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-5C-A9VH-01A"	"TCGA-5C-A9VH"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-5C-AAPD-01A"	"TCGA-5C-AAPD"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-5R-AA1C-01A"	"TCGA-5R-AA1C"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-5R-AA1D-01A"	"TCGA-5R-AA1D"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-5R-AAAM-01A"	"TCGA-5R-AAAM"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-BC-4072-01B"	"TCGA-BC-4072"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-BC-4073-01B"	"TCGA-BC-4073"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-BC-A10Q-11A"	"TCGA-BC-A10Q"	"Solid Tissue Normal"	"11"	"11"	"normal"	TRUE	TRUE	TRUE
+"TCGA-BC-A10Q-01A"	"TCGA-BC-A10Q"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	TRUE	TRUE
+"TCGA-BC-A10R-11A"	"TCGA-BC-A10R"	"Solid Tissue Normal"	"11"	"11"	"normal"	TRUE	TRUE	TRUE
+"TCGA-BC-A10R-01A"	"TCGA-BC-A10R"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	TRUE	TRUE
+"TCGA-BC-A10S-01A"	"TCGA-BC-A10S"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-BC-A10T-11A"	"TCGA-BC-A10T"	"Solid Tissue Normal"	"11"	"11"	"normal"	TRUE	TRUE	TRUE
+"TCGA-BC-A10T-01A"	"TCGA-BC-A10T"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	TRUE	TRUE
+"TCGA-BC-A10U-11A"	"TCGA-BC-A10U"	"Solid Tissue Normal"	"11"	"11"	"normal"	TRUE	TRUE	TRUE
+"TCGA-BC-A10U-01A"	"TCGA-BC-A10U"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	TRUE	TRUE
+"TCGA-BC-A10W-11A"	"TCGA-BC-A10W"	"Solid Tissue Normal"	"11"	"11"	"normal"	TRUE	TRUE	TRUE
+"TCGA-BC-A10W-01A"	"TCGA-BC-A10W"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	TRUE	TRUE
+"TCGA-BC-A10X-11A"	"TCGA-BC-A10X"	"Solid Tissue Normal"	"11"	"11"	"normal"	TRUE	TRUE	TRUE
+"TCGA-BC-A10X-01A"	"TCGA-BC-A10X"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	TRUE	TRUE
+"TCGA-BC-A10Y-11A"	"TCGA-BC-A10Y"	"Solid Tissue Normal"	"11"	"11"	"normal"	TRUE	TRUE	TRUE
+"TCGA-BC-A10Y-01A"	"TCGA-BC-A10Y"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	TRUE	TRUE
+"TCGA-BC-A10Z-11A"	"TCGA-BC-A10Z"	"Solid Tissue Normal"	"11"	"11"	"normal"	TRUE	TRUE	TRUE
+"TCGA-BC-A10Z-01A"	"TCGA-BC-A10Z"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	TRUE	TRUE
+"TCGA-BC-A110-11A"	"TCGA-BC-A110"	"Solid Tissue Normal"	"11"	"11"	"normal"	TRUE	TRUE	TRUE
+"TCGA-BC-A110-01A"	"TCGA-BC-A110"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	TRUE	TRUE
+"TCGA-BC-A112-01A"	"TCGA-BC-A112"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-BC-A216-11A"	"TCGA-BC-A216"	"Solid Tissue Normal"	"11"	"11"	"normal"	TRUE	TRUE	TRUE
+"TCGA-BC-A216-01A"	"TCGA-BC-A216"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	TRUE	TRUE
+"TCGA-BC-A217-01A"	"TCGA-BC-A217"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-BC-A3KF-01A"	"TCGA-BC-A3KF"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-BC-A3KG-01A"	"TCGA-BC-A3KG"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-BC-A5W4-01A"	"TCGA-BC-A5W4"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-BC-A69H-01A"	"TCGA-BC-A69H"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-BC-A69I-01A"	"TCGA-BC-A69I"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-BC-A8YO-01A"	"TCGA-BC-A8YO"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-BD-A2L6-11A"	"TCGA-BD-A2L6"	"Solid Tissue Normal"	"11"	"11"	"normal"	TRUE	TRUE	TRUE
+"TCGA-BD-A2L6-01A"	"TCGA-BD-A2L6"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	TRUE	TRUE
+"TCGA-BD-A3EP-11A"	"TCGA-BD-A3EP"	"Solid Tissue Normal"	"11"	"11"	"normal"	TRUE	TRUE	TRUE
+"TCGA-BD-A3EP-01A"	"TCGA-BD-A3EP"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	TRUE	TRUE
+"TCGA-BD-A3ER-01A"	"TCGA-BD-A3ER"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-BW-A5NO-01A"	"TCGA-BW-A5NO"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-BW-A5NP-01A"	"TCGA-BW-A5NP"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-BW-A5NQ-01A"	"TCGA-BW-A5NQ"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-CC-5258-01A"	"TCGA-CC-5258"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-CC-5259-01A"	"TCGA-CC-5259"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-CC-5260-01A"	"TCGA-CC-5260"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-CC-5261-01A"	"TCGA-CC-5261"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-CC-5262-01A"	"TCGA-CC-5262"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-CC-5263-01A"	"TCGA-CC-5263"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-CC-5264-01A"	"TCGA-CC-5264"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-CC-A123-01A"	"TCGA-CC-A123"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-CC-A1HT-01A"	"TCGA-CC-A1HT"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-CC-A3M9-01A"	"TCGA-CC-A3M9"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-CC-A3MA-01A"	"TCGA-CC-A3MA"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-CC-A3MB-01A"	"TCGA-CC-A3MB"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-CC-A3MC-01A"	"TCGA-CC-A3MC"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-CC-A5UC-01A"	"TCGA-CC-A5UC"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-CC-A5UD-01A"	"TCGA-CC-A5UD"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-CC-A5UE-01A"	"TCGA-CC-A5UE"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-CC-A7IE-01A"	"TCGA-CC-A7IE"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-CC-A7IF-01A"	"TCGA-CC-A7IF"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-CC-A7IG-01A"	"TCGA-CC-A7IG"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-CC-A7IH-01A"	"TCGA-CC-A7IH"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-CC-A7II-01A"	"TCGA-CC-A7II"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-CC-A7IJ-01A"	"TCGA-CC-A7IJ"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-CC-A7IK-01A"	"TCGA-CC-A7IK"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-CC-A7IL-01A"	"TCGA-CC-A7IL"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-CC-A8HS-01A"	"TCGA-CC-A8HS"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-CC-A8HT-01A"	"TCGA-CC-A8HT"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-CC-A8HU-01A"	"TCGA-CC-A8HU"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-CC-A8HV-01A"	"TCGA-CC-A8HV"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-CC-A9FS-01A"	"TCGA-CC-A9FS"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-CC-A9FU-01A"	"TCGA-CC-A9FU"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-CC-A9FV-01A"	"TCGA-CC-A9FV"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-CC-A9FW-01A"	"TCGA-CC-A9FW"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-DD-A113-11A"	"TCGA-DD-A113"	"Solid Tissue Normal"	"11"	"11"	"normal"	TRUE	TRUE	TRUE
+"TCGA-DD-A113-01A"	"TCGA-DD-A113"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	TRUE	TRUE
+"TCGA-DD-A114-11A"	"TCGA-DD-A114"	"Solid Tissue Normal"	"11"	"11"	"normal"	TRUE	TRUE	TRUE
+"TCGA-DD-A114-01A"	"TCGA-DD-A114"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	TRUE	TRUE
+"TCGA-DD-A115-01A"	"TCGA-DD-A115"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-DD-A116-11A"	"TCGA-DD-A116"	"Solid Tissue Normal"	"11"	"11"	"normal"	TRUE	TRUE	TRUE
+"TCGA-DD-A116-01A"	"TCGA-DD-A116"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	TRUE	TRUE
+"TCGA-DD-A118-11A"	"TCGA-DD-A118"	"Solid Tissue Normal"	"11"	"11"	"normal"	TRUE	TRUE	TRUE
+"TCGA-DD-A118-01A"	"TCGA-DD-A118"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	TRUE	TRUE
+"TCGA-DD-A119-11A"	"TCGA-DD-A119"	"Solid Tissue Normal"	"11"	"11"	"normal"	TRUE	TRUE	TRUE
+"TCGA-DD-A119-01A"	"TCGA-DD-A119"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	TRUE	TRUE
+"TCGA-DD-A11A-11A"	"TCGA-DD-A11A"	"Solid Tissue Normal"	"11"	"11"	"normal"	TRUE	TRUE	TRUE
+"TCGA-DD-A11A-01A"	"TCGA-DD-A11A"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	TRUE	TRUE
+"TCGA-DD-A11B-11A"	"TCGA-DD-A11B"	"Solid Tissue Normal"	"11"	"11"	"normal"	TRUE	TRUE	TRUE
+"TCGA-DD-A11B-01A"	"TCGA-DD-A11B"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	TRUE	TRUE
+"TCGA-DD-A11C-11A"	"TCGA-DD-A11C"	"Solid Tissue Normal"	"11"	"11"	"normal"	TRUE	TRUE	TRUE
+"TCGA-DD-A11C-01A"	"TCGA-DD-A11C"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	TRUE	TRUE
+"TCGA-DD-A11D-11A"	"TCGA-DD-A11D"	"Solid Tissue Normal"	"11"	"11"	"normal"	TRUE	TRUE	TRUE
+"TCGA-DD-A11D-01A"	"TCGA-DD-A11D"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	TRUE	TRUE
+"TCGA-DD-A1EA-01A"	"TCGA-DD-A1EA"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-DD-A1EB-11A"	"TCGA-DD-A1EB"	"Solid Tissue Normal"	"11"	"11"	"normal"	TRUE	TRUE	TRUE
+"TCGA-DD-A1EB-01A"	"TCGA-DD-A1EB"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	TRUE	TRUE
+"TCGA-DD-A1EC-11A"	"TCGA-DD-A1EC"	"Solid Tissue Normal"	"11"	"11"	"normal"	TRUE	TRUE	TRUE
+"TCGA-DD-A1EC-01A"	"TCGA-DD-A1EC"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	TRUE	TRUE
+"TCGA-DD-A1ED-01A"	"TCGA-DD-A1ED"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-DD-A1EE-11A"	"TCGA-DD-A1EE"	"Solid Tissue Normal"	"11"	"11"	"normal"	TRUE	TRUE	TRUE
+"TCGA-DD-A1EE-01A"	"TCGA-DD-A1EE"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	TRUE	TRUE
+"TCGA-DD-A1EF-01A"	"TCGA-DD-A1EF"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-DD-A1EG-11A"	"TCGA-DD-A1EG"	"Solid Tissue Normal"	"11"	"11"	"normal"	TRUE	TRUE	TRUE
+"TCGA-DD-A1EG-01A"	"TCGA-DD-A1EG"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	TRUE	TRUE
+"TCGA-DD-A1EH-11A"	"TCGA-DD-A1EH"	"Solid Tissue Normal"	"11"	"11"	"normal"	TRUE	TRUE	TRUE
+"TCGA-DD-A1EH-01A"	"TCGA-DD-A1EH"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	TRUE	TRUE
+"TCGA-DD-A1EI-11A"	"TCGA-DD-A1EI"	"Solid Tissue Normal"	"11"	"11"	"normal"	TRUE	TRUE	TRUE
+"TCGA-DD-A1EI-01A"	"TCGA-DD-A1EI"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	TRUE	TRUE
+"TCGA-DD-A1EJ-11A"	"TCGA-DD-A1EJ"	"Solid Tissue Normal"	"11"	"11"	"normal"	TRUE	TRUE	TRUE
+"TCGA-DD-A1EJ-01A"	"TCGA-DD-A1EJ"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	TRUE	TRUE
+"TCGA-DD-A1EK-01A"	"TCGA-DD-A1EK"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-DD-A1EL-11A"	"TCGA-DD-A1EL"	"Solid Tissue Normal"	"11"	"11"	"normal"	TRUE	TRUE	TRUE
+"TCGA-DD-A1EL-01A"	"TCGA-DD-A1EL"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	TRUE	TRUE
+"TCGA-DD-A39V-11A"	"TCGA-DD-A39V"	"Solid Tissue Normal"	"11"	"11"	"normal"	TRUE	TRUE	TRUE
+"TCGA-DD-A39V-01A"	"TCGA-DD-A39V"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	TRUE	TRUE
+"TCGA-DD-A39W-11A"	"TCGA-DD-A39W"	"Solid Tissue Normal"	"11"	"11"	"normal"	TRUE	TRUE	TRUE
+"TCGA-DD-A39W-01A"	"TCGA-DD-A39W"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	TRUE	TRUE
+"TCGA-DD-A39X-11A"	"TCGA-DD-A39X"	"Solid Tissue Normal"	"11"	"11"	"normal"	TRUE	TRUE	TRUE
+"TCGA-DD-A39X-01A"	"TCGA-DD-A39X"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	TRUE	TRUE
+"TCGA-DD-A39Y-01A"	"TCGA-DD-A39Y"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-DD-A39Z-11A"	"TCGA-DD-A39Z"	"Solid Tissue Normal"	"11"	"11"	"normal"	TRUE	TRUE	TRUE
+"TCGA-DD-A39Z-01A"	"TCGA-DD-A39Z"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	TRUE	TRUE
+"TCGA-DD-A3A1-11A"	"TCGA-DD-A3A1"	"Solid Tissue Normal"	"11"	"11"	"normal"	TRUE	TRUE	TRUE
+"TCGA-DD-A3A1-01A"	"TCGA-DD-A3A1"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	TRUE	TRUE
+"TCGA-DD-A3A2-11A"	"TCGA-DD-A3A2"	"Solid Tissue Normal"	"11"	"11"	"normal"	TRUE	TRUE	TRUE
+"TCGA-DD-A3A2-01A"	"TCGA-DD-A3A2"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	TRUE	TRUE
+"TCGA-DD-A3A3-11A"	"TCGA-DD-A3A3"	"Solid Tissue Normal"	"11"	"11"	"normal"	TRUE	TRUE	TRUE
+"TCGA-DD-A3A3-01A"	"TCGA-DD-A3A3"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	TRUE	TRUE
+"TCGA-DD-A3A4-11A"	"TCGA-DD-A3A4"	"Solid Tissue Normal"	"11"	"11"	"normal"	TRUE	TRUE	TRUE
+"TCGA-DD-A3A4-01A"	"TCGA-DD-A3A4"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	TRUE	TRUE
+"TCGA-DD-A3A5-11A"	"TCGA-DD-A3A5"	"Solid Tissue Normal"	"11"	"11"	"normal"	TRUE	TRUE	TRUE
+"TCGA-DD-A3A5-01A"	"TCGA-DD-A3A5"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	TRUE	TRUE
+"TCGA-DD-A3A6-11A"	"TCGA-DD-A3A6"	"Solid Tissue Normal"	"11"	"11"	"normal"	TRUE	TRUE	TRUE
+"TCGA-DD-A3A6-01A"	"TCGA-DD-A3A6"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	TRUE	TRUE
+"TCGA-DD-A3A7-01A"	"TCGA-DD-A3A7"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-DD-A3A8-11A"	"TCGA-DD-A3A8"	"Solid Tissue Normal"	"11"	"11"	"normal"	TRUE	TRUE	TRUE
+"TCGA-DD-A3A8-01A"	"TCGA-DD-A3A8"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	TRUE	TRUE
+"TCGA-DD-A3A9-01A"	"TCGA-DD-A3A9"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-DD-A4NA-01A"	"TCGA-DD-A4NA"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-DD-A4NB-01A"	"TCGA-DD-A4NB"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-DD-A4ND-01A"	"TCGA-DD-A4ND"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-DD-A4NE-01A"	"TCGA-DD-A4NE"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-DD-A4NF-01A"	"TCGA-DD-A4NF"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-DD-A4NG-01A"	"TCGA-DD-A4NG"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-DD-A4NH-01A"	"TCGA-DD-A4NH"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-DD-A4NI-01A"	"TCGA-DD-A4NI"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-DD-A4NJ-01A"	"TCGA-DD-A4NJ"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-DD-A4NK-01A"	"TCGA-DD-A4NK"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-DD-A4NL-01A"	"TCGA-DD-A4NL"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-DD-A4NN-01A"	"TCGA-DD-A4NN"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-DD-A4NO-01A"	"TCGA-DD-A4NO"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-DD-A4NP-01A"	"TCGA-DD-A4NP"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-DD-A4NQ-01A"	"TCGA-DD-A4NQ"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-DD-A4NR-01A"	"TCGA-DD-A4NR"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-DD-A4NS-01A"	"TCGA-DD-A4NS"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-DD-A4NV-01A"	"TCGA-DD-A4NV"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-DD-A73A-01A"	"TCGA-DD-A73A"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-DD-A73B-01A"	"TCGA-DD-A73B"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-DD-A73C-01A"	"TCGA-DD-A73C"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-DD-A73D-01A"	"TCGA-DD-A73D"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-DD-A73E-01A"	"TCGA-DD-A73E"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-DD-A73F-01A"	"TCGA-DD-A73F"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-DD-A73G-01A"	"TCGA-DD-A73G"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-DD-AA3A-01A"	"TCGA-DD-AA3A"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-DD-AAC8-01A"	"TCGA-DD-AAC8"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-DD-AAC9-01A"	"TCGA-DD-AAC9"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-DD-AACA-02A"	"TCGA-DD-AACA"	"Recurrent Tumor"	"2"	"02"	"other"	TRUE	FALSE	FALSE
+"TCGA-DD-AACA-02B"	"TCGA-DD-AACA"	"Recurrent Tumor"	"2"	"02"	"other"	TRUE	FALSE	FALSE
+"TCGA-DD-AACA-01A"	"TCGA-DD-AACA"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-DD-AACB-01A"	"TCGA-DD-AACB"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-DD-AACC-01A"	"TCGA-DD-AACC"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-DD-AACD-01A"	"TCGA-DD-AACD"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-DD-AACE-01A"	"TCGA-DD-AACE"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-DD-AACF-01A"	"TCGA-DD-AACF"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-DD-AACG-01A"	"TCGA-DD-AACG"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-DD-AACH-01A"	"TCGA-DD-AACH"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-DD-AACI-01A"	"TCGA-DD-AACI"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-DD-AACJ-01A"	"TCGA-DD-AACJ"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-DD-AACK-01A"	"TCGA-DD-AACK"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-DD-AACL-01A"	"TCGA-DD-AACL"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-DD-AACN-01A"	"TCGA-DD-AACN"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-DD-AACO-01A"	"TCGA-DD-AACO"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-DD-AACP-01A"	"TCGA-DD-AACP"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-DD-AACQ-01A"	"TCGA-DD-AACQ"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-DD-AACS-01A"	"TCGA-DD-AACS"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-DD-AACT-01A"	"TCGA-DD-AACT"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-DD-AACU-01A"	"TCGA-DD-AACU"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-DD-AACV-01A"	"TCGA-DD-AACV"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-DD-AACW-01A"	"TCGA-DD-AACW"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-DD-AACX-01A"	"TCGA-DD-AACX"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-DD-AACY-01A"	"TCGA-DD-AACY"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-DD-AACZ-01A"	"TCGA-DD-AACZ"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-DD-AAD0-01A"	"TCGA-DD-AAD0"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-DD-AAD1-01A"	"TCGA-DD-AAD1"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-DD-AAD2-01A"	"TCGA-DD-AAD2"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-DD-AAD3-01A"	"TCGA-DD-AAD3"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-DD-AAD5-01A"	"TCGA-DD-AAD5"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-DD-AAD6-01A"	"TCGA-DD-AAD6"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-DD-AAD8-01A"	"TCGA-DD-AAD8"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-DD-AADA-01A"	"TCGA-DD-AADA"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-DD-AADB-01A"	"TCGA-DD-AADB"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-DD-AADC-01A"	"TCGA-DD-AADC"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-DD-AADD-01A"	"TCGA-DD-AADD"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-DD-AADF-01A"	"TCGA-DD-AADF"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-DD-AADG-01A"	"TCGA-DD-AADG"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-DD-AADI-01A"	"TCGA-DD-AADI"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-DD-AADJ-01A"	"TCGA-DD-AADJ"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-DD-AADK-01A"	"TCGA-DD-AADK"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-DD-AADL-01A"	"TCGA-DD-AADL"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-DD-AADM-01A"	"TCGA-DD-AADM"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-DD-AADN-01A"	"TCGA-DD-AADN"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-DD-AADO-01A"	"TCGA-DD-AADO"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-DD-AADP-01A"	"TCGA-DD-AADP"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-DD-AADQ-01A"	"TCGA-DD-AADQ"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-DD-AADR-01A"	"TCGA-DD-AADR"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-DD-AADS-01A"	"TCGA-DD-AADS"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-DD-AADU-01A"	"TCGA-DD-AADU"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-DD-AADV-01A"	"TCGA-DD-AADV"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-DD-AADW-01A"	"TCGA-DD-AADW"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-DD-AADY-01A"	"TCGA-DD-AADY"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-DD-AAE0-01A"	"TCGA-DD-AAE0"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-DD-AAE1-01A"	"TCGA-DD-AAE1"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-DD-AAE2-01A"	"TCGA-DD-AAE2"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-DD-AAE3-01A"	"TCGA-DD-AAE3"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-DD-AAE4-01A"	"TCGA-DD-AAE4"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-DD-AAE6-01A"	"TCGA-DD-AAE6"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-DD-AAE7-01A"	"TCGA-DD-AAE7"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-DD-AAE9-01A"	"TCGA-DD-AAE9"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-DD-AAEA-01A"	"TCGA-DD-AAEA"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-DD-AAEB-01A"	"TCGA-DD-AAEB"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-DD-AAED-01A"	"TCGA-DD-AAED"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-DD-AAEE-01A"	"TCGA-DD-AAEE"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-DD-AAEG-01A"	"TCGA-DD-AAEG"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-DD-AAEH-01A"	"TCGA-DD-AAEH"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-DD-AAEI-01A"	"TCGA-DD-AAEI"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-DD-AAEK-01A"	"TCGA-DD-AAEK"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-DD-AAVP-01A"	"TCGA-DD-AAVP"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-DD-AAVQ-01A"	"TCGA-DD-AAVQ"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-DD-AAVR-01A"	"TCGA-DD-AAVR"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-DD-AAVS-01A"	"TCGA-DD-AAVS"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-DD-AAVU-01A"	"TCGA-DD-AAVU"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-DD-AAVV-01A"	"TCGA-DD-AAVV"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-DD-AAVW-01A"	"TCGA-DD-AAVW"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-DD-AAVX-01A"	"TCGA-DD-AAVX"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-DD-AAVY-01A"	"TCGA-DD-AAVY"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-DD-AAVZ-01A"	"TCGA-DD-AAVZ"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-DD-AAW0-01A"	"TCGA-DD-AAW0"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-DD-AAW1-01A"	"TCGA-DD-AAW1"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-DD-AAW2-01A"	"TCGA-DD-AAW2"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-DD-AAW3-01A"	"TCGA-DD-AAW3"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-ED-A459-01A"	"TCGA-ED-A459"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-ED-A4XI-01A"	"TCGA-ED-A4XI"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-ED-A5KG-01A"	"TCGA-ED-A5KG"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-ED-A627-01A"	"TCGA-ED-A627"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-ED-A66X-01A"	"TCGA-ED-A66X"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-ED-A66Y-01A"	"TCGA-ED-A66Y"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-ED-A7PX-01A"	"TCGA-ED-A7PX"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-ED-A7PY-01A"	"TCGA-ED-A7PY"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-ED-A7PZ-01A"	"TCGA-ED-A7PZ"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-ED-A7XO-01A"	"TCGA-ED-A7XO"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-ED-A7XP-01A"	"TCGA-ED-A7XP"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-ED-A82E-01A"	"TCGA-ED-A82E"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-ED-A8O5-01A"	"TCGA-ED-A8O5"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-ED-A8O6-01A"	"TCGA-ED-A8O6"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-ED-A97K-01A"	"TCGA-ED-A97K"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-EP-A12J-11A"	"TCGA-EP-A12J"	"Solid Tissue Normal"	"11"	"11"	"normal"	TRUE	TRUE	TRUE
+"TCGA-EP-A12J-01A"	"TCGA-EP-A12J"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	TRUE	TRUE
+"TCGA-EP-A26S-11A"	"TCGA-EP-A26S"	"Solid Tissue Normal"	"11"	"11"	"normal"	TRUE	TRUE	TRUE
+"TCGA-EP-A26S-01A"	"TCGA-EP-A26S"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	TRUE	TRUE
+"TCGA-EP-A2KA-01A"	"TCGA-EP-A2KA"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-EP-A2KB-01A"	"TCGA-EP-A2KB"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-EP-A2KC-01A"	"TCGA-EP-A2KC"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-EP-A3JL-01A"	"TCGA-EP-A3JL"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-EP-A3RK-11A"	"TCGA-EP-A3RK"	"Solid Tissue Normal"	"11"	"11"	"normal"	TRUE	TRUE	TRUE
+"TCGA-EP-A3RK-01A"	"TCGA-EP-A3RK"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	TRUE	TRUE
+"TCGA-ES-A2HS-01A"	"TCGA-ES-A2HS"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-ES-A2HT-11A"	"TCGA-ES-A2HT"	"Solid Tissue Normal"	"11"	"11"	"normal"	TRUE	TRUE	TRUE
+"TCGA-ES-A2HT-01A"	"TCGA-ES-A2HT"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	TRUE	TRUE
+"TCGA-FV-A23B-11A"	"TCGA-FV-A23B"	"Solid Tissue Normal"	"11"	"11"	"normal"	TRUE	TRUE	TRUE
+"TCGA-FV-A23B-01A"	"TCGA-FV-A23B"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	TRUE	TRUE
+"TCGA-FV-A2QQ-01A"	"TCGA-FV-A2QQ"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-FV-A2QR-11A"	"TCGA-FV-A2QR"	"Solid Tissue Normal"	"11"	"11"	"normal"	TRUE	TRUE	TRUE
+"TCGA-FV-A2QR-01A"	"TCGA-FV-A2QR"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	TRUE	TRUE
+"TCGA-FV-A3I0-11A"	"TCGA-FV-A3I0"	"Solid Tissue Normal"	"11"	"11"	"normal"	TRUE	TRUE	TRUE
+"TCGA-FV-A3I0-01A"	"TCGA-FV-A3I0"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	TRUE	TRUE
+"TCGA-FV-A3I1-11A"	"TCGA-FV-A3I1"	"Solid Tissue Normal"	"11"	"11"	"normal"	TRUE	TRUE	TRUE
+"TCGA-FV-A3I1-01A"	"TCGA-FV-A3I1"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	TRUE	TRUE
+"TCGA-FV-A3R2-11A"	"TCGA-FV-A3R2"	"Solid Tissue Normal"	"11"	"11"	"normal"	TRUE	TRUE	TRUE
+"TCGA-FV-A3R2-01A"	"TCGA-FV-A3R2"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	TRUE	TRUE
+"TCGA-FV-A3R3-01A"	"TCGA-FV-A3R3"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-FV-A495-01A"	"TCGA-FV-A495"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-FV-A496-01A"	"TCGA-FV-A496"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-FV-A4ZP-01A"	"TCGA-FV-A4ZP"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-FV-A4ZQ-01A"	"TCGA-FV-A4ZQ"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-G3-A25S-01A"	"TCGA-G3-A25S"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-G3-A25T-01A"	"TCGA-G3-A25T"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-G3-A25U-01A"	"TCGA-G3-A25U"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-G3-A25V-01A"	"TCGA-G3-A25V"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-G3-A25X-01A"	"TCGA-G3-A25X"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-G3-A25Y-01A"	"TCGA-G3-A25Y"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-G3-A25Z-01A"	"TCGA-G3-A25Z"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-G3-A3CG-01A"	"TCGA-G3-A3CG"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-G3-A3CH-11A"	"TCGA-G3-A3CH"	"Solid Tissue Normal"	"11"	"11"	"normal"	TRUE	TRUE	TRUE
+"TCGA-G3-A3CH-01A"	"TCGA-G3-A3CH"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	TRUE	TRUE
+"TCGA-G3-A3CI-01A"	"TCGA-G3-A3CI"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-G3-A3CJ-01A"	"TCGA-G3-A3CJ"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-G3-A3CK-01A"	"TCGA-G3-A3CK"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-G3-A5SI-01A"	"TCGA-G3-A5SI"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-G3-A5SJ-01A"	"TCGA-G3-A5SJ"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-G3-A5SK-01A"	"TCGA-G3-A5SK"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-G3-A5SL-01A"	"TCGA-G3-A5SL"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-G3-A5SM-01A"	"TCGA-G3-A5SM"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-G3-A6UC-01A"	"TCGA-G3-A6UC"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-G3-A7M5-01A"	"TCGA-G3-A7M5"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-G3-A7M6-01A"	"TCGA-G3-A7M6"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-G3-A7M7-01A"	"TCGA-G3-A7M7"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-G3-A7M8-01A"	"TCGA-G3-A7M8"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-G3-A7M9-01A"	"TCGA-G3-A7M9"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-G3-AAUZ-01A"	"TCGA-G3-AAUZ"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-G3-AAV0-01A"	"TCGA-G3-AAV0"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-G3-AAV1-01A"	"TCGA-G3-AAV1"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-G3-AAV2-01A"	"TCGA-G3-AAV2"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-G3-AAV3-01A"	"TCGA-G3-AAV3"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-G3-AAV4-01A"	"TCGA-G3-AAV4"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-G3-AAV5-01A"	"TCGA-G3-AAV5"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-G3-AAV6-01A"	"TCGA-G3-AAV6"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-G3-AAV7-01A"	"TCGA-G3-AAV7"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-GJ-A3OU-01A"	"TCGA-GJ-A3OU"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-GJ-A6C0-01A"	"TCGA-GJ-A6C0"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-GJ-A9DB-01A"	"TCGA-GJ-A9DB"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-HP-A5MZ-01A"	"TCGA-HP-A5MZ"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-HP-A5N0-01A"	"TCGA-HP-A5N0"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-K7-A5RF-01A"	"TCGA-K7-A5RF"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-K7-A5RG-01A"	"TCGA-K7-A5RG"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-K7-A6G5-01A"	"TCGA-K7-A6G5"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-K7-AAU7-01A"	"TCGA-K7-AAU7"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-KR-A7K0-01A"	"TCGA-KR-A7K0"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-KR-A7K2-01A"	"TCGA-KR-A7K2"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-KR-A7K7-01A"	"TCGA-KR-A7K7"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-KR-A7K8-01A"	"TCGA-KR-A7K8"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-LG-A6GG-01A"	"TCGA-LG-A6GG"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-LG-A9QC-01A"	"TCGA-LG-A9QC"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-LG-A9QD-01A"	"TCGA-LG-A9QD"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-MI-A75C-01A"	"TCGA-MI-A75C"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-MI-A75E-01A"	"TCGA-MI-A75E"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-MI-A75G-01A"	"TCGA-MI-A75G"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-MI-A75H-01A"	"TCGA-MI-A75H"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-MI-A75I-01A"	"TCGA-MI-A75I"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-MR-A520-01A"	"TCGA-MR-A520"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-MR-A8JO-01A"	"TCGA-MR-A8JO"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-NI-A4U2-01A"	"TCGA-NI-A4U2"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-NI-A8LF-01A"	"TCGA-NI-A8LF"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-O8-A75V-01A"	"TCGA-O8-A75V"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-PD-A5DF-01A"	"TCGA-PD-A5DF"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-QA-A7B7-01A"	"TCGA-QA-A7B7"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-RC-A6M3-01A"	"TCGA-RC-A6M3"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-RC-A6M4-01A"	"TCGA-RC-A6M4"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-RC-A6M5-01A"	"TCGA-RC-A6M5"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-RC-A6M6-01A"	"TCGA-RC-A6M6"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-RC-A7S9-01A"	"TCGA-RC-A7S9"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-RC-A7SB-01A"	"TCGA-RC-A7SB"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-RC-A7SF-01A"	"TCGA-RC-A7SF"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-RC-A7SH-01A"	"TCGA-RC-A7SH"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-RC-A7SK-01A"	"TCGA-RC-A7SK"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-RG-A7D4-01A"	"TCGA-RG-A7D4"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-T1-A6J8-01A"	"TCGA-T1-A6J8"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-UB-A7MA-01A"	"TCGA-UB-A7MA"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-UB-A7MB-01A"	"TCGA-UB-A7MB"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-UB-A7MC-01A"	"TCGA-UB-A7MC"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-UB-A7MD-01A"	"TCGA-UB-A7MD"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-UB-A7ME-01A"	"TCGA-UB-A7ME"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-UB-A7MF-01A"	"TCGA-UB-A7MF"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-UB-AA0U-01A"	"TCGA-UB-AA0U"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-UB-AA0V-01A"	"TCGA-UB-AA0V"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-WJ-A86L-01A"	"TCGA-WJ-A86L"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-WQ-A9G7-01A"	"TCGA-WQ-A9G7"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-WQ-AB4B-01A"	"TCGA-WQ-AB4B"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-WX-AA44-01A"	"TCGA-WX-AA44"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-WX-AA46-01A"	"TCGA-WX-AA46"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-WX-AA47-01A"	"TCGA-WX-AA47"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-XR-A8TC-01A"	"TCGA-XR-A8TC"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-XR-A8TD-01A"	"TCGA-XR-A8TD"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-XR-A8TE-01A"	"TCGA-XR-A8TE"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-XR-A8TF-01A"	"TCGA-XR-A8TF"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-XR-A8TG-01A"	"TCGA-XR-A8TG"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-YA-A8S7-01A"	"TCGA-YA-A8S7"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-ZP-A9CV-01A"	"TCGA-ZP-A9CV"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-ZP-A9CY-01A"	"TCGA-ZP-A9CY"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-ZP-A9CZ-01A"	"TCGA-ZP-A9CZ"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-ZP-A9D0-01A"	"TCGA-ZP-A9D0"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-ZP-A9D1-01A"	"TCGA-ZP-A9D1"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-ZP-A9D2-01A"	"TCGA-ZP-A9D2"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-ZP-A9D4-01A"	"TCGA-ZP-A9D4"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-ZS-A9CD-01A"	"TCGA-ZS-A9CD"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-ZS-A9CE-01A"	"TCGA-ZS-A9CE"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-ZS-A9CF-02A"	"TCGA-ZS-A9CF"	"Recurrent Tumor"	"2"	"02"	"other"	TRUE	FALSE	FALSE
+"TCGA-ZS-A9CF-01A"	"TCGA-ZS-A9CF"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE
+"TCGA-ZS-A9CG-01A"	"TCGA-ZS-A9CG"	"Primary Tumor"	"1"	"01"	"tumor"	TRUE	FALSE	TRUE

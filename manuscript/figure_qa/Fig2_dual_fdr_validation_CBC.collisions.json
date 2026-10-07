@@ -1,0 +1,120 @@
+{
+  "pdf": "results/manuscript_computational_biology_chemistry/figures/Fig2_dual_fdr_validation_CBC.pdf",
+  "auditable": true,
+  "verdict": "REVIEW REQUIRED",
+  "page_count": 1,
+  "visible_text_box_count": 88,
+  "text_trace_count": 116,
+  "stroke_path_count": 106,
+  "filled_region_count": 109,
+  "image_region_count": 2,
+  "summary": {
+    "fail": 0,
+    "warn": 4,
+    "contained_fill_overlays": 13,
+    "contained_image_overlays": 0
+  },
+  "thresholds": {
+    "text_inset_pt": 0.6,
+    "min_overlap_ratio": 0.05,
+    "clipping_tolerance_pt": 0.5
+  },
+  "findings": [
+    {
+      "severity": "WARN",
+      "kind": "text-fill-edge",
+      "page": 1,
+      "message": "Text partially overlaps the edge of 1 filled region(s)",
+      "text": "163/168",
+      "text_bbox": [
+        49.708499908447266,
+        212.12692260742188,
+        68.8968505859375,
+        217.42691040039062
+      ],
+      "other_text": null,
+      "other_bbox": [
+        46.483009338378906,
+        214.92994689941406,
+        72.12149810791016,
+        351.79840087890625
+      ],
+      "object_count": 1,
+      "object_indexes": [
+        40000
+      ]
+    },
+    {
+      "severity": "WARN",
+      "kind": "text-fill-edge",
+      "page": 1,
+      "message": "Text partially overlaps the edge of 1 filled region(s)",
+      "text": "161/168",
+      "text_bbox": [
+        85.31751251220703,
+        213.7563018798828,
+        104.50586700439453,
+        219.05628967285156
+      ],
+      "other_text": null,
+      "other_bbox": [
+        82.0920181274414,
+        214.92994689941406,
+        107.73050689697266,
+        351.79840087890625
+      ],
+      "object_count": 1,
+      "object_indexes": [
+        41000
+      ]
+    },
+    {
+      "severity": "WARN",
+      "kind": "text-fill-edge",
+      "page": 1,
+      "message": "Text partially overlaps the edge of 1 filled region(s)",
+      "text": "161/167",
+      "text_bbox": [
+        192.14453125,
+        213.7563018798828,
+        211.33287048339844,
+        219.05628967285156
+      ],
+      "other_text": null,
+      "other_bbox": [
+        188.91903686523438,
+        215.74464416503906,
+        214.55752563476562,
+        351.79840087890625
+      ],
+      "object_count": 1,
+      "object_indexes": [
+        44000
+      ]
+    },
+    {
+      "severity": "WARN",
+      "kind": "text-fill-edge",
+      "page": 1,
+      "message": "Text partially overlaps the edge of 1 filled region(s)",
+      "text": "159/167",
+      "text_bbox": [
+        227.7535400390625,
+        215.3856964111328,
+        246.94187927246094,
+        220.68568420410156
+      ],
+      "other_text": null,
+      "other_bbox": [
+        224.52804565429688,
+        215.74464416503906,
+        250.16653442382812,
+        351.79840087890625
+      ],
+      "object_count": 1,
+      "object_indexes": [
+        45000
+      ]
+    }
+  ]
+}

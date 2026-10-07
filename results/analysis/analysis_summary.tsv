@@ -1,0 +1,13 @@
+metric	value
+cohorts_completed	6
+primary_pairs	167
+genes_meta_requested	17900
+genes_meta_analyzed	17900
+genes_meta_failed	0
+genes_retried	45
+genes_with_meta_warnings	40
+primary_rule_hits	446
+primary_rule_hits_up	198
+primary_rule_hits_down	248
+primary_hits_prediction_interval_excludes_zero	322
+primary_hits_I2_gt_50	272

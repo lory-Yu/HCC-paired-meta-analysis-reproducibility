@@ -1,0 +1,3 @@
+discovery_resource	external_resource	discovery_public_sample_ids	external_public_sample_ids	identical_public_sample_ids	overlapping_ids	audit_scope	limitation
+GEO discovery	TCGA-LIHC external	439	100	0		exact released public sample identifiers	de-identified cross-repository patient identity cannot be tested from these identifier namespaces
+GEO discovery	ICGC-LIRI-JP external	439	398	0		exact released public sample identifiers	de-identified cross-repository patient identity cannot be tested from these identifier namespaces

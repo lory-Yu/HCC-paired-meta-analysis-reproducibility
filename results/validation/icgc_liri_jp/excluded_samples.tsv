@@ -1,0 +1,16 @@
+icgc_sample_id	icgc_specimen_id	icgc_donor_id	submitted_sample_id	analysis_id	specimen_type	group	project_code	reason
+SA594231	SP98907	DO45096	RK006_Cancer2	RK006_Cancer2-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	duplicate_donor_group_lexicographic_first_kept
+SA595461	SP191958	DO45139	RK179_Liver	RK179_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	duplicate_donor_group_lexicographic_first_kept
+SA595544	SP191959	DO45139	RK240_Liver	RK240_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	duplicate_donor_group_lexicographic_first_kept
+SA595460	SP99265	DO45139	RK179_Cancer	RK179_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	duplicate_donor_group_lexicographic_first_kept
+SA595543	SP112184	DO45139	RK240_Cancer	RK240_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	duplicate_donor_group_lexicographic_first_kept
+SA595474	SP99003	DO45141	RK189_Cancer	RK189_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	duplicate_donor_group_lexicographic_first_kept
+SA595480	SP192387	DO45147	RK192_Cancer	RK192_Cancer-rnaseq	Metastatic tumour - additional metastatic	other	LIRI-JP	not_primary_tumour_or_liver_normal
+SA595596	SP192419	DO45173	RK295_Liver	RK295_Liver-rnaseq	Normal - solid tissue	normal	LIRI-JP	duplicate_donor_group_lexicographic_first_kept
+SA595595	SP192418	DO45173	RK295_Cancer	RK295_Cancer-rnaseq	Metastatic tumour - additional metastatic	other	LIRI-JP	not_primary_tumour_or_liver_normal
+SA595463	SP99271	DO45273	RK180_Cancer2	RK180_Cancer2-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	duplicate_donor_group_lexicographic_first_kept
+SA570931	SP99289	DO45281	RK209_Cancer	RK209_Cancer-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	duplicate_donor_group_lexicographic_first_kept
+SA595535	SP112170	DO50793	RK233_Cancer2	RK233_Cancer2-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	duplicate_donor_group_lexicographic_first_kept
+SA595569	SP192714	DO50814	RK261_Cancer3	RK261_Cancer3-rnaseq	Metastatic tumour - additional metastatic	other	LIRI-JP	not_primary_tumour_or_liver_normal
+SA595567	SP112211	DO50814	RK261_Cancer2	RK261_Cancer2-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	duplicate_donor_group_lexicographic_first_kept
+SA595610	SP192726	DO50859	RK338_Cancer2	RK338_Cancer2-rnaseq	Primary tumour - solid tissue	tumor	LIRI-JP	duplicate_donor_group_lexicographic_first_kept

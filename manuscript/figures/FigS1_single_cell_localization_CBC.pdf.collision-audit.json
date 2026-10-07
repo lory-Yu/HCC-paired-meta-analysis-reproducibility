@@ -1,0 +1,244 @@
+{
+  "pdf": "results/manuscript_computational_biology_chemistry/figures/FigS1_single_cell_localization_CBC.pdf",
+  "auditable": true,
+  "verdict": "FIX BEFORE DELIVERY",
+  "page_count": 1,
+  "visible_text_box_count": 80,
+  "text_trace_count": 87,
+  "stroke_path_count": 74,
+  "filled_region_count": 83,
+  "image_region_count": 3,
+  "summary": {
+    "fail": 10,
+    "warn": 0,
+    "contained_fill_overlays": 1,
+    "contained_image_overlays": 0
+  },
+  "thresholds": {
+    "text_inset_pt": 0.6,
+    "min_overlap_ratio": 0.05,
+    "clipping_tolerance_pt": 0.5
+  },
+  "findings": [
+    {
+      "severity": "FAIL",
+      "kind": "text-text",
+      "page": 1,
+      "message": "Text boxes overlap by 98.1% of the smaller box",
+      "text": "B cell",
+      "text_bbox": [
+        51.04463195800781,
+        318.7611083984375,
+        84.07046508789062,
+        348.827880859375
+      ],
+      "other_text": "Cholangiocyte",
+      "other_bbox": [
+        53.614280700683594,
+        318.37164306640625,
+        84.16162872314453,
+        348.9190368652344
+      ],
+      "object_count": 1,
+      "object_indexes": []
+    },
+    {
+      "severity": "FAIL",
+      "kind": "text-text",
+      "page": 1,
+      "message": "Text boxes overlap by 16.5% of the smaller box",
+      "text": "B cell",
+      "text_bbox": [
+        51.04463195800781,
+        318.7611083984375,
+        84.07046508789062,
+        348.827880859375
+      ],
+      "other_text": "Endothelial",
+      "other_bbox": [
+        78.61795043945312,
+        318.762451171875,
+        121.8702392578125,
+        350.1979064941406
+      ],
+      "object_count": 1,
+      "object_indexes": []
+    },
+    {
+      "severity": "FAIL",
+      "kind": "text-text",
+      "page": 1,
+      "message": "Text boxes overlap by 17.9% of the smaller box",
+      "text": "Cholangiocyte",
+      "text_bbox": [
+        53.614280700683594,
+        318.37164306640625,
+        84.16162872314453,
+        348.9190368652344
+      ],
+      "other_text": "Endothelial",
+      "other_bbox": [
+        78.61795043945312,
+        318.762451171875,
+        121.8702392578125,
+        350.1979064941406
+      ],
+      "object_count": 1,
+      "object_indexes": []
+    },
+    {
+      "severity": "FAIL",
+      "kind": "text-text",
+      "page": 1,
+      "message": "Text boxes overlap by 98.2% of the smaller box",
+      "text": "Endothelial",
+      "text_bbox": [
+        78.61795043945312,
+        318.762451171875,
+        121.8702392578125,
+        350.1979064941406
+      ],
+      "other_text": "Fibroblast CAF",
+      "other_bbox": [
+        90.04854583740234,
+        318.3761901855469,
+        121.96138763427734,
+        350.2890625
+      ],
+      "object_count": 1,
+      "object_indexes": []
+    },
+    {
+      "severity": "FAIL",
+      "kind": "text-text",
+      "page": 1,
+      "message": "Text boxes overlap by 13.7% of the smaller box",
+      "text": "Endothelial",
+      "text_bbox": [
+        78.61795043945312,
+        318.762451171875,
+        121.8702392578125,
+        350.1979064941406
+      ],
+      "other_text": "Hepatocyte",
+      "other_bbox": [
+        115.93612670898438,
+        318.75360107421875,
+        159.68658447265625,
+        359.9095764160156
+      ],
+      "object_count": 1,
+      "object_indexes": []
+    },
+    {
+      "severity": "FAIL",
+      "kind": "text-text",
+      "page": 1,
+      "message": "Text boxes overlap by 8.6% of the smaller box",
+      "text": "Endothelial",
+      "text_bbox": [
+        78.61795043945312,
+        318.762451171875,
+        121.8702392578125,
+        350.1979064941406
+      ],
+      "other_text": "Kupffer macrophage",
+      "other_bbox": [
+        118.14116668701172,
+        318.3641357421875,
+        159.77772521972656,
+        360.000732421875
+      ],
+      "object_count": 1,
+      "object_indexes": []
+    },
+    {
+      "severity": "FAIL",
+      "kind": "text-text",
+      "page": 1,
+      "message": "Text boxes overlap by 18.7% of the smaller box",
+      "text": "Fibroblast CAF",
+      "text_bbox": [
+        90.04854583740234,
+        318.3761901855469,
+        121.96138763427734,
+        350.2890625
+      ],
+      "other_text": "Hepatocyte",
+      "other_bbox": [
+        115.93612670898438,
+        318.75360107421875,
+        159.68658447265625,
+        359.9095764160156
+      ],
+      "object_count": 1,
+      "object_indexes": []
+    },
+    {
+      "severity": "FAIL",
+      "kind": "text-text",
+      "page": 1,
+      "message": "Text boxes overlap by 12.0% of the smaller box",
+      "text": "Fibroblast CAF",
+      "text_bbox": [
+        90.04854583740234,
+        318.3761901855469,
+        121.96138763427734,
+        350.2890625
+      ],
+      "other_text": "Kupffer macrophage",
+      "other_bbox": [
+        118.14116668701172,
+        318.3641357421875,
+        159.77772521972656,
+        360.000732421875
+      ],
+      "object_count": 1,
+      "object_indexes": []
+    },
+    {
+      "severity": "FAIL",
+      "kind": "text-text",
+      "page": 1,
+      "message": "Text boxes overlap by 98.6% of the smaller box",
+      "text": "Hepatocyte",
+      "text_bbox": [
+        115.93612670898438,
+        318.75360107421875,
+        159.68658447265625,
+        359.9095764160156
+      ],
+      "other_text": "Kupffer macrophage",
+      "other_bbox": [
+        118.14116668701172,
+        318.3641357421875,
+        159.77772521972656,
+        360.000732421875
+      ],
+      "object_count": 1,
+      "object_indexes": []
+    },
+    {
+      "severity": "FAIL",
+      "kind": "text-text",
+      "page": 1,
+      "message": "Text boxes overlap by 22.7% of the smaller box",
+      "text": "NK cell",
+      "text_bbox": [
+        161.4964599609375,
+        318.76324462890625,
+        178.5791015625,
+        335.8458557128906
+      ],
+      "other_text": "Neutrophil",
+      "other_bbox": [
+        174.70863342285156,
+        318.7627258300781,
+        197.48171997070312,
+        341.53582763671875
+      ],
+      "object_count": 1,
+      "object_indexes": []
+    }
+  ]
+}

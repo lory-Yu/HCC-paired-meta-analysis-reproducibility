@@ -1,0 +1,4 @@
+sample_barcode	patient_id	group	sample_type	reason
+"TCGA-DD-AACA-02A"	"TCGA-DD-AACA"	"other"	"Recurrent Tumor"	"not_primary_tumor_or_solid_tissue_normal"
+"TCGA-DD-AACA-02B"	"TCGA-DD-AACA"	"other"	"Recurrent Tumor"	"not_primary_tumor_or_solid_tissue_normal"
+"TCGA-ZS-A9CF-02A"	"TCGA-ZS-A9CF"	"other"	"Recurrent Tumor"	"not_primary_tumor_or_solid_tissue_normal"

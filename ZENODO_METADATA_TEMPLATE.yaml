@@ -1,0 +1,36 @@
+metadata:
+  title: "Paired-cohort meta-analysis with dual RNA-seq replication of recurrent transcriptional alterations in hepatocellular carcinoma: research compendium"
+  upload_type: software
+  publication_date: "2026-10-07"
+  version: "0.1.0-submission"
+  description: >-
+    Public reproducibility-core release prepared for journal submission. It contains
+    HCC analysis protocols, derived matrices, locked result tables, figure source data,
+    executable scripts and environment specifications. Primary GEO, TCGA and ICGC files are not redistributed; their
+    accession identifiers, download locations, versions and checksums are recorded
+    in the included manifests.
+  creators:
+    - name: "Yu, Simiao"
+      affiliation: "School of Food Science and Technology, Jiangnan University, Wuxi, China"
+      # ORCID intentionally omitted because no verified identifier was supplied.
+    - name: "Wang, Zhouping"
+      affiliation: "School of Food Science and Technology, Jiangnan University, Wuxi, China"
+      # ORCID intentionally omitted because no verified identifier was supplied.
+  keywords:
+    - hepatocellular carcinoma
+    - transcriptomics
+    - paired analysis
+    - meta-analysis
+    - RNA sequencing
+    - reproducibility
+    - bioinformatics
+  access_right: open
+  license: cc-by-4.0
+  notes: >-
+    This is a pre-submission release. Original derived data and documentation are
+    released under CC BY 4.0, and original source code is released under the MIT
+    License. No third-party raw data are redistributed or relicensed.
+  related_identifiers:
+    - identifier: "https://github.com/lory-Yu/HCC-paired-meta-analysis-reproducibility"
+      relation: isSupplementTo
+      scheme: url

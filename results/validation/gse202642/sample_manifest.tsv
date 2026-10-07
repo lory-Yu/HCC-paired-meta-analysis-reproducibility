@@ -1,0 +1,12 @@
+gsm_id	barcode_suffix	sample_title	tissue_class	patient_label	virus	tumor_stage	source_name
+GSM6127499	1	Human hepatocellular carcinoma tissues [2a-0706]	tumor	0706_2a	HBV	BCLC-B	Human hepatocellular carcinoma tissues
+GSM6127500	2	Human hepatocellular carcinoma tissues [1a-0618]	tumor	0618_1a	HBV	BCLC-B	Human hepatocellular carcinoma tissues
+GSM6127501	3	Human hepatocellular carcinoma tissues [1a-0629]	tumor	0629_1a	HBV	BCLC-B	Human hepatocellular carcinoma tissues
+GSM6127502	4	Human hepatocellular carcinoma tissues [1a-0706]	tumor	0706_1a	HBV	BCLC-B	Human hepatocellular carcinoma tissues
+GSM6127503	5	Human hepatocellular carcinoma tissues [1a-0707]	tumor	0707_1a	HBV	BCLC-A	Human hepatocellular carcinoma tissues
+GSM6127504	6	Human hepatocellular carcinoma tissues [1a-0727]	tumor	0727_1a	HBV	BCLC-A	Human hepatocellular carcinoma tissues
+GSM6127505	7	Human hepatocellular carcinoma tissues [1a-0831]	tumor	0831_1a	HBV	BCLC-A	Human hepatocellular carcinoma tissues
+GSM6127506	8	Human adjacent liver tissues [1b-0618]	adjacent	0618_1b	HBV	BCLC-B	Human adjacent liver tissues
+GSM6127507	9	Human adjacent liver tissues [2b-0618]	adjacent	0618_2b	HBV	BCLC-B	Human adjacent liver tissues
+GSM6127508	10	Human adjacent liver tissues [X-1b]	adjacent	X_1b	HBV	BCLC-A	Human adjacent liver tissues
+GSM6127509	11	Human adjacent liver tissues [B-2b]	adjacent	B_2b	HBV	BCLC-A	Human adjacent liver tissues
