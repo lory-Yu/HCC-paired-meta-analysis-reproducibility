@@ -24,7 +24,13 @@ def digest(path: Path) -> str:
 
 def release_files() -> list[Path]:
     return sorted(
-        (path for path in ROOT.rglob("*") if path.is_file() and path not in EXCLUDE),
+        (
+            path
+            for path in ROOT.rglob("*")
+            if path.is_file()
+            and path not in EXCLUDE
+            and ".git" not in path.relative_to(ROOT).parts
+        ),
         key=lambda path: path.relative_to(ROOT).as_posix(),
     )
 

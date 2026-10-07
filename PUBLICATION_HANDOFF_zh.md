@@ -6,7 +6,9 @@
 - 已排除第三方原始数据、无关项目、投稿私密包和本机绝对路径；
 - 已准备 Zenodo 元数据、引用文件、公开后稿件声明和正式许可证；
 - 已执行发现分析、稳健性、双 FDR、ICGC 标识符调和和定点审计验证；
-- 尚未实际上传，因此当前仍无公开 URL 或 DOI。
+- 已公开 GitHub 仓库并发布标签 `v0.1.0-submission`；Zenodo 已完成归档。
+- GitHub：`https://github.com/lory-Yu/HCC-paired-meta-analysis-reproducibility`
+- 版本 DOI：`https://doi.org/10.5281/zenodo.23210222`；概念 DOI：`https://doi.org/10.5281/zenodo.23210221`。
 
 ## 已确认的公开授权
 
@@ -18,9 +20,7 @@
 
 ## 建议发布顺序
 
-1. 在 GitHub/GitLab 创建公开仓库，上传解压后的 release 内容并建立标签 `v0.1.0-submission`。
-2. 在 Zenodo 新建 Dataset 记录，上传根目录 ZIP；也可启用 GitHub–Zenodo 集成归档同一标签。
-3. 使用 `ZENODO_METADATA_TEMPLATE.yaml` 填写元数据；不要填写尚不存在的文章 DOI。
-4. 发布 Zenodo 记录，取得可以解析的真实 DOI。
-5. 将 DOI 和公开代码 URL 回填到 `CITATION.cff`、README、稿件 Data availability、Code availability 及参考文献。
-6. DOI 回填属于文本更新；若 release 文件本身改变，应发布新版本并重新生成校验和，而不是覆盖已公开文件。
+1. GitHub 公开仓库、标签和 Release 已完成。
+2. Zenodo 已通过 GitHub 集成归档同一标签并生成可解析 DOI。
+3. DOI 和公开代码 URL 已回填到 `CITATION.cff`、README 及稿件 Data/Code availability。
+4. 本次 DOI 回填属于发布后的文本更新；若分析或 release 文件发生实质改变，应发布新版本，而不是覆盖已公开版本。

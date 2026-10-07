@@ -168,11 +168,11 @@ During preparation of this manuscript, the authors used ChatGPT (OpenAI) through
 
 ### 6.8 Data availability
 
-All primary data are available from public repositories: GEO accessions are listed in Section 2.2; TCGA-LIHC was accessed through the UCSC Xena GDC hub; ICGC-LIRI-JP was accessed from Release 28 of the ICGC open object store; and GSE202642 is available through GEO. The Allain comparison used the official Supplementary Table 2 archive (dataset DOI: 10.1158/0008-5472.22412988.v1). Download URLs, versions, access dates and SHA-256 values are recorded in the project manifests. The derived matrices, locked tables, source data, figures, scripts and environment specifications will be supplied to editors and reviewers through a private access package during peer review. If accepted, they will be deposited in a stable public repository before publication and the permanent URL or DOI will be added here. No public DOI is claimed at submission.
+All primary data are available from public repositories: GEO accessions are listed in Section 2.2; TCGA-LIHC was accessed through the UCSC Xena GDC hub; ICGC-LIRI-JP was accessed from Release 28 of the ICGC open object store; and GSE202642 is available through GEO. The Allain comparison used the official Supplementary Table 2 archive (dataset DOI: 10.1158/0008-5472.22412988.v1). Download URLs, versions, access dates and SHA-256 values are recorded in the project manifests. The analysis protocols, derived matrices, locked tables, source data, figures and environment specifications are publicly archived in Zenodo (release `v0.1.0-submission`, doi:10.5281/zenodo.23210222). Third-party raw files are not redistributed and must be obtained from their source repositories.
 
 ### 6.9 Code availability
 
-The complete workflow, including analysis protocols, multiplicity and identifier audits, verification scripts, figure source data and environment lock, is included in the private reviewer package. The public repository URL, release tag and archival DOI will be added before publication if the manuscript is accepted.
+The complete workflow, including multiplicity and identifier audits, verification scripts, figure source data and the environment lock, is available at `https://github.com/lory-Yu/HCC-paired-meta-analysis-reproducibility` and is archived in Zenodo under release `v0.1.0-submission` (doi:10.5281/zenodo.23210222).
 
 ## 7. References
 

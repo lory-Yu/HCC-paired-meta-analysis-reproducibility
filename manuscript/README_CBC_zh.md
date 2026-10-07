@@ -29,4 +29,4 @@ GSE202642 只用于描述信号在肝细胞、胆管上皮细胞、Kupffer 巨�
 
 统计重构结果位于 `results/validation/cbc_external_validation_v1/`，通过 `make verify-cbc-external-validation` 和 `make verify-cbc-icgc-identifier-sensitivity`。源码包括外部验证、历史符号统一、效应量一致性与作图脚本。`source_data_manifest_CBC.tsv` 记录每个图件源表的 SHA-256、用途和上游路径；主交付文件的校验和见 [delivery_checksums_CBC.sha256](delivery_checksums_CBC.sha256)。
 
-当前未伪写公开仓库或 DOI。如作者决定在首投前公开，需先确认授权和许可证，完成 GitHub/Zenodo 归档后再将真实 URL/DOI 写入 Data availability 和 Code availability。
+可复现核心已在投稿前公开：GitHub 仓库为 `https://github.com/lory-Yu/HCC-paired-meta-analysis-reproducibility`，Zenodo 版本 DOI 为 `https://doi.org/10.5281/zenodo.23210222`（`v0.1.0-submission`）。第三方原始数据仍由原始数据库分发，未在本项目中重新上传。

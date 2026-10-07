@@ -1,9 +1,10 @@
 cff-version: 1.2.0
 message: "If you use this research compendium, please cite the archived release and the associated article."
 title: "Paired-cohort meta-analysis with dual RNA-seq replication of recurrent transcriptional alterations in hepatocellular carcinoma: reproducibility core"
-type: dataset
-version: "0.1.0-submission"
+type: software
+version: "v0.1.0-submission"
 date-released: "2026-10-07"
+doi: "10.5281/zenodo.23210222"
 authors:
   - family-names: "Yu"
     given-names: "Simiao"
@@ -21,7 +22,10 @@ keywords:
   - reproducibility
   - bioinformatics
 repository-code: "https://github.com/lory-Yu/HCC-paired-meta-analysis-reproducibility"
-url: "https://github.com/lory-Yu/HCC-paired-meta-analysis-reproducibility"
+url: "https://doi.org/10.5281/zenodo.23210222"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.23210222"
 abstract: >-
   Public reproducibility-core release containing the HCC analysis specification,
   derived discovery and validation tables, source data, executable workflows,

@@ -2,7 +2,7 @@
 
 ## Current state
 
-This directory is a locally assembled, checksum-verified public reproducibility-core release. It has not been uploaded to GitHub, Zenodo or another public repository by this workflow, and therefore has no public URL or DOI.
+This directory is the locally assembled source of the checksum-verified public reproducibility-core release. The public repository is `https://github.com/lory-Yu/HCC-paired-meta-analysis-reproducibility`; tag `v0.1.0-submission` was archived by Zenodo as `https://doi.org/10.5281/zenodo.23210222` on 7 October 2026.
 
 ## Included
 
@@ -22,8 +22,8 @@ This directory is a locally assembled, checksum-verified public reproducibility-
 
 1. The authors approved public release on 7 October 2026: original code under MIT and original derived outputs under CC BY 4.0.
 2. Verified ORCID identifiers were not supplied and are therefore left blank rather than inferred.
-3. Upload the exact checksum-verified archive, record its final SHA-256, and obtain the real DOI.
-4. Replace the DOI placeholder in the public README and manuscript Data/Code availability only after publication of the repository record.
+3. GitHub and Zenodo publication completed; the version DOI is `10.5281/zenodo.23210222` and the concept DOI is `10.5281/zenodo.23210221`.
+4. DOI and repository links were backfilled only after the Zenodo record became publicly resolvable.
 
 ## Integrity
 

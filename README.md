@@ -38,7 +38,11 @@ The public Makefile exposes integrity and verification targets without the autho
 
 ## Citation
 
-The public code repository is `https://github.com/lory-Yu/HCC-paired-meta-analysis-reproducibility`. No Zenodo DOI has yet been assigned. After Zenodo archives the tagged GitHub release, the real version DOI will be added here and to the manuscript availability statements. If the manuscript changes materially, create a new version rather than overwriting this release.
+The public code repository is `https://github.com/lory-Yu/HCC-paired-meta-analysis-reproducibility`. The archived submission release is available at `https://doi.org/10.5281/zenodo.23210222`; the concept DOI for all versions is `https://doi.org/10.5281/zenodo.23210221`.
+
+Yu S, Wang Z. Paired-cohort meta-analysis with dual RNA-seq replication of recurrent transcriptional alterations in hepatocellular carcinoma: reproducibility core. Version v0.1.0-submission. Zenodo; 2026. doi:10.5281/zenodo.23210222.
+
+If the manuscript changes materially, create a new version rather than overwriting this release.
 
 ## Contact
 
