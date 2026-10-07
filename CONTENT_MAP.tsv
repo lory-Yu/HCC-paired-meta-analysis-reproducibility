@@ -6,6 +6,8 @@ derived_expression_matrices	YES	Publish non-identifiable derived GEO matrices if
 meta_and_sensitivity_results	YES	Publish complete result tables, including negative and non-estimable outputs	Preserves analysis denominators
 tcga_icgc_results	YES	Publish derived effect tables and manifests only	Primary files remain at source repositories
 single_cell_results	YES	Publish localization tables and cell metadata derived from public data	Supports descriptive localization
+metadata_field_audit	YES	Publish GEO sample-characteristics audit script and output	Documents the GSE121248 sex/age label transposition used in the manuscript
+supplementary_table_s1	YES	Publish gene-level Supplementary Table S1 and its builder	Makes every Table 1 count reproducible at gene level
 raw_geo_tcga_icgc_files	NO	Provide accession and download manifests only	Third-party public files should not be redundantly redistributed
 author_credentials_or_tokens	NO	Never include	Security and privacy
 temporary_word_lock_files	NO	Exclude files beginning with .~	Not part of the scientific record

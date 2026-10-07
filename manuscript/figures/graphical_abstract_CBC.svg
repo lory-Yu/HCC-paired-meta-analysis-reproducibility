@@ -6,7 +6,7 @@
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2026-10-07T17:16:29.252745</dc:date>
+    <dc:date>2026-10-08T07:17:08.285182</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -30,114 +30,233 @@ z
   </g>
   <g id="axes_1">
    <g id="patch_2">
-    <path d="M 139.05 248.7888 
-L 264.6 248.7888 
-L 264.6 137.9088 
-L 139.05 137.9088 
+    <path d="M 7.2 307.881523 
+L 149.44 307.881523 
+L 149.44 57.69627 
+L 7.2 57.69627 
 z
-" clip-path="url(#pcf30c6aa57)" style="fill: #315a7d; opacity: 0.95"/>
+" clip-path="url(#pe7c2e9c565)" style="fill: #315a7d"/>
    </g>
    <g id="patch_3">
-    <path d="M 286.92 248.7888 
-L 412.47 248.7888 
-L 412.47 137.9088 
-L 286.92 137.9088 
+    <path d="M 168.16 307.881523 
+L 289.76 307.881523 
+L 289.76 57.69627 
+L 168.16 57.69627 
 z
-" clip-path="url(#pcf30c6aa57)" style="fill: #3c9d9b; opacity: 0.95"/>
+" clip-path="url(#pe7c2e9c565)" style="fill: #3c9d9b"/>
    </g>
    <g id="patch_4">
-    <path d="M 434.79 248.7888 
-L 560.34 248.7888 
-L 560.34 137.9088 
-L 434.79 137.9088 
+    <path d="M 308.48 307.881523 
+L 422.4 307.881523 
+L 422.4 57.69627 
+L 308.48 57.69627 
 z
-" clip-path="url(#pcf30c6aa57)" style="fill: #e58b4a; opacity: 0.95"/>
+" clip-path="url(#pe7c2e9c565)" style="fill: #4c93c3"/>
    </g>
    <g id="patch_5">
-    <path d="M 582.66 248.7888 
-L 708.21 248.7888 
-L 708.21 137.9088 
-L 582.66 137.9088 
+    <path d="M 454.08 177.028896 
+L 593.44 177.028896 
+L 593.44 57.69627 
+L 454.08 57.69627 
 z
-" clip-path="url(#pcf30c6aa57)" style="fill: #7a6ba8; opacity: 0.95"/>
+" clip-path="url(#pe7c2e9c565)" style="fill: #4b5563"/>
    </g>
    <g id="patch_6">
-    <path d="M 730.53 248.7888 
-L 842.13 248.7888 
-L 842.13 137.9088 
-L 730.53 137.9088 
+    <path d="M 454.08 307.881523 
+L 593.44 307.881523 
+L 593.44 188.548896 
+L 454.08 188.548896 
 z
-" clip-path="url(#pcf30c6aa57)" style="fill: #5a9a68; opacity: 0.95"/>
-   </g>
-   <g id="text_1">
-    <text style="font-weight: 700; font-size: 10px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #ffffff" transform="translate(162.095312 185.192062)">Six GEO cohorts</text>
-    <text style="font-weight: 700; font-size: 10px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #ffffff" transform="translate(152.09375 195.934738)">439 intent-to-analyse</text>
-    <text style="font-weight: 700; font-size: 10px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #ffffff" transform="translate(156.80625 207.665695)">167 complete pairs</text>
-   </g>
-   <g id="text_2">
-    <text style="font-weight: 700; font-size: 10px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #ffffff" transform="translate(316.904375 185.192062)">Paired effects</text>
-    <text style="font-weight: 700; font-size: 10px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #ffffff" transform="translate(318.565313 195.780831)">17,900 genes</text>
-    <text style="font-weight: 700; font-size: 10px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #ffffff" transform="translate(301.160625 207.665695)">REML meta-analysis</text>
-   </g>
-   <g id="text_3">
-    <text style="font-weight: 700; font-size: 10px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #ffffff" transform="translate(468.951719 185.192062)">Robustness</text>
-    <text style="font-weight: 700; font-size: 10px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #ffffff" transform="translate(451.029844 196.923019)">LOCO + fixed effect</text>
-    <text style="font-weight: 700; font-size: 10px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #ffffff" transform="translate(433.934531 207.665695)">438-sample blocked model</text>
-   </g>
-   <g id="text_4">
-    <text style="font-weight: 700; font-size: 10px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #ffffff" transform="translate(603.202969 184.20378)">External RNA-seq</text>
-    <text style="font-weight: 700; font-size: 10px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #ffffff" transform="translate(611.16625 195.934738)">TCGA 50 pairs</text>
-    <text style="font-weight: 700; font-size: 10px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #ffffff" transform="translate(609.865469 207.665695)">ICGC 199 pairs</text>
-   </g>
-   <g id="text_5">
-    <text style="font-weight: 700; font-size: 10px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #ffffff" transform="translate(752.419844 184.181905)">159/167 genes</text>
-    <text style="font-weight: 700; font-size: 10px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #ffffff" transform="translate(763.268281 195.934738)">pass dual</text>
-    <text style="font-weight: 700; font-size: 10px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #ffffff" transform="translate(743.825312 207.64382)">genome-wide rule</text>
+" clip-path="url(#pe7c2e9c565)" style="fill: #d5dbe2"/>
    </g>
    <g id="patch_7">
-    <path d="M 271.061684 193.3488 
-Q 275.758779 193.3488 278.219807 193.3488 
-" style="fill: none; stroke: #3f4650; stroke-width: 2; stroke-linecap: round"/>
-    <path d="M 275.619807 192.0488 
-L 278.219807 193.3488 
-L 275.619807 194.6488 
-" style="fill: none; stroke: #3f4650; stroke-width: 2; stroke-linecap: round"/>
+    <path d="M 612.16 307.881523 
+L 734.96 307.881523 
+L 734.96 57.69627 
+L 612.16 57.69627 
+z
+" clip-path="url(#pe7c2e9c565)" style="fill: #7a6ba8"/>
    </g>
    <g id="patch_8">
-    <path d="M 418.931684 193.3488 
-Q 423.628779 193.3488 426.089807 193.3488 
-" style="fill: none; stroke: #3f4650; stroke-width: 2; stroke-linecap: round"/>
-    <path d="M 423.489807 192.0488 
-L 426.089807 193.3488 
-L 423.489807 194.6488 
-" style="fill: none; stroke: #3f4650; stroke-width: 2; stroke-linecap: round"/>
+    <path d="M 753.68 177.028896 
+L 948.96 177.028896 
+L 948.96 57.69627 
+L 753.68 57.69627 
+z
+" clip-path="url(#pe7c2e9c565)" style="fill: #4b5563"/>
    </g>
    <g id="patch_9">
-    <path d="M 566.801684 193.3488 
-Q 571.498779 193.3488 573.959807 193.3488 
-" style="fill: none; stroke: #3f4650; stroke-width: 2; stroke-linecap: round"/>
-    <path d="M 571.359807 192.0488 
-L 573.959807 193.3488 
-L 571.359807 194.6488 
-" style="fill: none; stroke: #3f4650; stroke-width: 2; stroke-linecap: round"/>
+    <path d="M 753.68 307.881523 
+L 948.96 307.881523 
+L 948.96 188.548896 
+L 753.68 188.548896 
+z
+" clip-path="url(#pe7c2e9c565)" style="fill: #d5dbe2"/>
    </g>
-   <g id="patch_10">
-    <path d="M 714.671684 193.3488 
-Q 719.368779 193.3488 721.829807 193.3488 
-" style="fill: none; stroke: #3f4650; stroke-width: 2; stroke-linecap: round"/>
-    <path d="M 719.229807 192.0488 
-L 721.829807 193.3488 
-L 719.229807 194.6488 
-" style="fill: none; stroke: #3f4650; stroke-width: 2; stroke-linecap: round"/>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 14.5px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #ffffff" x="78.32" y="74.732666" transform="rotate(-0 78.32 74.732666)">Six GEO cohorts</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 13.5px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #ffffff" transform="translate(39.296562 183.088198)">167 matched</text>
+    <text style="font-size: 13.5px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #ffffff" transform="translate(53.560156 197.130703)">tumour–</text>
+    <text style="font-size: 13.5px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #ffffff" transform="translate(27.300547 210.893716)">non-tumour pairs</text>
+   </g>
+   <g id="text_3">
+    <text style="font-weight: 700; font-size: 14.5px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #ffffff" x="228.96" y="74.732666" transform="rotate(-0 228.96 74.732666)">Meta-analysis</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 13.5px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #ffffff" transform="translate(188.051836 181.575776)">17 900 genes</text>
+    <text style="font-size: 13.5px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #ffffff" transform="translate(188.816484 197.479805)">446 recurrent</text>
+    <text style="font-size: 13.5px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #ffffff" transform="translate(203.441836 210.893716)">changes</text>
+   </g>
+   <g id="text_5">
+    <text style="font-weight: 700; font-size: 14.5px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #ffffff" x="365.44" y="74.732666" transform="rotate(-0 365.44 74.732666)">Robustness</text>
    </g>
    <g id="text_6">
-    <text style="font-size: 12px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #3f4650" x="490.032" y="312.878269" transform="rotate(-0 490.032 312.878269)">A recurrent tumour-versus-non-tumour expression core, with multiplicity and missingness reported explicitly</text>
+    <text style="font-size: 13.5px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #ffffff" transform="translate(346.311133 175.625032)">LOCO</text>
+    <text style="font-size: 13.5px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #ffffff" transform="translate(332.921875 190.373123)">fixed effect</text>
+    <text style="font-size: 13.5px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #ffffff" transform="translate(321.917266 204.942971)">blocked model</text>
+    <text style="font-size: 13.5px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #ffffff" transform="translate(322.675586 218.17864)">(438 samples)</text>
+   </g>
+   <g id="text_7">
+    <text style="font-weight: 700; font-size: 14.5px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #ffffff" x="523.76" y="74.732666" transform="rotate(-0 523.76 74.732666)">Robust tier</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 13.5px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #ffffff" transform="translate(492.234336 123.434387)">173 genes</text>
+    <text style="font-size: 13.5px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #ffffff" transform="translate(498.434844 139.338416)">I² &lt; 50%</text>
+   </g>
+   <g id="text_9">
+    <text style="font-weight: 700; font-size: 14.5px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #1f2933" x="523.76" y="205.585293" transform="rotate(-0 523.76 205.585293)">Intermediate tier</text>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 13.5px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #1f2933" transform="translate(492.735312 254.287014)">119 genes</text>
+    <text style="font-size: 13.5px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #1f2933" transform="translate(492.991602 270.191042)">I² 50–75%</text>
+   </g>
+   <g id="text_11">
+    <text style="font-weight: 700; font-size: 14.5px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #ffffff" x="673.56" y="74.732666" transform="rotate(-0 673.56 74.732666)">Validation</text>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 13.5px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #ffffff" transform="translate(625.541133 181.754019)">paired RNA-seq</text>
+    <text style="font-size: 13.5px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #ffffff" transform="translate(629.294766 196.323867)">TCGA 50 pairs</text>
+    <text style="font-size: 13.5px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #ffffff" transform="translate(627.044062 210.893716)">ICGC 199 pairs</text>
+   </g>
+   <g id="text_13">
+    <text style="font-weight: 700; font-size: 21px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #ffffff" x="851.32" y="79.500557" transform="rotate(-0 851.32 79.500557)">161/167</text>
+   </g>
+   <g id="text_14">
+    <text style="font-style: italic; font-size: 13.5px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #ffffff" x="851.32" y="167.702324" transform="rotate(-0 851.32 167.702324)">genome-wide FDR: 159/167</text>
+   </g>
+   <g id="text_15">
+    <text style="font-size: 13.5px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #ffffff" transform="translate(814.925898 117.098391)">replicated in</text>
+    <text style="font-size: 13.5px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #ffffff" transform="translate(814.174961 133.002419)">both cohorts</text>
+   </g>
+   <g id="text_16">
+    <text style="font-weight: 700; font-size: 21px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #1f2933" x="851.32" y="210.353184" transform="rotate(-0 851.32 210.353184)">97/98</text>
+   </g>
+   <g id="text_17">
+    <text style="font-size: 13.5px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #1f2933" transform="translate(814.925898 257.551018)">replicated in</text>
+    <text style="font-size: 13.5px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #1f2933" transform="translate(814.174961 273.455046)">both cohorts</text>
+   </g>
+   <g id="patch_10">
+    <path d="M 151.6 182.788896 
+Q 158.8 182.788896 164.211146 182.788896 
+" style="fill: none; stroke: #3f4650; stroke-width: 1.6; stroke-linecap: round"/>
+    <path d="M 158.611146 179.988896 
+L 164.211146 182.788896 
+L 158.611146 185.588896 
+z
+" style="fill: #3f4650; stroke: #3f4650; stroke-width: 1.6; stroke-linecap: round"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 291.92 182.788896 
+Q 299.12 182.788896 304.531146 182.788896 
+" style="fill: none; stroke: #3f4650; stroke-width: 1.6; stroke-linecap: round"/>
+    <path d="M 298.931146 179.988896 
+L 304.531146 182.788896 
+L 298.931146 185.588896 
+z
+" style="fill: #3f4650; stroke: #3f4650; stroke-width: 1.6; stroke-linecap: round"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 424.56 182.788896 
+Q 438.24 150.07574 451.229851 119.012945 
+" style="fill: none; stroke: #3f4650; stroke-width: 1.6; stroke-linecap: round"/>
+    <path d="M 446.486118 123.099141 
+L 451.229851 119.012945 
+L 451.652568 125.259649 
+z
+" style="fill: #3f4650; stroke: #3f4650; stroke-width: 1.6; stroke-linecap: round"/>
+   </g>
+   <g id="patch_13">
+    <path d="M 595.6 117.362583 
+Q 602.8 117.362583 608.211146 117.362583 
+" style="fill: none; stroke: #3f4650; stroke-width: 1.6; stroke-linecap: round"/>
+    <path d="M 602.611146 114.562583 
+L 608.211146 117.362583 
+L 602.611146 120.162583 
+z
+" style="fill: #3f4650; stroke: #3f4650; stroke-width: 1.6; stroke-linecap: round"/>
+   </g>
+   <g id="patch_14">
+    <path d="M 737.12 117.362583 
+Q 744.32 117.362583 749.731146 117.362583 
+" style="fill: none; stroke: #3f4650; stroke-width: 1.6; stroke-linecap: round"/>
+    <path d="M 744.131146 114.562583 
+L 749.731146 117.362583 
+L 744.131146 120.162583 
+z
+" style="fill: #3f4650; stroke: #3f4650; stroke-width: 1.6; stroke-linecap: round"/>
+   </g>
+   <g id="patch_15">
+    <path d="M 424.56 182.788896 
+Q 438.24 215.502053 451.229851 246.564848 
+" style="fill: none; stroke: #3f4650; stroke-width: 1.6; stroke-linecap: round"/>
+    <path d="M 451.652568 240.318144 
+L 451.229851 246.564848 
+L 446.486118 242.478652 
+z
+" style="fill: #3f4650; stroke: #3f4650; stroke-width: 1.6; stroke-linecap: round"/>
+   </g>
+   <g id="patch_16">
+    <path d="M 595.6 248.21521 
+Q 602.8 248.21521 608.211146 248.21521 
+" style="fill: none; stroke: #3f4650; stroke-width: 1.6; stroke-linecap: round"/>
+    <path d="M 602.611146 245.41521 
+L 608.211146 248.21521 
+L 602.611146 251.01521 
+z
+" style="fill: #3f4650; stroke: #3f4650; stroke-width: 1.6; stroke-linecap: round"/>
+   </g>
+   <g id="patch_17">
+    <path d="M 737.12 248.21521 
+Q 744.32 248.21521 749.731146 248.21521 
+" style="fill: none; stroke: #3f4650; stroke-width: 1.6; stroke-linecap: round"/>
+    <path d="M 744.131146 245.41521 
+L 749.731146 248.21521 
+L 744.131146 251.01521 
+z
+" style="fill: #3f4650; stroke: #3f4650; stroke-width: 1.6; stroke-linecap: round"/>
+   </g>
+   <g id="text_18">
+    <text style="font-weight: 700; font-size: 15px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #3f4650" x="701.52" y="16.009512" transform="rotate(-0 701.52 16.009512)">Heterogeneity downgrade did not predict replication</text>
+   </g>
+   <g id="text_19">
+    <text style="font-size: 13.5px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #3f4650" transform="translate(512.246836 33.422637)">Difference not significant (Fisher P = 0.27); denominators differ:</text>
+    <text style="font-size: 13.5px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #3f4650" transform="translate(516.670195 47.612402)">jointly estimable 167/173 robust vs 98/119 intermediate genes</text>
+   </g>
+   <g id="text_20">
+    <text style="font-size: 13.5px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #3f4650" transform="translate(531.164531 324.947422)">Identifier matching: +34 genes, 34/34 replicated</text>
+    <text style="font-size: 13.5px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #3f4650" transform="translate(608.712539 339.137187)">FDR family: ±2 genes</text>
+   </g>
+   <g id="text_21">
+    <text style="font-size: 14px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #3f4650" transform="translate(136.595937 358.236104)">Moderate heterogeneity did not mark genes that failed replication; gene-identifier handling, not the FDR family,</text>
+    <text style="font-size: 14px; font-family: 'Arial', 'Liberation Sans', 'DejaVu Sans', sans-serif; fill: #3f4650" transform="translate(278.847969 373.345576)">changed how many locked genes could be tested and replicated</text>
    </g>
   </g>
  </g>
  <defs>
-  <clipPath id="pcf30c6aa57">
-   <rect x="119.52" y="45.8784" width="741.024" height="294.3864"/>
+  <clipPath id="pe7c2e9c565">
+   <rect x="0" y="0" width="956.16" height="382.32"/>
   </clipPath>
  </defs>
 </svg>

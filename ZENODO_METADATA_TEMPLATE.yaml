@@ -1,8 +1,8 @@
 metadata:
   title: "Paired-cohort meta-analysis with dual RNA-seq replication of recurrent transcriptional alterations in hepatocellular carcinoma: research compendium"
   upload_type: software
-  publication_date: "2026-10-07"
-  version: "0.1.0-submission"
+  publication_date: "2026-10-08"
+  version: "0.1.1-submission"
   description: >-
     Public reproducibility-core release prepared for journal submission. It contains
     HCC analysis protocols, derived matrices, locked result tables, figure source data,

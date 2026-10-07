@@ -1,0 +1,31 @@
+cohort	check	field	result	n	detail
+GSE121248	label_content	age	MISMATCH	107	non-age values, e.g. f, m
+GSE121248	label_content	Sex	MISMATCH	107	non-sex values, e.g. 30, 33, 35, 38, 39
+GSE121248	within_patient_sex	age	PASS	37	consistent across samples of each patient
+GSE121248	within_patient_age	Sex	PASS	37	consistent across samples of each patient
+GSE121248	tissue_vs_manifest	tissue	PASS	107	all manifest groups agree with GEO tissue field
+GSE45114	label_content	gender	PASS	49	sex values
+GSE45114	label_content	age	PASS	49	numeric ages 41-72
+GSE45114	within_patient_sex	gender	PASS	23	consistent across samples of each patient
+GSE45114	within_patient_age	age	PASS	23	consistent across samples of each patient
+GSE45114	tissue_vs_manifest	tissue_type	PASS	49	all manifest groups agree with GEO tissue field
+GSE57555	label_content	gender	PASS	64	sex values
+GSE57555	label_content	age	PASS	64	numeric ages 31-79
+GSE57555	within_patient_sex	gender	PASS	16	consistent across samples of each patient
+GSE57555	within_patient_age	age	PASS	16	consistent across samples of each patient
+GSE57555	tissue_vs_manifest	tissue	PASS	10	all manifest groups agree with GEO tissue field
+GSE57555	dob_vs_age	date of birth + age	PASS	5	analysed patients: birth year + age = 2007-2008
+GSE57555	dob_vs_age_not_analysed	date of birth + age	NOTE	11	not analysed (excluded CCC/unpaired): implausible implied year for patient 15 (1991)
+GSE57957	label_content	(sex)	NOT_RECORDED	0	no sex/gender field in GEO characteristics
+GSE57957	tissue_vs_manifest	disease state	PASS	78	all manifest groups agree with GEO tissue field
+GSE76427	label_content	age (years)	PASS	115	numeric ages 14-93
+GSE76427	label_content	gender (1=m, 2=f)	PASS	115	sex values
+GSE76427	within_patient_sex	gender (1=m, 2=f)	PASS	52	consistent across samples of each patient
+GSE76427	within_patient_age	age (years)	PASS	52	consistent across samples of each patient
+GSE76427	tissue_vs_manifest	tissue	PASS	167	all manifest groups agree with GEO tissue field
+GSE84402	label_content	gender	PASS	28	sex values
+GSE84402	label_content	age	PASS	26	numeric ages 35-67
+GSE84402	within_patient_sex	gender	PASS	14	consistent across samples of each patient
+GSE84402	within_patient_age	age	PASS	14	consistent across samples of each patient
+GSE84402	title_vs_sex_field	title vs gender	PASS	28	sex in sample title agrees with sex field
+GSE84402	tissue_vs_manifest	_source_name	PASS	28	all manifest groups agree with GEO tissue field

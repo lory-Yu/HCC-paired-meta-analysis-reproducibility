@@ -150,7 +150,7 @@ def fig1() -> list[dict[str, str]]:
     ax.axhline(-math.log10(.05), color=COLORS["dark"], lw=.7, ls="--")
     ax.set_xlabel("Pooled log₂ fold change (tumour - control)")
     ax.set_ylabel("-log₁₀ meta-analysis FDR")
-    ax.set_title("Random-effects meta-analysis of 17,900 genes", loc="left")
+    ax.set_title("Random-effects meta-analysis of 17 900 genes", loc="left")
     ax.legend(loc="upper center", bbox_to_anchor=(.5, -.20), ncol=2,
               handletextpad=.3, columnspacing=.8, borderaxespad=0)
     label(ax, "b")
@@ -267,7 +267,7 @@ def fig_supp_sc() -> list[dict[str,str]]:
     for ct in celltypes:
         d=cells[cells.cell_type_broad.eq(ct)]
         ax.scatter(d.UMAP1,d.UMAP2,s=.22,color=cmap[ct],alpha=.52,linewidth=0,rasterized=True)
-    ax.set_xlabel("UMAP1"); ax.set_ylabel("UMAP2"); ax.set_title("GSE202642 broad cell-type map (97,255 QC cells)",loc="left"); label(ax,"a",y=1.0315)
+    ax.set_xlabel("UMAP1"); ax.set_ylabel("UMAP2"); ax.set_title("GSE202642 broad cell-type map (97 255 QC cells)",loc="left"); label(ax,"a",y=1.0315)
     # The broad cell-class names are repeated as colored bars in panel b; the UMAP is
     # intentionally kept uncluttered so the supplementary panel remains readable.
     ax=ax_b
@@ -295,29 +295,168 @@ def fig_supp_sc() -> list[dict[str,str]]:
     cbar=fig.colorbar(im,ax=ax,fraction=.035,pad=.02); cbar.set_label("Within-gene z score",fontsize=5.8); cbar.ax.tick_params(labelsize=5.2)
     export(fig,"FigS1_single_cell_localization_CBC",panels)
     return [
-        {"figure":"FigS1","panel":"a","claim":"Broad cell classes in 97,255 QC cells","source":"gse202642/cell_metadata.tsv.gz"},
+        {"figure":"FigS1","panel":"a","claim":"Broad cell classes in 97 255 QC cells","source":"gse202642/cell_metadata.tsv.gz"},
         {"figure":"FigS1","panel":"b","claim":"Discovery robust genes localize across broad classes","source":"candidate_dominant_celltype.tsv"},
         {"figure":"FigS1","panel":"c","claim":"Localization patterns are descriptive","source":"candidate_celltype_localization.tsv"},
     ]
 
 
+def _contrast(fg: str, bg: str) -> float:
+    """WCAG 2.x contrast ratio between two hex colours."""
+    def lum(h: str) -> float:
+        c = [int(h.lstrip("#")[i:i+2], 16)/255 for i in (0, 2, 4)]
+        c = [x/12.92 if x <= 0.04045 else ((x+0.055)/1.055)**2.4 for x in c]
+        return 0.2126*c[0] + 0.7152*c[1] + 0.0722*c[2]
+    hi, lo = sorted((lum(fg), lum(bg)), reverse=True)
+    return (hi+0.05)/(lo+0.05)
+
+
 def graphical_abstract() -> None:
-    # A data-flow schematic, not a mechanism diagram. Dimensions meet CBC's
-    # 1328 x 531 pixel minimum when exported at 300 dpi.
-    fig, ax = plt.subplots(figsize=(13.28,5.31),dpi=300)
-    ax.set_xlim(0,13.28); ax.set_ylim(0,5.31); ax.axis("off")
-    boxes=[(0.35,1.65,2.25,2.0,"Six GEO cohorts\n439 intent-to-analyse\n167 complete pairs",COLORS["navy"]),(3.0,1.65,2.25,2.0,"Paired effects\n17,900 genes\nREML meta-analysis",COLORS["teal"]),(5.65,1.65,2.25,2.0,"Robustness\nLOCO + fixed effect\n438-sample blocked model",COLORS["orange"]),(8.3,1.65,2.25,2.0,"External RNA-seq\nTCGA 50 pairs\nICGC 199 pairs",COLORS["purple"]),(10.95,1.65,2.0,2.0,"159/167 genes\npass dual\ngenome-wide rule",COLORS["green"])]
-    for x,y,w,h,text,c in boxes:
-        ax.add_patch(plt.Rectangle((x,y),w,h,facecolor=c,alpha=.95,edgecolor="none",joinstyle="round"))
-        ax.text(x+w/2,y+h/2,text,ha="center",va="center",fontsize=10,color="white",fontweight="bold",linespacing=1.25)
-    for i in range(len(boxes)-1):
-        x=boxes[i][0]+boxes[i][2]; x2=boxes[i+1][0]
-        ax.annotate("",xy=(x2-.08,2.65),xytext=(x+.08,2.65),arrowprops=dict(arrowstyle="->",lw=2,color=COLORS["dark"]))
-    ax.text(6.64,.55,"A recurrent tumour-versus-non-tumour expression core, with multiplicity and missingness reported explicitly",ha="center",va="center",fontsize=12,color=COLORS["dark"])
-    # Keep the full canvas: the CBC graphical-abstract minimum is 1328 x 531 px.
-    fig.savefig(FIG/"graphical_abstract_CBC.png",dpi=300,pad_inches=.12)
-    fig.savefig(FIG/"graphical_abstract_CBC.pdf",pad_inches=.12)
-    fig.savefig(FIG/"graphical_abstract_CBC.svg",pad_inches=.12)
+    # A data-flow schematic, not a mechanism diagram. Every count shown is reported
+    # in the manuscript (Table 1, Section 3.3).
+    # Canvas 13.28 x 5.31 in at 300 dpi = 3984 x 1593 px: CBC's 1328 x 531 px aspect
+    # ratio, so a 13 cm-wide placement is about 5.2 cm high. Printed at 13 cm wide,
+    # canvas text shrinks by 13 cm / 33.73 cm = 0.385, so 5 pt in print needs >= 13 pt here.
+    WIDTH_IN, HEIGHT_IN, PRINT_CM, MIN_PRINT_PT = 13.28, 5.31, 13.0, 5.0
+    scale = PRINT_CM/2.54/WIDTH_IN
+    PT = {"title": 14.5, "result": 21.0, "body": 13.5, "note": 13.5, "header": 15.0, "caption": 14.0}
+    # The two tiers and their results share one neutral hue at two lightness levels,
+    # so colour marks membership only, not better/worse.
+    TIER_DARK, TIER_LIGHT, INK, WHITE = "#4B5563", "#D5DBE2", "#1F2933", "#FFFFFF"
+    MARGIN, PADX, PADY, GAP, BRANCH_GAP = 0.10, 0.11, 0.09, 0.26, 0.44
+
+    fig = plt.figure(figsize=(WIDTH_IN, HEIGHT_IN), dpi=300)
+    ax = fig.add_axes((0, 0, 1, 1))  # one data unit = one inch
+    ax.set_xlim(0, WIDTH_IN); ax.set_ylim(0, HEIGHT_IN); ax.axis("off")
+    fig.canvas.draw(); r = fig.canvas.get_renderer()
+
+    def measure(text: str, **kw) -> tuple[float, float]:
+        t = ax.text(0, 0, text, **kw); bb = t.get_window_extent(r); t.remove()
+        return bb.width/fig.dpi, bb.height/fig.dpi
+
+    # (key, column, row, title, body, extra small line, fill, ink)
+    boxes = [
+        ("cohorts", 0, "full", "Six GEO cohorts", "167 matched\ntumour–\nnon-tumour pairs", None, COLORS["navy"], WHITE),
+        ("meta", 1, "full", "Meta-analysis", "17\u00a0900 genes\n446 recurrent\nchanges", None, COLORS["teal"], WHITE),
+        ("robust", 2, "full", "Robustness", "LOCO\nfixed effect\nblocked model\n(438 samples)", None, COLORS["blue"], WHITE),
+        ("tier_r", 3, "top", "Robust tier", "173 genes\nI² < 50%", None, TIER_DARK, WHITE),
+        ("tier_i", 3, "bot", "Intermediate tier", "119 genes\nI² 50–75%", None, TIER_LIGHT, INK),
+        ("external", 4, "full", "Validation", "paired RNA-seq\nTCGA 50 pairs\nICGC 199 pairs", None, COLORS["purple"], WHITE),
+        ("res_r", 5, "top", "161/167", "replicated in\nboth cohorts", "genome-wide FDR: 159/167", TIER_DARK, WHITE),
+        ("res_i", 5, "bot", "97/98", "replicated in\nboth cohorts", None, TIER_LIGHT, INK),
+    ]
+    style = {
+        "title": lambda k: dict(fontsize=PT["result"] if k.startswith("res_") else PT["title"], fontweight="bold"),
+        "body": lambda k: dict(fontsize=PT["body"], linespacing=1.15),
+        "extra": lambda k: dict(fontsize=PT["note"], style="italic"),
+    }
+    header = ("Heterogeneity downgrade did not predict replication", dict(fontsize=PT["header"], fontweight="bold"))
+    sig = ("Difference not significant (Fisher P = 0.27); denominators differ:\n"
+           "jointly estimable 167/173 robust vs 98/119 intermediate genes", dict(fontsize=PT["note"], linespacing=1.12))
+    idnote = ("Identifier matching: +34 genes, 34/34 replicated\nFDR family: \u00b12 genes",
+              dict(fontsize=PT["note"], linespacing=1.12))
+    caption = ("Moderate heterogeneity did not mark genes that failed replication; gene-identifier handling, not the FDR family,\n"
+               "changed how many locked genes could be tested and replicated", dict(fontsize=PT["caption"], linespacing=1.15))
+
+    # Horizontal layout: each column is as wide as its widest text plus padding;
+    # the remaining width is shared equally.
+    need = [0.0]*6
+    for key, col, _, title, body, extra, _, _ in boxes:
+        for txt, kind in ((title, "title"), (body, "body"), (extra, "extra")):
+            if txt:
+                need[col] = max(need[col], measure(txt, **style[kind](key))[0] + 2*PADX)
+    gaps = [GAP, GAP, BRANCH_GAP, GAP, GAP]
+    spare = WIDTH_IN - 2*MARGIN - sum(need) - sum(gaps)
+    if spare < 0:
+        raise RuntimeError(f"graphical abstract: columns need {-spare:.2f} in more width")
+    widths = [n + spare/6 for n in need]
+    xs = [MARGIN + sum(widths[:i]) + sum(gaps[:i]) for i in range(6)]
+
+    # Vertical layout: header block on top, notes and caption at the bottom,
+    # boxes take everything in between.
+    hh, sh = measure(header[0], **header[1])[1], measure(sig[0], **sig[1])[1]
+    ih, chh = measure(idnote[0], **idnote[1])[1], measure(caption[0], **caption[1])[1]
+    y_header = HEIGHT_IN - 0.07 - hh/2
+    y_sig = y_header - hh/2 - 0.05 - sh/2
+    box_top = y_sig - sh/2 - 0.09
+    y_caption = 0.07 + chh/2
+    y_id = y_caption + chh/2 + 0.06 + ih/2
+    box_bot = y_id + ih/2 + 0.09
+    split = 0.16
+    half = (box_top - box_bot - split)/2
+    rows = {"full": (box_bot, box_top - box_bot), "top": (box_bot + half + split, half), "bot": (box_bot, half)}
+
+    rects, in_box = {}, []
+    for key, col, row, title, body, extra, fill, ink in boxes:
+        x, (y, h) = xs[col], rows[row]
+        rects[key] = ax.add_patch(plt.Rectangle((x, y), widths[col], h, facecolor=fill, edgecolor="none"))
+        cx = x + widths[col]/2
+        th = measure(title, **style["title"](key))[1]
+        y_title = y + h - PADY - th/2
+        in_box.append((key, ax.text(cx, y_title, title, ha="center", va="center", color=ink, **style["title"](key))))
+        floor = y
+        if extra:
+            eh = measure(extra, **style["extra"](key))[1]
+            in_box.append((key, ax.text(cx, y + PADY + eh/2, extra, ha="center", va="center", color=ink, **style["extra"](key))))
+            floor = y + PADY + eh
+        in_box.append((key, ax.text(cx, (floor + y_title - th/2)/2, body, ha="center", va="center", color=ink, **style["body"](key))))
+
+    def arrow(x0, y0, x1, y1):
+        ax.annotate("", xy=(x1, y1), xytext=(x0, y0),
+                    arrowprops=dict(arrowstyle="-|>", lw=1.6, color=COLORS["dark"], shrinkA=0, shrinkB=0, mutation_scale=14))
+    mid = box_bot + (box_top - box_bot)/2
+    for c in (0, 1):
+        arrow(xs[c] + widths[c] + 0.03, mid, xs[c+1] - 0.03, mid)
+    for row in ("top", "bot"):
+        y, h = rows[row]; yc = y + h/2
+        arrow(xs[2] + widths[2] + 0.03, mid, xs[3] - 0.03, yc)          # robustness -> both tiers
+        arrow(xs[3] + widths[3] + 0.03, yc, xs[4] - 0.03, yc)           # both tiers -> validation
+        arrow(xs[4] + widths[4] + 0.03, yc, xs[5] - 0.03, yc)           # validation -> results
+
+    hx = (xs[3] + xs[5] + widths[5])/2
+    outside = [
+        ax.text(hx, y_header, header[0], ha="center", va="center", color=COLORS["dark"], **header[1]),
+        ax.text(hx, y_sig, sig[0], ha="center", va="center", color=COLORS["dark"], **sig[1]),
+        ax.text(xs[4] + widths[4]/2, y_id, idnote[0], ha="center", va="center", color=COLORS["dark"], **idnote[1]),
+        ax.text(WIDTH_IN/2, y_caption, caption[0], ha="center", va="center", color=COLORS["dark"], **caption[1]),
+    ]
+
+    # Guards. (1) No in-box text crosses its box edge.
+    fig.canvas.draw(); r = fig.canvas.get_renderer()
+    for key, t in in_box:
+        tb, bb = t.get_window_extent(r), rects[key].get_window_extent(r)
+        if tb.x0 < bb.x0 + 4 or tb.x1 > bb.x1 - 4 or tb.y0 < bb.y0 + 2 or tb.y1 > bb.y1 - 2:
+            raise RuntimeError(f"graphical abstract: text overflows box {key!r}: {t.get_text()!r} "
+                               f"text={tuple(round(v) for v in tb.extents)} box={tuple(round(v) for v in bb.extents)}")
+    # (2) Text outside boxes stays on the canvas and clear of boxes and other text.
+    canvas = fig.bbox
+    for i, t in enumerate(outside):
+        tb = t.get_window_extent(r)
+        if tb.x0 < canvas.x0 or tb.x1 > canvas.x1 or tb.y0 < canvas.y0 or tb.y1 > canvas.y1:
+            raise RuntimeError(f"graphical abstract: text leaves the canvas: {t.get_text()!r}")
+        for other in list(rects.values()) + outside[i+1:]:
+            if tb.overlaps(other.get_window_extent(r)):
+                raise RuntimeError(f"graphical abstract: text overlaps another element: {t.get_text()!r}")
+    # (3) Every text renders at >= 5 pt when the figure is printed 13 cm wide.
+    sizes = {}
+    for t in ax.texts:
+        if not t.get_text():  # arrow annotations carry no text
+            continue
+        printed = t.get_fontsize()*scale
+        if printed < MIN_PRINT_PT:
+            raise RuntimeError(f"graphical abstract: {t.get_text()!r} prints at {printed:.2f} pt (< {MIN_PRINT_PT} pt)")
+    for name, pt in PT.items():
+        sizes[name] = round(pt*scale, 2)
+    # (4) Tier/result text contrast meets WCAG AA for normal text (4.5:1).
+    for fill, ink in ((TIER_DARK, WHITE), (TIER_LIGHT, INK)):
+        if _contrast(ink, fill) < 4.5:
+            raise RuntimeError(f"graphical abstract: contrast {ink} on {fill} is {_contrast(ink, fill):.2f} (< 4.5)")
+    print("graphical abstract printed sizes at 13 cm (pt):", sizes,
+          "| column widths (in):", [round(w, 2) for w in widths])
+
+    fig.savefig(FIG/"graphical_abstract_CBC.png", dpi=300)
+    fig.savefig(FIG/"graphical_abstract_CBC.pdf")
+    fig.savefig(FIG/"graphical_abstract_CBC.svg")
     plt.close(fig)
 
 
@@ -349,15 +488,15 @@ def main() -> None:
     use_by_name = {
         "cohort_differential_summary.tsv": "Fig1a",
         "meta_all_genes.tsv.gz": "Fig1b",
-        "candidate_downgrade_audit.tsv": "Fig1c-d",
-        "tcga_locked_candidate_multiplicity.tsv": "Fig2a; Table S1-S2",
-        "icgc_locked_candidate_identifier_harmonized_sensitivity.tsv": "Fig2b; Table S1-S2",
-        "tcga_icgc_identifier_harmonized_sensitivity.tsv": "Fig2a-d; Table S1",
+        "candidate_downgrade_audit.tsv": "Fig1c-d; Table S1",
+        "tcga_locked_candidate_multiplicity.tsv": "Fig2a; Table 1; Table S1-S2",
+        "icgc_locked_candidate_identifier_harmonized_sensitivity.tsv": "Fig2b; Table 1; Table S1-S2",
+        "tcga_icgc_identifier_harmonized_sensitivity.tsv": "Fig2a-d; Table 1; Table S1",
         "external_concordance_direction.tsv": "Table S3",
         "external_effect_size_concordance.tsv": "Fig2a-b; Table S3",
         "tcga_filtered_discovery_robust_candidates_audit.tsv": "Table S2",
-        "identifier_harmonization_counts.tsv": "Table S1-S2",
-        "multiplicity_counts_with_denominators.tsv": "Original-symbol sensitivity",
+        "identifier_harmonization_counts.tsv": "Table 1; Table S2",
+        "multiplicity_counts_with_denominators.tsv": "Table 1 (original-symbol rows)",
         "allain2016_overlap_summary.tsv": "Table S4",
         "allain2016_overlap_gene_level.tsv": "Table S4 source data",
         "discovery_external_sample_identifier_overlap_audit.tsv": "Methods sample-overlap audit",
@@ -393,7 +532,11 @@ Question: where are discovery-robust transcripts detected in one single-cell coh
         if HAS_ALIGNMENT_AUDIT
         else "The optional external panel-alignment audit was skipped because NATURE_FIGURE_SCRIPTS was not configured; inspect exported figures manually."
     )
-    (OUT/"figure_qa_notes.md").write_text(f"""# Figure QA notes
+    # figure_qa_notes.md carries hand-written review records; seed it only when
+    # absent, never overwrite it.
+    qa_notes = OUT/"figure_qa_notes.md"
+    if not qa_notes.exists():
+        qa_notes.write_text(f"""# Figure QA notes
 
 Figures were drawn with Python/matplotlib. {qa_note} Collision warnings must be reviewed at final size. The graphical abstract is a data-flow schematic and contains no mechanistic or therapeutic claim.
 """,encoding="utf-8")

@@ -10,7 +10,7 @@
 4. [cover_letter_CBC.docx](cover_letter_CBC.docx) 和 [highlights_CBC.txt](highlights_CBC.txt)：投稿附加文件。
 5. `figures/`：两个主图、一个补充图和图形摘要的 PDF/SVG/PNG/TIFF；图件经过文字大小、碰撞和版面审计。
 6. `results/validation/cbc_targeted_revision_audits_v1/`：Allain 2016 定量对照和 GEO–TCGA/ICGC 公开样本标识符重叠审计。
-7. 补充表 S6：按共同分母重建可估性、标识符调和、方向一致性和两套 FDR 的诊断审计；它不引入新的候选筛选。
+7. 正文 Table 1（原补充表 S1 与 S6 合并）：按共同分母重建可估性、标识符调和、方向一致性和两套 FDR 的证据阶梯；它不引入新的候选筛选。补充表 S1 改为 446 个发现基因的基因层面结果（`supplementary_table_S1_gene_level_CBC.xlsx`，由 `workflow/scripts/build_cbc_supplementary_table_s1.py` 生成并校验计数）。
 
 ## 统计主线
 
@@ -29,4 +29,4 @@ GSE202642 只用于描述信号在肝细胞、胆管上皮细胞、Kupffer 巨�
 
 统计重构结果位于 `results/validation/cbc_external_validation_v1/`，通过 `make verify-cbc-external-validation` 和 `make verify-cbc-icgc-identifier-sensitivity`。源码包括外部验证、历史符号统一、效应量一致性与作图脚本。`source_data_manifest_CBC.tsv` 记录每个图件源表的 SHA-256、用途和上游路径；主交付文件的校验和见 [delivery_checksums_CBC.sha256](delivery_checksums_CBC.sha256)。
 
-可复现核心已在投稿前公开：GitHub 仓库为 `https://github.com/lory-Yu/HCC-paired-meta-analysis-reproducibility`，Zenodo 版本 DOI 为 `https://doi.org/10.5281/zenodo.23210222`（`v0.1.0-submission`）。第三方原始数据仍由原始数据库分发，未在本项目中重新上传。
+可复现核心已在投稿前公开：GitHub 仓库为 `https://github.com/lory-Yu/HCC-paired-meta-analysis-reproducibility`，Zenodo 概念 DOI 为 `https://doi.org/10.5281/zenodo.23210221`（`v0.1.1-submission`；版本 DOI 待发布后回填）。第三方原始数据仍由原始数据库分发，未在本项目中重新上传。

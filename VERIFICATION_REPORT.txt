@@ -1,6 +1,6 @@
 CBC/HCC public reproducibility-core verification
-Date: 2026-10-07
-Release: 0.1.0-submission
+Date: 2026-10-08
+Release: 0.1.1-submission
 
 [PASS] Differential/meta-analysis verification
 [PASS] Sensitivity analysis verification
@@ -8,11 +8,15 @@ Release: 0.1.0-submission
 [PASS] ICGC identifier-harmonization sensitivity
 [PASS] Targeted revision audit inputs present (Allain comparison and sample-overlap audit)
 [PASS] Public figure builder executed from the standalone release
+[PASS] Supplementary Table S1 rebuilt with count assertions (Table 1 counts reproduced)
+[PASS] Graphical abstract builder: no text overflow; all text >= 5 pt at 13 cm width
+[INFO] GEO metadata audit: archived output; rerun requires GEO_SOFT_DIR
 
 Pre-manifest content audit:
 - third-party raw data file candidates: 0
 - author-machine absolute-path hits: 0
-- out-of-scope project-term hits: 0
+- out-of-scope project artifact paths: 0
+- contextual historical endpoint-term lines: 9 (prespecification/provenance statements only; no corresponding endpoint artifacts are included)
 - credential-pattern hits: 0
 
 The root SHA256SUMS.sha256 file is the final package-integrity check and is generated after the release manifest is finalized.

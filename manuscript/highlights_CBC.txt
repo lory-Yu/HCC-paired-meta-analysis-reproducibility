@@ -1,5 +1,5 @@
-• Prespecified paired meta-analysis finds 446 recurrent HCC expression changes
-• Locked robustness checks retain 173 discovery genes
-• Identifier harmonization separates missingness from failed replication
-• Two paired RNA-seq cohorts support 161 of 167 jointly testable genes
-• Transcriptome-wide FDR retains 159 of 167 genes
+• Paired analysis of six liver cancer cohorts found 446 recurrent expression changes
+• Two independent sequencing cohorts confirmed 161 of the 167 genes testable in both
+• Genes demoted for moderate cross-study inconsistency replicated as often as others
+• Matching outdated gene names recovered 34 genes, and all 34 replicated
+• Gene name handling changed results far more than the statistical correction
