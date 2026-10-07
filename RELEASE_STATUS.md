@@ -2,7 +2,7 @@
 
 ## Current state
 
-This directory is the locally assembled source of the checksum-verified public reproducibility-core release. The public repository is `https://github.com/lory-Yu/HCC-paired-meta-analysis-reproducibility`. Version `v0.1.1-submission` adds Supplementary Table S1, the GEO metadata audit and revised manuscript text and figures; its version DOI is recorded here after Zenodo publishes it.
+This directory is the locally assembled source of the checksum-verified public reproducibility-core release. The public repository is `https://github.com/lory-Yu/HCC-paired-meta-analysis-reproducibility`. Tag `v0.1.1-submission`, which adds Supplementary Table S1, the GEO metadata audit and revised manuscript text and figures, was archived by Zenodo as `https://doi.org/10.5281/zenodo.23225515` on 8 October 2026.
 
 ## Included
 
@@ -24,8 +24,8 @@ This directory is the locally assembled source of the checksum-verified public r
 
 1. The authors approved public release on 7 October 2026: original code under MIT and original derived outputs under CC BY 4.0.
 2. Verified ORCID identifiers were not supplied and are therefore left blank rather than inferred.
-3. The concept DOI is `10.5281/zenodo.23210221`; the `v0.1.1-submission` version DOI is pending publication.
-4. Version-specific DOI links are backfilled only after the Zenodo record becomes publicly resolvable.
+3. GitHub and Zenodo publication completed; the version DOI is `10.5281/zenodo.23225515` and the concept DOI is `10.5281/zenodo.23210221`.
+4. DOI and repository links were backfilled only after the Zenodo record became publicly resolvable.
 
 ## Integrity
 

@@ -6,9 +6,9 @@
 - 已排除第三方原始数据、无关项目、投稿私密包和本机绝对路径；
 - 已准备 Zenodo 元数据、引用文件、公开后稿件声明和正式许可证；
 - 已执行发现分析、稳健性、双 FDR、ICGC 标识符调和和定点审计验证；
-- GitHub 仓库已经公开；`v0.1.1-submission` 标签与 Zenodo 新版本归档待本轮校验完成后发布。
+- 已公开 GitHub 仓库并发布标签 `v0.1.1-submission`；Zenodo 已完成归档。
 - GitHub：`https://github.com/lory-Yu/HCC-paired-meta-analysis-reproducibility`
-- 概念 DOI：`https://doi.org/10.5281/zenodo.23210221`；`v0.1.1-submission` 版本 DOI 待 Zenodo 发布后回填。
+- 版本 DOI：`https://doi.org/10.5281/zenodo.23225515`；概念 DOI：`https://doi.org/10.5281/zenodo.23210221`。
 
 ## 已确认的公开授权
 

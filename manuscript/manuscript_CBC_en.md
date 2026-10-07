@@ -174,11 +174,11 @@ During preparation of this manuscript, the authors used ChatGPT (OpenAI) through
 
 ### 6.7 Data availability
 
-All primary data are available from public repositories: GEO accessions are listed in Section 2.2; TCGA-LIHC was accessed through the UCSC Xena GDC hub; ICGC-LIRI-JP was accessed from Release 28 of the ICGC open object store; and GSE202642 is available through GEO. The Allain comparison used the official Supplementary Table 2 archive (dataset DOI: 10.1158/0008-5472.22412988.v1). Download URLs, versions, access dates and SHA-256 values are recorded in the project manifests. The analysis protocols, derived matrices, locked tables, source data, figures and environment specifications are publicly archived in Zenodo (release `v0.1.1-submission`, concept doi:10.5281/zenodo.23210221) [35]. Third-party raw files are not redistributed and must be obtained from their source repositories.
+All primary data are available from public repositories: GEO accessions are listed in Section 2.2; TCGA-LIHC was accessed through the UCSC Xena GDC hub; ICGC-LIRI-JP was accessed from Release 28 of the ICGC open object store; and GSE202642 is available through GEO. The Allain comparison used the official Supplementary Table 2 archive (dataset DOI: 10.1158/0008-5472.22412988.v1). Download URLs, versions, access dates and SHA-256 values are recorded in the project manifests. The analysis protocols, derived matrices, locked tables, source data, figures and environment specifications are publicly archived in Zenodo (release `v0.1.1-submission`, doi:10.5281/zenodo.23225515) [35]. Third-party raw files are not redistributed and must be obtained from their source repositories.
 
 ### 6.8 Code availability
 
-The complete workflow, including multiplicity and identifier audits, verification scripts, figure source data and the environment lock, is available at `https://github.com/lory-Yu/HCC-paired-meta-analysis-reproducibility` and is archived in Zenodo under release `v0.1.1-submission` (concept doi:10.5281/zenodo.23210221) [35].
+The complete workflow, including multiplicity and identifier audits, verification scripts, figure source data and the environment lock, is available at `https://github.com/lory-Yu/HCC-paired-meta-analysis-reproducibility` and is archived in Zenodo under release `v0.1.1-submission` (doi:10.5281/zenodo.23225515) [35].
 
 ## Figure captions
 
@@ -224,4 +224,4 @@ The complete workflow, including multiplicity and identifier audits, verificatio
 32. von Hippel PT. The heterogeneity statistic I² can be biased in small meta-analyses. BMC Med Res Methodol. 2015;15:35. doi:10.1186/s12874-015-0024-z.
 33. Ziemann M, Eren Y, El-Osta A. Gene name errors are widespread in the scientific literature. Genome Biol. 2016;17:177. doi:10.1186/s13059-016-1044-7.
 34. Oh S, Abdelnabi J, Al-Dulaimi R, et al. HGNChelper: identification and correction of invalid gene symbols for human and mouse. F1000Res. 2020;9:1493. doi:10.12688/f1000research.28033.2.
-35. [dataset] Yu S, Wang Z. Paired-cohort meta-analysis with dual RNA-seq replication of recurrent transcriptional alterations in hepatocellular carcinoma: reproducibility core. Version v0.1.1-submission. Zenodo. 2026. Concept doi:10.5281/zenodo.23210221.
+35. [dataset] Yu S, Wang Z. Paired-cohort meta-analysis with dual RNA-seq replication of recurrent transcriptional alterations in hepatocellular carcinoma: reproducibility core. Version v0.1.1-submission. Zenodo. 2026. doi:10.5281/zenodo.23225515.

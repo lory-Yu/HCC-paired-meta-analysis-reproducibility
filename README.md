@@ -42,9 +42,9 @@ Figures, Supplementary Table S1 and the GEO metadata audit can be rebuilt with `
 
 ## Citation
 
-The public code repository is `https://github.com/lory-Yu/HCC-paired-meta-analysis-reproducibility`. The concept DOI for all archived versions is `https://doi.org/10.5281/zenodo.23210221`; the version DOI for `v0.1.1-submission` will be recorded after Zenodo publishes the release.
+The public code repository is `https://github.com/lory-Yu/HCC-paired-meta-analysis-reproducibility`. Release `v0.1.1-submission` is archived at `https://doi.org/10.5281/zenodo.23225515`; the concept DOI for all versions is `https://doi.org/10.5281/zenodo.23210221`.
 
-Yu S, Wang Z. Paired-cohort meta-analysis with dual RNA-seq replication of recurrent transcriptional alterations in hepatocellular carcinoma: reproducibility core. Version v0.1.1-submission. Zenodo; 2026. Concept doi:10.5281/zenodo.23210221.
+Yu S, Wang Z. Paired-cohort meta-analysis with dual RNA-seq replication of recurrent transcriptional alterations in hepatocellular carcinoma: reproducibility core. Version v0.1.1-submission. Zenodo; 2026. doi:10.5281/zenodo.23225515.
 
 If the manuscript changes materially, create a new version rather than overwriting this release.
 

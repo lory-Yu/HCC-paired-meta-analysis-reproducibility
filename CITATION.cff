@@ -4,7 +4,7 @@ title: "Paired-cohort meta-analysis with dual RNA-seq replication of recurrent t
 type: software
 version: "v0.1.1-submission"
 date-released: "2026-10-08"
-doi: "10.5281/zenodo.23210221"
+doi: "10.5281/zenodo.23225515"
 authors:
   - family-names: "Yu"
     given-names: "Simiao"
@@ -22,10 +22,10 @@ keywords:
   - reproducibility
   - bioinformatics
 repository-code: "https://github.com/lory-Yu/HCC-paired-meta-analysis-reproducibility"
-url: "https://doi.org/10.5281/zenodo.23210221"
+url: "https://doi.org/10.5281/zenodo.23225515"
 identifiers:
   - type: doi
-    value: "10.5281/zenodo.23210221"
+    value: "10.5281/zenodo.23225515"
 abstract: >-
   Public reproducibility-core release containing the HCC analysis specification,
   derived discovery and validation tables, source data, executable workflows,
