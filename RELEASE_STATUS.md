@@ -2,7 +2,7 @@
 
 ## Current state
 
-This directory is the locally assembled source of release `v0.2.0-submission`. The public repository is `https://github.com/lory-Yu/HCC-paired-meta-analysis-reproducibility`. Before publication, the release must pass its root checksum verification, analysis assertions and increment-specific privacy audit. The stable Zenodo concept DOI is `https://doi.org/10.5281/zenodo.23210221`; the version DOI will be backfilled only after the new record resolves.
+This directory is the locally assembled source of release `v0.2.0-submission`. The public repository is `https://github.com/lory-Yu/HCC-paired-meta-analysis-reproducibility`. The tagged GitHub snapshot was archived by Zenodo as `https://doi.org/10.5281/zenodo.24433095` on 22 November 2026. The stable concept DOI is `https://doi.org/10.5281/zenodo.23210221`.
 
 ## Included
 
@@ -30,7 +30,7 @@ This directory is the locally assembled source of release `v0.2.0-submission`. T
 1. The authors approved public release on 7 October 2026: original code under MIT and original derived outputs under CC BY 4.0.
 2. Verified ORCID identifiers were not supplied and are therefore left blank rather than inferred.
 3. The prior public version is `v0.1.1-submission` (`10.5281/zenodo.23225515`); it remains immutable.
-4. The v0.2.0 version DOI and repository links will be backfilled only after the Zenodo record becomes publicly resolvable and its files pass a post-publication audit.
+4. The v0.2.0 version DOI and repository links were backfilled after the Zenodo record became publicly resolvable and its downloaded archive passed the checksum, statistical and privacy audits.
 
 ## Integrity
 

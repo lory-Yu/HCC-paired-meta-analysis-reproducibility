@@ -44,9 +44,9 @@ The v0.2.0 denominator and donor-sensitivity assertions can be run with `make ve
 
 ## Citation
 
-The public code repository is `https://github.com/lory-Yu/HCC-paired-meta-analysis-reproducibility`. Release `v0.2.0-submission` will receive a version-specific DOI when Zenodo completes the GitHub release archive; the stable concept DOI for all versions is `https://doi.org/10.5281/zenodo.23210221`.
+The public code repository is `https://github.com/lory-Yu/HCC-paired-meta-analysis-reproducibility`. Release `v0.2.0-submission` is archived at `https://doi.org/10.5281/zenodo.24433095`; the stable concept DOI for all versions is `https://doi.org/10.5281/zenodo.23210221`.
 
-Yu S, Wang Z. Paired cross-platform transcriptomic analysis with dual-cohort validation identifies recurrent tissue-level alterations in hepatocellular carcinoma: research compendium. Version v0.2.0-submission. Zenodo; 2026. Concept DOI: 10.5281/zenodo.23210221.
+Yu S, Wang Z. Paired cross-platform transcriptomic analysis with dual-cohort validation identifies recurrent tissue-level alterations in hepatocellular carcinoma: research compendium. Version v0.2.0-submission. Zenodo; 2026. doi:10.5281/zenodo.24433095.
 
 If the manuscript changes materially, create a new version rather than overwriting this release.
 

@@ -2,7 +2,7 @@
 
 ## Result
 
-**READY_FOR_PUBLICATION_AFTER_AUTOMATED VERIFICATION**
+**PUBLISHED_AND_POSTPUBLICATION_VERIFIED**
 
 The scientific and technical packaging work for `v0.2.0-submission` is complete. On 7 October 2026, the authors approved public release of original code under MIT and original derived outputs under CC BY 4.0. Verified ORCID identifiers were not supplied and remain blank.
 
@@ -38,4 +38,4 @@ The scientific and technical packaging work for `v0.2.0-submission` is complete.
 
 ## DOI boundary
 
-The stable concept DOI is `10.5281/zenodo.23210221`. The version DOI may be written into the manuscript only after the v0.2.0 Zenodo record is published and the archived files pass the post-publication audit.
+The stable concept DOI is `10.5281/zenodo.23210221`. Release `v0.2.0-submission` is published at version DOI `10.5281/zenodo.24433095`. The downloaded Zenodo archive passed the root checksum, statistical and privacy audits before this DOI was written into the manuscript.
