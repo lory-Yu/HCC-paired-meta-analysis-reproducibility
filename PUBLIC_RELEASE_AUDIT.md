@@ -2,9 +2,9 @@
 
 ## Result
 
-**READY_FOR_PUBLIC_UPLOAD**
+**READY_FOR_PUBLICATION_AFTER_AUTOMATED VERIFICATION**
 
-The scientific and technical packaging work is complete. On 7 October 2026, the authors approved public release of original code under MIT and original derived outputs under CC BY 4.0. Verified ORCID identifiers were not supplied and remain blank.
+The scientific and technical packaging work for `v0.2.0-submission` is complete. On 7 October 2026, the authors approved public release of original code under MIT and original derived outputs under CC BY 4.0. Verified ORCID identifiers were not supplied and remain blank.
 
 ## Scientific contents
 
@@ -16,6 +16,9 @@ The scientific and technical packaging work is complete. On 7 October 2026, the 
 - effect-blinded ICGC identifier harmonization and original-symbol sensitivity;
 - Allain 2016 descriptive overlap and public identifier-overlap audits;
 - descriptive single-cell localization output;
+- primary unambiguous 173/167/163 external-validation denominator audit;
+- candidate-family and genome-wide FDR sensitivity (157/155 dual passes);
+- donor-level single-cell sensitivity with 100 tests and zero FDR passes;
 - manuscript figure source data and executable figure builder.
 
 ## Public-sharing boundaries
@@ -24,6 +27,7 @@ The scientific and technical packaging work is complete. On 7 October 2026, the 
 - Source accession identifiers, repository URLs, versions, sizes and input checksums are retained in normalized manifests.
 - No credentials, access tokens, private reviewer links or author-machine absolute paths are included.
 - No project outside the submitted HCC transcriptomic manuscript is included.
+- No submission correspondence, manuscript Word/PDF, internal reports or local absolute paths are included in the v0.2.0 increment.
 
 ## Licence decision and remaining metadata
 
@@ -34,4 +38,4 @@ The scientific and technical packaging work is complete. On 7 October 2026, the 
 
 ## DOI boundary
 
-No DOI exists at this local stage. A DOI may be written into the manuscript only after the Zenodo record is published and the DOI resolves to the checksum-matched public release.
+The stable concept DOI is `10.5281/zenodo.23210221`. The version DOI may be written into the manuscript only after the v0.2.0 Zenodo record is published and the archived files pass the post-publication audit.

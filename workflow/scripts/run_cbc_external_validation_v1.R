@@ -1,5 +1,5 @@
 #!/usr/bin/env Rscript
-# Post-rejection multiplicity reconstruction for TCGA-LIHC and ICGC-LIRI-JP.
+# Secondary multiplicity reconstruction for TCGA-LIHC and ICGC-LIRI-JP.
 # Old validation outputs are read-only. All outputs are written to a new CBC directory.
 
 suppressPackageStartupMessages({
@@ -159,7 +159,7 @@ candidate_results <- function(base, fit_obj, key_name, cohort) {
   ans[, `:=`(
     n_pairs = ifelse(cohort == "TCGA-LIHC", 50L, 199L),
     design = "paired_TMM_voom_patient_fixed_effect",
-    post_rejection_analysis = TRUE
+    secondary_sensitivity_analysis = TRUE
   )]
   ans
 }

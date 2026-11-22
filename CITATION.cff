@@ -1,10 +1,10 @@
 cff-version: 1.2.0
 message: "If you use this research compendium, please cite the archived release and the associated article."
-title: "Paired-cohort meta-analysis with dual RNA-seq replication of recurrent transcriptional alterations in hepatocellular carcinoma: reproducibility core"
+title: "Paired cross-platform transcriptomic analysis with dual-cohort validation identifies recurrent tissue-level alterations in hepatocellular carcinoma: research compendium"
 type: software
-version: "v0.1.1-submission"
-date-released: "2026-10-08"
-doi: "10.5281/zenodo.23225515"
+version: "v0.2.0-submission"
+date-released: "2026-11-22"
+doi: "10.5281/zenodo.23210221"
 authors:
   - family-names: "Yu"
     given-names: "Simiao"
@@ -22,11 +22,12 @@ keywords:
   - reproducibility
   - bioinformatics
 repository-code: "https://github.com/lory-Yu/HCC-paired-meta-analysis-reproducibility"
-url: "https://doi.org/10.5281/zenodo.23225515"
+url: "https://doi.org/10.5281/zenodo.23210221"
 identifiers:
   - type: doi
-    value: "10.5281/zenodo.23225515"
+    value: "10.5281/zenodo.23210221"
 abstract: >-
-  Public reproducibility-core release containing the HCC analysis specification,
-  derived discovery and validation tables, source data, executable workflows,
-  environment specifications and integrity checks. Third-party raw data are not redistributed.
+  Public research compendium containing the HCC analysis specification, derived
+  discovery and validation tables, explicit identifier and denominator audits,
+  donor-level sensitivity outputs, source data, executable workflows, environment
+  specifications and integrity checks. Third-party raw data are not redistributed.

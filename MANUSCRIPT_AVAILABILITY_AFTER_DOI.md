@@ -1,15 +1,15 @@
 # Manuscript availability text to use after the public record is published
 
-Do not paste these statements into the manuscript until the public record resolves and the exact release files have passed checksum verification.
+Do not paste these statements into the manuscript until the v0.2.0 public record resolves and the archived files pass checksum and privacy verification. Replace `VERSION_DOI` with the assigned version DOI.
 
 ## Data availability
 
-All primary data are available from the public repositories and accession numbers reported in the Methods. The analysis protocols, derived result tables, figure source data, identifier-harmonization records, manifests and environment specifications supporting this study are publicly archived in Zenodo at **https://doi.org/10.5281/zenodo.23225515**, release `v0.1.1-submission`. Third-party raw GEO, TCGA-LIHC, ICGC-LIRI-JP and GSE202642 files are not redistributed; their source URLs, versions and checksums are recorded in the archive.
+All primary data are available from public repositories. GEO accession numbers are reported in the Methods. TCGA-LIHC data were obtained through the UCSC Xena GDC hub, ICGC LIRI-JP data from Release 28 of the ICGC open object store, and the single-cell sensitivity dataset from GEO accession GSE202642. Download URLs, access dates, versions and SHA-256 values are provided in the project manifests. Analysis protocols, derived matrices, locked candidate tables, external-validation multiplicity tables, identifier-harmonization audits, single-cell sensitivity outputs and figure source data are publicly archived in Zenodo under release `v0.2.0-submission` (**https://doi.org/10.5281/zenodo.VERSION_DOI**) and mirrored at **https://github.com/lory-Yu/HCC-paired-meta-analysis-reproducibility**. Third-party raw files are not redistributed and remain available from their source repositories under their respective terms.
 
 ## Code availability
 
-The executable analysis, validation, figure-generation and verification code is publicly archived in Zenodo at **https://doi.org/10.5281/zenodo.23225515**, release `v0.1.1-submission`, and mirrored at **https://github.com/lory-Yu/HCC-paired-meta-analysis-reproducibility**. The archived release includes the HCC-only public analysis specification, environment lock files, complete derived statistical tables and a root SHA-256 integrity manifest.
+The complete analysis workflow, environment lock, identifier-harmonization and denominator-verification scripts, figure-generation scripts and release-verification code are available at GitHub and archived in Zenodo under release `v0.2.0-submission` (**https://doi.org/10.5281/zenodo.VERSION_DOI**). The archived release includes a root SHA-256 integrity manifest and a privacy audit. Scripts requiring third-party raw inputs must be rerun after those inputs are reacquired from the source repositories.
 
 ## Dataset citation template
 
-Yu S, Wang Z. Paired-cohort meta-analysis with dual RNA-seq replication of recurrent transcriptional alterations in hepatocellular carcinoma: reproducibility core. Version v0.1.1-submission. Zenodo. 2026. https://doi.org/10.5281/zenodo.23225515
+Yu S, Wang Z. Paired cross-platform transcriptomic analysis with dual-cohort validation identifies recurrent tissue-level alterations in hepatocellular carcinoma: research compendium. Version v0.2.0-submission. Zenodo. 2026. https://doi.org/10.5281/zenodo.VERSION_DOI

@@ -1,0 +1,5 @@
+gene	hist	locked_entrez	other_entrez	severity	decision	rationale
+JPT1	HN1	51155	100462977 (MTRNR2L1 pseudogene)	moderate_db_alias_noise	EXCLUDE_FROM_PRIMARY	org.Hs.eg ALIAS HN1 resolves to two Entrez IDs
+CENPX	STRA13	201254	8553 (BHLHE40)	high_true_historical_homonym	EXCLUDE_FROM_PRIMARY	STRA13 historically used for both CENPX and BHLHE40
+GPAT3	AGPAT9	84803	79888 (LPCAT1)	moderate_db_alias_noise	EXCLUDE_FROM_PRIMARY	ALIAS AGPAT9 resolves to GPAT3 and LPCAT1
+GARS1	GARS	2617	2618 (GART)	moderate_db_alias_noise	EXCLUDE_FROM_PRIMARY	ALIAS GARS resolves to GARS1 and GART

@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Compute descriptive external-concordance metrics for the CBC manuscript.
 
-This is a read-only secondary audit.  It consumes the locked post-rejection
+This is a read-only secondary audit.  It consumes the locked secondary
 external-validation tables and writes new derived tables; it does not change
 candidate locks, discovery results, or manuscript files.
 
@@ -379,7 +379,7 @@ def write_review(
     lines = [
         "# External concordance audit (CBC v1)",
         "",
-        "This is a derived, descriptive audit of the locked post-rejection external-validation tables. It does not alter the discovery analysis, candidate locks, or manuscript files.",
+        "This is a derived, descriptive audit of the locked secondary external-validation tables. It does not alter the discovery analysis or candidate locks.",
         "",
         "## Statistical definitions",
         "",

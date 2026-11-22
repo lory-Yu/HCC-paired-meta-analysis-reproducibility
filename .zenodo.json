@@ -1,6 +1,6 @@
 {
-  "title": "Paired-cohort meta-analysis with dual RNA-seq replication of recurrent transcriptional alterations in hepatocellular carcinoma: reproducibility core",
-  "description": "Public reproducibility-core release containing HCC analysis protocols, derived discovery and validation tables, figure source data, executable workflows, environment specifications and integrity checks. Third-party raw data are not redistributed or relicensed. Original code is licensed under MIT; original derived data and documentation are licensed under CC BY 4.0.",
+  "title": "Paired cross-platform transcriptomic analysis with dual-cohort validation identifies recurrent tissue-level alterations in hepatocellular carcinoma: research compendium",
+  "description": "Public research compendium containing HCC analysis protocols, derived discovery and validation tables, explicit identifier-harmonization and denominator audits, donor-level single-cell sensitivity outputs, figure source data, executable workflows, environment specifications and integrity checks. Third-party raw data are not redistributed or relicensed. Original code is licensed under MIT; original derived data and documentation are licensed under CC BY 4.0.",
   "creators": [
     {
       "name": "Yu, Simiao",
@@ -21,5 +21,14 @@
     "bioinformatics"
   ],
   "upload_type": "software",
-  "access_right": "open"
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "version": "v0.2.0-submission",
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/lory-Yu/HCC-paired-meta-analysis-reproducibility/tree/v0.2.0-submission",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
 }

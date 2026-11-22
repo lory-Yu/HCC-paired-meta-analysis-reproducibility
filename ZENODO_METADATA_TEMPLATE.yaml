@@ -1,11 +1,12 @@
 metadata:
-  title: "Paired-cohort meta-analysis with dual RNA-seq replication of recurrent transcriptional alterations in hepatocellular carcinoma: research compendium"
+  title: "Paired cross-platform transcriptomic analysis with dual-cohort validation identifies recurrent tissue-level alterations in hepatocellular carcinoma: research compendium"
   upload_type: software
-  publication_date: "2026-10-08"
-  version: "0.1.1-submission"
+  publication_date: "2026-11-22"
+  version: "v0.2.0-submission"
   description: >-
     Public reproducibility-core release prepared for journal submission. It contains
-    HCC analysis protocols, derived matrices, locked result tables, figure source data,
+    HCC analysis protocols, derived matrices, locked result tables, explicit identifier
+    and denominator audits, donor-level sensitivity outputs, figure source data,
     executable scripts and environment specifications. Primary GEO, TCGA and ICGC files are not redistributed; their
     accession identifiers, download locations, versions and checksums are recorded
     in the included manifests.
@@ -27,10 +28,10 @@ metadata:
   access_right: open
   license: cc-by-4.0
   notes: >-
-    This is a pre-submission release. Original derived data and documentation are
+    This is a Medical Oncology pre-submission release. Original derived data and documentation are
     released under CC BY 4.0, and original source code is released under the MIT
     License. No third-party raw data are redistributed or relicensed.
   related_identifiers:
-    - identifier: "https://github.com/lory-Yu/HCC-paired-meta-analysis-reproducibility"
+    - identifier: "https://github.com/lory-Yu/HCC-paired-meta-analysis-reproducibility/tree/v0.2.0-submission"
       relation: isSupplementTo
       scheme: url

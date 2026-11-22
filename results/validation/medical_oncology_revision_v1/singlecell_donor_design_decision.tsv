@@ -1,0 +1,13 @@
+item	value
+n_tissue_samples	11
+n_tumour_donors_after_collapsing_tech_reps	6
+n_adjacent_donors_after_collapsing_tech_reps	3
+n_paired_donors_both_tissues	1
+paired_donor_ids	0618
+tech_replicate_note	0706 has 2 tumour samples; 0618 has 2 adjacent samples; collapsed by summing counts within donor×tissue×celltype
+paired_design_supported	FALSE
+unpaired_donor_design_supported	TRUE_WITH_LIMITATIONS
+min_cells_per_donor_unit	20
+min_donors_per_group	3
+model	MannWhitneyU_on_donor_log2CPM_plus1_within_dominant_celltype; edgeR/limma unavailable in runtime
+analysis_label	secondary_donor_unpaired_count_sum_sensitivity

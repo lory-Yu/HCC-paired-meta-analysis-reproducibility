@@ -1,0 +1,10 @@
+metric	value
+high_confidence_genes	173
+donor_unpaired_testable	100
+same_direction	58
+opposite_direction	42
+FDR_lt_0.05	0
+insufficient_donor_units	64
+paired_design_tested	0
+min_cells_per_donor_unit	20
+min_donors_per_group	3

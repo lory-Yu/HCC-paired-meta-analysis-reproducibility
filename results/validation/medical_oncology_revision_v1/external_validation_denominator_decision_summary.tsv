@@ -1,0 +1,14 @@
+analysis	metric	numerator	denominator	note
+primary_unambiguous_harmonized	icgc_estimable	167	173	current-symbol + 30 unambiguous historical aliases; excludes 4 multi-Entrez aliases
+primary_unambiguous_harmonized	jointly_estimable	163	173	
+primary_unambiguous_harmonized	dual_same_direction	162	163	
+primary_unambiguous_harmonized	dual_candidate_family	157	163	ICGC candidate-family BH recalculated after excluding 4 ambiguous
+primary_unambiguous_harmonized	dual_candidate_family_vs_173	157	173	
+primary_unambiguous_harmonized	dual_genomewide	155	163	
+primary_unambiguous_harmonized	dual_genomewide_vs_173	155	173	
+sensitivity_current_symbol_only	jointly_estimable	133	173	original symbol-direct
+sensitivity_current_symbol_only	dual_candidate_family	127	133	
+sensitivity_current_symbol_only	dual_genomewide	125	133	
+sensitivity_all34_including_ambiguous	jointly_estimable	167	173	includes 4 multi-Entrez alias recoveries
+sensitivity_all34_including_ambiguous	dual_candidate_family	161	167	
+sensitivity_all34_including_ambiguous	dual_genomewide	159	167	

@@ -1,22 +1,26 @@
-CBC/HCC public reproducibility-core verification
-Date: 2026-10-08
-Release: 0.1.1-submission
+CBC/HCC public research-compendium verification
+Date: 2026-11-22
+Release: v0.2.0-submission
 
 [PASS] Differential/meta-analysis verification
 [PASS] Sensitivity analysis verification
 [PASS] CBC external validation: full-universe and candidate-family BH recalculation
 [PASS] ICGC identifier-harmonization sensitivity
 [PASS] Targeted revision audit inputs present (Allain comparison and sample-overlap audit)
-[PASS] Public figure builder executed from the standalone release
+[PASS] Medical Oncology revision denominator audit (173/167/163; 157 candidate-family and 155 genome-wide dual passes)
+[PASS] Historical-symbol audit (30 unambiguous aliases; 4 ambiguous aliases excluded from the primary analysis)
+[PASS] Donor-level single-cell sensitivity (100 testable; 0 FDR passes)
+[PASS] Public Fig. 1, Fig. 2 and Fig. 5 builders executed from the standalone release
 [PASS] Supplementary Table S1 rebuilt with count assertions (Table 1 counts reproduced)
 [PASS] Graphical abstract builder: no text overflow; all text >= 5 pt at 13 cm width
+[PASS] Full-snapshot privacy audit (327 files before final manifest; no local paths, private telephone, workspace-assistant label, submission-process field or credential pattern)
 [INFO] GEO metadata audit: archived output; rerun requires GEO_SOFT_DIR
 
 Pre-manifest content audit:
 - third-party raw data file candidates: 0
 - author-machine absolute-path hits: 0
 - out-of-scope project artifact paths: 0
-- contextual historical endpoint-term lines: 9 (prespecification/provenance statements only; no corresponding endpoint artifacts are included)
+- submission manuscript/correspondence files in snapshot: 0
 - credential-pattern hits: 0
 
 The root SHA256SUMS.sha256 file is the final package-integrity check and is generated after the release manifest is finalized.

@@ -1,6 +1,6 @@
 # External concordance audit (CBC v1)
 
-This is a derived, descriptive audit of the locked post-rejection external-validation tables. It does not alter the discovery analysis, candidate locks, or manuscript files.
+This is a derived, descriptive audit of the locked secondary external-validation tables. It does not alter the discovery analysis or candidate locks.
 
 ## Statistical definitions
 

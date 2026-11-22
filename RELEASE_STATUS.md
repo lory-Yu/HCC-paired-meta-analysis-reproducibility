@@ -2,13 +2,16 @@
 
 ## Current state
 
-This directory is the locally assembled source of the checksum-verified public reproducibility-core release. The public repository is `https://github.com/lory-Yu/HCC-paired-meta-analysis-reproducibility`. Tag `v0.1.1-submission`, which adds Supplementary Table S1, the GEO metadata audit and revised manuscript text and figures, was archived by Zenodo as `https://doi.org/10.5281/zenodo.23225515` on 8 October 2026.
+This directory is the locally assembled source of release `v0.2.0-submission`. The public repository is `https://github.com/lory-Yu/HCC-paired-meta-analysis-reproducibility`. Before publication, the release must pass its root checksum verification, analysis assertions and increment-specific privacy audit. The stable Zenodo concept DOI is `https://doi.org/10.5281/zenodo.23210221`; the version DOI will be backfilled only after the new record resolves.
 
 ## Included
 
 - HCC/CBC protocols, change-control records and identifier-harmonization rules;
 - original analysis and verification code plus the locked environment;
 - derived meta-analysis, sensitivity, TCGA/ICGC and single-cell tables;
+- the locked unambiguous identifier analysis with 173 → 167 → 163 denominator accounting;
+- candidate-family and genome-wide FDR sensitivity results (157 and 155 dual-cohort passes);
+- the donor-level single-cell sensitivity (100 testable contrasts; zero FDR passes);
 - GEO sample-characteristics field audit and gene-level Supplementary Table S1;
 - figure source data, figures, manifests and provenance checksums.
 
@@ -18,14 +21,16 @@ This directory is the locally assembled source of the checksum-verified public r
 - full GEO SOFT exports (about 540 MB; contain third-party expression tables);
 - credentials, access tokens, personal data and temporary editor files;
 - all projects and experimental templates outside the submitted HCC article;
-- the private reviewer ZIP and its access instructions.
+- journal correspondence, decision letters, cover letters and private access instructions;
+- manuscript Word/PDF files containing author contact details;
+- the unfiltered revision ZIP, which contains local paths and submission-process material.
 
 ## Author approval and remaining publication metadata
 
 1. The authors approved public release on 7 October 2026: original code under MIT and original derived outputs under CC BY 4.0.
 2. Verified ORCID identifiers were not supplied and are therefore left blank rather than inferred.
-3. GitHub and Zenodo publication completed; the version DOI is `10.5281/zenodo.23225515` and the concept DOI is `10.5281/zenodo.23210221`.
-4. DOI and repository links were backfilled only after the Zenodo record became publicly resolvable.
+3. The prior public version is `v0.1.1-submission` (`10.5281/zenodo.23225515`); it remains immutable.
+4. The v0.2.0 version DOI and repository links will be backfilled only after the Zenodo record becomes publicly resolvable and its files pass a post-publication audit.
 
 ## Integrity
 

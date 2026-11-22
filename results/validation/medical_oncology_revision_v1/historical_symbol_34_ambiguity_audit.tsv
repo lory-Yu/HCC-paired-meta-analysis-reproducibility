@@ -1,0 +1,35 @@
+gene_id	current_symbol	icgc_matrix_symbol	mapping_basis	hist_alias_entrez_ids	n_hist_alias_entrez	official_symbols_resolved_from_hist	orgdb_official_for_entrez	hist_in_icgc_matrix	current_in_icgc_matrix	ambiguity_flags	verdict
+56892	TCIM	C8orf4	Entrez-linked historical alias in frozen matrix	56892	1	TCIM	TCIM	TRUE	FALSE		UNAMBIGUOUS_SAME_GENE
+51660	MPC1	BRP44L	Entrez-linked historical alias in frozen matrix	51660	1	MPC1	MPC1	TRUE	FALSE		UNAMBIGUOUS_SAME_GENE
+112770	GLMP	C1orf85	Entrez-linked historical alias in frozen matrix	112770	1	GLMP	GLMP	TRUE	FALSE		UNAMBIGUOUS_SAME_GENE
+23240	TMEM131L	KIAA0922	Entrez-linked historical alias in frozen matrix	23240	1	TMEM131L	TMEM131L	TRUE	FALSE		UNAMBIGUOUS_SAME_GENE
+51155	JPT1	HN1	Entrez-linked historical alias in frozen matrix	51155|100462977	2	JPT1|MTRNR2L1	JPT1	TRUE	FALSE	hist_alias_maps_to_multiple_entrez:51155|100462977	AMBIGUOUS_MULTI_ENTREZ_ALIAS
+57211	ADGRG6	GPR126	Entrez-linked historical alias in frozen matrix	57211	1	ADGRG6	ADGRG6	TRUE	FALSE		UNAMBIGUOUS_SAME_GENE
+51520	LARS1	LARS	Entrez-linked historical alias in frozen matrix	51520	1	LARS1	LARS1	TRUE	FALSE		UNAMBIGUOUS_SAME_GENE
+6921	ELOC	TCEB1	Entrez-linked historical alias in frozen matrix	6921	1	ELOC	ELOC	TRUE	FALSE		UNAMBIGUOUS_SAME_GENE
+201254	CENPX	STRA13	Entrez-linked historical alias in frozen matrix	8553|201254	2	BHLHE40|CENPX	CENPX	TRUE	FALSE	hist_alias_maps_to_multiple_entrez:8553|201254	AMBIGUOUS_MULTI_ENTREZ_ALIAS
+254863	TMEM256	C17orf61	Entrez-linked historical alias in frozen matrix	254863	1	TMEM256	TMEM256	TRUE	FALSE		UNAMBIGUOUS_SAME_GENE
+84803	GPAT3	AGPAT9	Entrez-linked historical alias in frozen matrix	79888|84803	2	LPCAT1|GPAT3	GPAT3	TRUE	FALSE	hist_alias_maps_to_multiple_entrez:79888|84803	AMBIGUOUS_MULTI_ENTREZ_ALIAS
+2058	EPRS1	EPRS	Entrez-linked historical symbol selected over ambiguous QARS alias	2058	1	EPRS1	EPRS1	TRUE	FALSE		UNAMBIGUOUS_SAME_GENE
+3491	CCN1	CYR61	Entrez-linked historical alias in frozen matrix	3491	1	CCN1	CCN1	TRUE	FALSE		UNAMBIGUOUS_SAME_GENE
+401466	RBIS	C8orf59	Entrez-linked historical alias in frozen matrix	401466	1	RBIS	RBIS	TRUE	FALSE		UNAMBIGUOUS_SAME_GENE
+57648	NHSL3	KIAA1522	Entrez-linked historical alias in frozen matrix	57648	1	NHSL3	NHSL3	TRUE	FALSE		UNAMBIGUOUS_SAME_GENE
+84141	EVA1A	FAM176A	Entrez-linked historical alias in frozen matrix	84141	1	EVA1A	EVA1A	TRUE	FALSE		UNAMBIGUOUS_SAME_GENE
+51001	MTERF3	MTERFD1	Entrez-linked historical alias in frozen matrix	51001	1	MTERF3	MTERF3	TRUE	FALSE		UNAMBIGUOUS_SAME_GENE
+9897	WASHC5	KIAA0196	Entrez-linked historical alias in frozen matrix	9897	1	WASHC5	WASHC5	TRUE	FALSE		UNAMBIGUOUS_SAME_GENE
+3015	H2AZ1	H2AFZ	Entrez-linked historical alias in frozen matrix	3015	1	H2AZ1	H2AZ1	TRUE	FALSE		UNAMBIGUOUS_SAME_GENE
+282969	FUOM	C10orf125	Entrez-linked historical alias in frozen matrix	282969	1	FUOM	FUOM	TRUE	FALSE		UNAMBIGUOUS_SAME_GENE
+54463	RETREG1	FAM134B	Entrez-linked historical alias in frozen matrix	54463	1	RETREG1	RETREG1	TRUE	FALSE		UNAMBIGUOUS_SAME_GENE
+2617	GARS1	GARS	Entrez-linked historical symbol selected over ambiguous SMAD1 alias	2617|2618	2	GARS1|GART	GARS1	TRUE	FALSE	hist_alias_maps_to_multiple_entrez:2617|2618	AMBIGUOUS_MULTI_ENTREZ_ALIAS
+10247	RIDA	HRSP12	Entrez-linked historical alias in frozen matrix	10247	1	RIDA	RIDA	TRUE	FALSE		UNAMBIGUOUS_SAME_GENE
+133686	NADK2	NADKD1	Entrez-linked historical alias in frozen matrix	133686	1	NADK2	NADK2	TRUE	FALSE		UNAMBIGUOUS_SAME_GENE
+144363	ETFRF1	LYRM5	Entrez-linked historical alias in frozen matrix	144363	1	ETFRF1	ETFRF1	TRUE	FALSE		UNAMBIGUOUS_SAME_GENE
+134548	SOWAHA	ANKRD43	Entrez-linked historical alias in frozen matrix	134548	1	SOWAHA	SOWAHA	TRUE	FALSE		UNAMBIGUOUS_SAME_GENE
+203111	ERICH5	C8orf47	Entrez-linked historical alias in frozen matrix	203111	1	ERICH5	ERICH5	TRUE	FALSE		UNAMBIGUOUS_SAME_GENE
+284422	SMIM24	C19orf77	Entrez-linked historical alias in frozen matrix	284422	1	SMIM24	SMIM24	TRUE	FALSE		UNAMBIGUOUS_SAME_GENE
+85236	H2BC12	HIST1H2BK	Entrez-linked historical alias in frozen matrix	85236	1	H2BC12	H2BC12	TRUE	FALSE		UNAMBIGUOUS_SAME_GENE
+123264	SLC51B	OSTBETA	Entrez-linked historical alias in frozen matrix	123264	1	SLC51B	SLC51B	TRUE	FALSE		UNAMBIGUOUS_SAME_GENE
+8334	H2AC6	HIST1H2AC	Entrez-linked historical alias in frozen matrix	8334	1	H2AC6	H2AC6	TRUE	FALSE		UNAMBIGUOUS_SAME_GENE
+140828	LINC00261	NCRNA00261	Entrez-linked historical alias in frozen matrix	140828	1	LINC00261	LINC00261	TRUE	FALSE		UNAMBIGUOUS_SAME_GENE
+54855	TENT5C	FAM46C	Entrez-linked historical alias in frozen matrix	54855	1	TENT5C	TENT5C	TRUE	FALSE		UNAMBIGUOUS_SAME_GENE
+64757	MTARC1	MOSC1	Entrez-linked historical alias in frozen matrix	64757	1	MTARC1	MTARC1	TRUE	FALSE		UNAMBIGUOUS_SAME_GENE

@@ -8,6 +8,11 @@ tcga_icgc_results	YES	Publish derived effect tables and manifests only	Primary f
 single_cell_results	YES	Publish localization tables and cell metadata derived from public data	Supports descriptive localization
 metadata_field_audit	YES	Publish GEO sample-characteristics audit script and output	Documents the GSE121248 sex/age label transposition used in the manuscript
 supplementary_table_s1	YES	Publish gene-level Supplementary Table S1 and its builder	Makes every Table 1 count reproducible at gene level
+medical_oncology_identifier_audit	YES	Publish the unambiguous mapping table and historical-symbol decisions	Makes the 173 to 167 to 163 denominator traceable
+multiplicity_sensitivity	YES	Publish candidate-family and genome-wide FDR outputs	Prevents presenting different statistical families as equivalent
+single_cell_donor_sensitivity	YES	Publish donor-level count-sum results and the negative-result summary	Documents a secondary sensitivity without implying mechanism
+submission_correspondence	NO	Exclude decision letters, cover letters and response reports	Not part of the scientific data record and may contain private context
+manuscript_word_pdf	NO	Exclude submission documents from the data archive	Avoids duplicating author contact details and journal-process material
 raw_geo_tcga_icgc_files	NO	Provide accession and download manifests only	Third-party public files should not be redundantly redistributed
 author_credentials_or_tokens	NO	Never include	Security and privacy
 temporary_word_lock_files	NO	Exclude files beginning with .~	Not part of the scientific record
